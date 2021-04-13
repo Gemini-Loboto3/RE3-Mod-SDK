@@ -53,24 +53,24 @@ void CFile::GetFinalPath()
 	}
 }
 
-DWORD CFile::Read(LPVOID buffer, DWORD size)
+DWORD CFile::Read(LPVOID buffer, size_t size)
 {
 	DWORD read;
-	ReadFile(handle, buffer, size, &read, NULL);
+	ReadFile(handle, buffer, (DWORD)size, &read, NULL);
 	return read;
 }
 
-DWORD CFile::Write(LPVOID buffer, DWORD size)
+DWORD CFile::Write(LPVOID buffer, size_t size)
 {
 	DWORD wrote;
-	WriteFile(handle, buffer, size, &wrote, NULL);
+	WriteFile(handle, buffer, (DWORD)size, &wrote, NULL);
 	return wrote;
 }
 
-DWORD CFile::Seek(__int64 position, DWORD from)
+DWORD CFile::Seek(__int64 position, size_t from)
 {
 	LARGE_INTEGER li;
 	li.QuadPart = position;
 
- 	return SetFilePointer(handle, li.LowPart, &li.HighPart, from);
+ 	return SetFilePointer(handle, li.LowPart, &li.HighPart, (DWORD)from);
 }

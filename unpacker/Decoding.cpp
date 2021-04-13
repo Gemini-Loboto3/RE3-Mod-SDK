@@ -1,6 +1,8 @@
 ﻿#include "stdafx.h"
 #include <string>
 
+size_t u8_wc_toutf8(char* dest, uint32_t ch);
+
 static std::wstring encode =
 {
 	L" .►@@()@@«»@012345"	// 00
@@ -33,7 +35,9 @@ std::string DecodeString(u8 *data, u8 **last)
 		switch (c)
 		{
 		case 0xee:	// upper ranges
-			str += encode[*data++ + 0xea];
+			//str += encode[*data++ + 0xea];
+			u8_wc_toutf8(temp, encode[*data++ + 0xea]);
+			str += temp;
 			break;
 		case 0xef:
 		case 0xf0:
@@ -89,9 +93,11 @@ std::string DecodeString(u8 *data, u8 **last)
 		case 0xff: // ??
 			break;
 		default:
-			if (encode[c] & 0x80)
-				str += "\xC2";
-			str += encode[c];
+			u8_wc_toutf8(temp, encode[c]);
+			str += temp;
+			//if (encode[c] & 0x80)
+			//	str += "\xC2";
+			//str += encode[c];
 		}
 	}
 

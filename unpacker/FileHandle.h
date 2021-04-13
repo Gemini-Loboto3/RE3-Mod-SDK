@@ -22,9 +22,9 @@ public:
 
 	__inline const char* GetOpenPath() { return open_path.c_str(); }
 
-	DWORD Read(LPVOID buffer, DWORD size);
-	DWORD Write(LPVOID buffer, DWORD size);
-	DWORD Seek(__int64 position, DWORD from);
+	DWORD Read(LPVOID buffer, size_t size);
+	DWORD Write(LPVOID buffer, size_t size);
+	DWORD Seek(__int64 position, size_t from);
 
 	__inline bool IsOpen() { return handle != INVALID_HANDLE_VALUE; }
 

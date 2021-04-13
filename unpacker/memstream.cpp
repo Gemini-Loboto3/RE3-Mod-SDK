@@ -156,14 +156,14 @@ void CMemStream::WriteQuick(void *data, size_t size)
 	}
 
 	memcpy(&str.data[str.pos], data, size);
-	str.pos += size;
+	str.pos += (int)size;
 	if (str.pos > str.size)
 		str.size = str.pos;
 }
 
 void CMemStream::Write(void *data, size_t size)
 {
-	MemStreamWrite(&str, data, size);
+	MemStreamWrite(&str, data, (int)size);
 }
 
 void CMemStream::Write(u16 val)
@@ -173,7 +173,7 @@ void CMemStream::Write(u16 val)
 
 void CMemStream::Seek(size_t pos, int mode)
 {
-	MemStreamSeek(&str, pos, mode);
+	MemStreamSeek(&str, (int)pos, mode);
 }
 
 size_t CMemStream::Tell()

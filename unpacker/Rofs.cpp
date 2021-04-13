@@ -164,7 +164,7 @@ void CreateDirectoryRecursively(std::string path)
 	unsigned int pos = 0;
 	do
 	{
-		pos = path.find_first_of("\\/", pos + 1);
+		pos = (UINT)path.find_first_of("\\/", (size_t)pos + 1);
 		CreateDirectoryA(path.substr(0, pos).c_str(), NULL);
 	} while (pos != std::string::npos);
 }

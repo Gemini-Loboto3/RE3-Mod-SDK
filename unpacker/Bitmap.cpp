@@ -448,7 +448,7 @@ void CBitmap::SavePng(LPCSTR name)
 		}
 	}
 
-	lodepng::encode(name, (u8*)image, this->w, this->h, LCT_RGBA);
+	lodepng::encode(name, (u8*)image, (UINT)this->w, (UINT)this->h, LCT_RGBA);
 
 	delete[] image;
 }
@@ -555,7 +555,7 @@ void CEmBitmap::OpenTim(int Id, u8 *pTim)
 	for (size_t i = 0; i < cnt; i++)
 	{
 		CBitmap *b = new CBitmap;
-		b->CreateFromTim(pTim, i);
+		b->CreateFromTim(pTim, (int)i);
 		dump.push_back(b);
 	}
 
@@ -587,7 +587,7 @@ void CEmBitmap::OpenTim(int Id, u8 *pTim)
 				canvas->Create(256, 256);
 			}
 			// copy a 128x256 page as a slice
-			canvas->Blt(*dump[i], x, 0, x % 256, 0, 128, 256);
+			canvas->Blt(*dump[i], (int)x, 0, (int)x % 256, 0, 128, 256);
 			// push every 2 128x256 pages
 			if ((i % 2) == 1)
 			{
@@ -621,7 +621,7 @@ void CEmBitmap::OpenTim(int Id, u8 *pTim)
 
 void CEmBitmap::OpenPng(CBitmap &png)
 {
-	int count = align(png.w, 256) / 256;
+	int count = align((int)png.w, 256) / 256;
 
 	for (int i = 0; i < count; i++)
 	{
