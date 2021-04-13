@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}la finestra è stata \nchiusa con assi.</Text>
+    <Text>{scroll 2}\n  </Text>
+    <Text>{scroll 2}Una tromba di ventilazione.\nÈ buio dentro.</Text>
+    <Text>{scroll 2}\nC'è qualcosa scritto qui.{clear 0}{scroll 2}‟Si prega di fare silenzio\ndurante le riunioni!”</Text>
+    <Text>{scroll 2}\nNulla di importante.</Text>
+    <Text>{scroll 2}La porta è fortemente\nbarricata.</Text>
+</Strings>

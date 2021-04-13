@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}His flesh was apparently\nbitten off or devoured.</Text>
+    <Text>{scroll 2}{cut 6}{snd 22}It's been bound tight with\nrope and won't open.{clear 0}The rope seems to be\nsoaked with oil.</Text>
+    <Text>{scroll 2}You can't use the lighter\nwithout oil.</Text>
+</Strings>

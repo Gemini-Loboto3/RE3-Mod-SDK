@@ -1,0 +1,16 @@
+﻿<Strings>
+    <Text>{scroll 2}\nAppunti sugli esperimenti.{clear 0}‟Controlla la porzione\nsenza onde mentre {clear 0}\nimposti i dati.”</Text>
+    <Text>{scroll 2}Un congegno per verificare\nla qualità dell'acqua.{clear 0}Sembra che ci sia bisogno\ndi un campione d'acqua.</Text>
+    <Text>{scroll 2}Un congegno per verificare\nla qualità dell'acqua.{clear 0}Vuoi azionarlo?\n{branch 0}</Text>
+    <Text>{scroll 2}Che lunghezza d'onda vuoi\nmodificare?{branch 64}A{live}B{live}C{live}Annulla{live}</Text>
+    <Text>{scroll 2}In che direzione intendi\nspostarla?{clear 0}\n{branch 64}Sx{live}Dx{live}Controlla{live}Indietro{live}</Text>
+    <Text>{scroll 2}Sembra che la serratura \nsia stata sbloccata. </Text>
+    <Text>{scroll 2}Dei raggi ultravioletti\nsono applicati all'acqua.</Text>
+    <Text>{scroll 2}C'è un minuscolo spazio\ndove può essere infilata{clear 0}\nuna scheda di plastica.</Text>
+    <Text>{scroll 2}‟Allarme inquinamento \nacqua... Completamento{clear 0}del blocco del passaggio\ndell'area d'abolizione.”{clear 0}‟Per sicurezza la \nserratura non sarà {clear 0}sbloccata sino a \nquando non verrà {clear 0}effettuata una verifica\nmanuale.”</Text>
+    <Text>{scroll 2}La serratura è \nstata sbloccata.</Text>
+    <Text>{scroll 2}Il grafico è differente\ndal campione.</Text>
+    <Text>{scroll 2}In che direzione intendi\nspostarla?{clear 0}\n{branch 65}Sx{live}Dx{live}Controlla{live}Indietro{live}</Text>
+    <Text>{scroll 2}‟Il controllo dell'acqua\nha passato il livello di{clear 0}\nsicurezza.”</Text>
+    <Text>{scroll 2}\n‟Controllo acqua: OK.”</Text>
+</Strings>

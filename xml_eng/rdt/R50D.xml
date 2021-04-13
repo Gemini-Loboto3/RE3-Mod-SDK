@@ -1,0 +1,36 @@
+﻿<Strings>
+    <Text>{scroll 2}This is one of Umbrella's\ndeadly bio-weapons.</Text>
+    <Text>{scroll 2}There was an explosion. \nThe door won't move.</Text>
+    <Text>{scroll 2}A power distribution unit \nthat is not working now.</Text>
+    <Text>{scroll 2}Power is going outside. \nIt cannot be unlocked now.</Text>
+    <Text>{scroll 0}{branch 160}Exterminate the monster.{live}Ignore it and evacuate.{live}</Text>
+    <Text>{scroll 2}This door does not seem \nto function anymore.</Text>
+    <Text>{scroll 2}         \n   </Text>
+    <Text>{scroll 2}A control panel to manage \nthe emergency power. {clear 0}‟Supply all the power to \nthe external devices.”</Text>
+    <Text>{scroll 2}Display of the power \nsupply program.{clear 0}‟Cannot supply power to \nthe external devices.”</Text>
+    <Text>{scroll 2}A transportation pod. \nIt is marked as ‟T”. </Text>
+    <Text>{scroll 2}A corpse of a US Special \nForces member. </Text>
+    <Text>{scroll 2}     \n</Text>
+    <Text>{scroll 2}The circuit's core part. \nA huge cable connects it.</Text>
+    <Text>{scroll 2}A power distribution unit \nthat is marked as ‟1”.</Text>
+    <Text>{scroll 2}A power distribution unit \nthat is marked as ‟2”. </Text>
+    <Text>{scroll 2}A power distribution unit \nthat is marked as ‟3”.</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 152}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 164}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 158}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 142}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 158}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 144}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 194}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 138}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 231}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 152}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 34}</Text>
+</Strings>

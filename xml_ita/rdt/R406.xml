@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}\n‟Montagne di Arklay”</Text>
+    <Text>{scroll 2}È chiusa con una serratura\na combinazione.{clear 0}{scroll 2}Prima cifra?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Esci{live}</Text>
+    <Text>{scroll 2}Seconda cifra?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Esci{live}</Text>
+    <Text>{scroll 2}Terza cifra?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Esci{live}</Text>
+    <Text>{scroll 2}\nNient'altro.</Text>
+    <Text>{scroll 2}Sembra che qualcosa\nè stata messa qui...</Text>
+</Strings>

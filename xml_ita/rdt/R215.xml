@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}{branch 160}Salta fuori dalla finestra.{live}Usa il freno d'emergenza.{live}</Text>
+    <Text>{scroll 2}Ora non puoi scendere dal\ntreno.</Text>
+    <Text>{scroll 0}Jill...  \nEsci dalla funivia.  Ora!!!{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}\nMikhail, Aspetta!  No!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Vai fuori di qui!  \nMuoviti!!!{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nMikhail...{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n  {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Diamine! \nI freni non funzionano!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nDeve essere lui!{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}\nÈ inutile.{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 103}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+</Strings>

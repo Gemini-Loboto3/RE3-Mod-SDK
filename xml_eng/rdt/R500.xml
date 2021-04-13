@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}It is electronically\nlocked.</Text>
+    <Text>{scroll 2}There is a {color 1}Card Key{color 0}\nreader.</Text>
+    <Text>{scroll 2}Emergency lock is \nactivated.</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 85}</Text>
+    <Text>{scroll 2}You no longer need this\n{color 1}Card Key{color 0}.{clear 0}Will you discard it?\n{branch 0}</Text>
+</Strings>

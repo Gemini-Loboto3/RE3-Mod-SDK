@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}A mercenary's corpse. He \nmight have died fighting. </Text>
+    <Text>{scroll 2}It seems to be an old \nmusic box.{clear 0}{scroll 2}There is something written\non the lid.{clear 0}\n‟u d u u d u”</Text>
+    <Text>{scroll 2}An old music box. Its \nmelody is out of order.{clear 0}{scroll 2}There is something written\non the lid.{clear 0}\n‟d u d d u d”</Text>
+    <Text>{scroll 2}He is holding something in \nhis hand.</Text>
+</Strings>

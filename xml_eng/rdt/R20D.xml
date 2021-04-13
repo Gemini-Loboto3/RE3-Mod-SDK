@@ -1,0 +1,28 @@
+﻿<Strings>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 31}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 27}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 33}</Text>
+    <Text>{scroll 2}It's a storage to maintain\nthe temperature level of{clear 0}                  \nthe oil.</Text>
+    <Text>{scroll 2}It's a storage to maintain\nthe temperature level of{clear 0}                  \nthe oil.{clear 0}Will you operate the\nelectronic lock?{branch 0}</Text>
+    <Text>{scroll 2}It's a storage to maintain\nthe temperature level of{clear 0}                  \nthe oil.{clear 0}Nothing seems to be\nuseful here.</Text>
+    <Text>{scroll 2}                  \nCar wash equipment.</Text>
+    <Text>{scroll 2}                  \nAn untidy counter.</Text>
+    <Text>{scroll 2}Painting equipment is\nstored here.</Text>
+    <Text>{scroll 2}                  \nNothing special.</Text>
+    <Text>{scroll 2}It is soaked with \nmachine oil.</Text>
+    <Text>{scroll 2}Carlos is watching\noutside.</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 42}</Text>
+</Strings>

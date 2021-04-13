@@ -1,0 +1,24 @@
+﻿<Strings>
+    <Text>{scroll 2}\nCarlos è privo di sensi.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\n      @-@-@       {timed 72}</Text>
+    <Text>{scroll 0}\n{timed 91}</Text>
+    <Text>{scroll 0}\nJill!{timed 30}</Text>
+    <Text>{scroll 0}\n{timed 81}</Text>
+    <Text>{scroll 0}\n{timed 24}</Text>
+    <Text>{scroll 0}\n{timed 76}</Text>
+    <Text>{scroll 0}\nJill...!{timed 30}</Text>
+    <Text>{scroll 0}\nCarlos...{timed 40}</Text>
+    <Text>{scroll 0}\nHey!  Non morire...{timed 78}</Text>
+    <Text>{scroll 0}\n{timed 49}</Text>
+    <Text>{scroll 0}Jill!!!\nCoraggio!{timed 69}</Text>
+    <Text>{scroll 0}\nChe cosa ho fatto?!{timed 48}</Text>
+    <Text>{scroll 0}Mi spiace Jill... \nPer favore! Svegliati!{timed 140}</Text>
+</Strings>

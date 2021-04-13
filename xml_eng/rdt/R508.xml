@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nThe door is solidly locked.</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 216}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 176}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 168}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 168}</Text>
+    <Text>{scroll 2}\nA large size refrigerator.{clear 0}There are claw marks that\nindicate that something{clear 0}tried to crack it open\nfrom inside.</Text>
+    <Text>{scroll 2}It seems to be a part of\nthe electrical equipment.{clear 0}There's nothing suspicious\nabout it.</Text>
+    <Text>{scroll 2}The inside of the wall is\nexposed here.{clear 0}Someone seems to have been\nworking on the wiring.</Text>
+    <Text>{scroll 2}\n‟Treatment in progress.”</Text>
+    <Text>{scroll 2}‟Please insert a {color 1}System \nDisk{color 0} to unlock.”</Text>
+    <Text>{scroll 0}\n                  {clear 162}\n                  {scroll 1}{timed 170}</Text>
+</Strings>

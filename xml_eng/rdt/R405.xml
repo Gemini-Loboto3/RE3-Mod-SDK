@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}Which floor will you move\nto?{branch 64}1F{live}B3{live}Open{live}Cancel{live}</Text>
+    <Text>{scroll 2}\nThe door won't close!</Text>
+    <Text>{scroll 2}\nYou're too busy for that!</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nA stand for infusions.</Text>
+    <Text>{scroll 2}‟Be careful not to\noveruse the medicine.”</Text>
+    <Text>{scroll 2}‟Make sure that you return\nthe materials to their{clear 0}original positions after\ninspection.”</Text>
+</Strings>

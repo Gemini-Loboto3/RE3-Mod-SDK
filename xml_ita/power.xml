@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 2}Primo interruttore.\n{branch 64}Rosso{live}Blu{live}Azzera{live}Annulla{live}</Text>
+    <Text>{scroll 2}Secondo interruttore.\n{branch 64}Rosso{live}Blu{live}Azzera{live}Annulla{live}</Text>
+    <Text>{scroll 2}Terzo interruttore.\n{branch 64}Rosso{live}Blu{live}Azzera{live}Annulla{live}</Text>
+    <Text>{scroll 2}Quarto interruttore.\n{branch 64}Rosso{live}Blu{live}Azzera{live}Annulla{live}</Text>
+    <Text>0</Text>
+    <Text>1</Text>
+    <Text>2</Text>
+    <Text>3</Text>
+    <Text>4</Text>
+    <Text>5</Text>
+    <Text>6</Text>
+    <Text>7</Text>
+    <Text>8</Text>
+    <Text>9</Text>
+    <Text>-</Text>
+</Strings>

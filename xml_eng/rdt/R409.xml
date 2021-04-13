@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}Hand trucks and old \nobservation devices.</Text>
+    <Text>{scroll 2}Which floor will you move\nto?{branch 64}4F{live}1F{live}Open{live}Cancel{live}</Text>
+    <Text>{scroll 2}\nThe door won't close!</Text>
+    <Text>{scroll 2}\nYou're too busy for that!</Text>
+    <Text>{scroll 2}Large machines are\nbuilt into the wall.</Text>
+</Strings>

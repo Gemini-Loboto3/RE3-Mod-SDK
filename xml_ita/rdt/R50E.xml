@@ -1,0 +1,30 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\nJill!{timed 33}</Text>
+    <Text>{scroll 0}\nQui!{timed 30}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}Guarda Jill! Sta arrivando \nl'elicottero! {timed 92}</Text>
+    <Text>{scroll 0}\n{timed 39}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\nÈ finita Carlos... {timed 49}</Text>
+    <Text>{scroll 0}Di cosa stai parlando?! \nNon lo senti?! {timed 75}</Text>
+    <Text>{scroll 0}\nC'è un secondo elicottero... {timed 43}</Text>
+    <Text>{scroll 0}Ma chi è? \nChi potrebbe cercarmi? {timed 110}</Text>
+    <Text>{scroll 0}Non importa! Dobbiamo solo \nessere lì quando atterrerà!{timed 102}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+</Strings>

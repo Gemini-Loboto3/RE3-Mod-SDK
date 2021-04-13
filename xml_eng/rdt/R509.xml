@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>{scroll 2}The faucet is too tight \nto turn.</Text>
+    <Text>{scroll 2}It is electronically\nlocked.</Text>
+    <Text>{scroll 2}\nThere is a {color 1}Card Key{color 0} reader.</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n{clear 0}{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 232}</Text>
+</Strings>

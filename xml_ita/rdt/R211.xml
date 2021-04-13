@@ -1,0 +1,28 @@
+﻿<Strings>
+    <Text>{scroll 2}È chiusa da una \nsemplice serratura.</Text>
+    <Text>{scroll 2}È chiusa da una \nsemplice serratura.{clear 0}Vuoi usare il {color 1}{string 0}{color 0}?\n{branch 0}</Text>
+    <Text>{scroll 2}Il gas infiammabile si sta\nspandendo.</Text>
+    <Text>{scroll 2}                  \nLa lampada è accesa.</Text>
+    <Text>{scroll 2}La situazione delle scorte\ndi cibo è scritta qui.</Text>
+    <Text>{scroll 2}                  \nUn coperchio pesante.{clear 0}C'è un buco dove è \npossibile agganciare{clear 0}\nqualcosa.</Text>
+    <Text>{scroll 2}Sembra che manchi la\nlinea.</Text>
+    <Text>{scroll 2}                  \nNiente di sospetto.</Text>
+    <Text>{scroll 2}Sembra essere un \ninterruttore per {clear 0}\nil canale di scolo.</Text>
+    <Text>{scroll 2}Sembra essere un \ninterruttore per {clear 0}\nil canale di scolo.{clear 0}Vuoi premere \nl'interruttore?{branch 0}</Text>
+    <Text>{scroll 2}                  \n                  {clear 0}                  \n                  </Text>
+    <Text>{scroll 2}Sotto puoi vedere la \nsuperficie dell'acqua.</Text>
+    <Text>{scroll 0}                  \n                  {clear 36}                  \nChe cos'è!?{scroll 1}{timed 31}</Text>
+    <Text>{scroll 0}Si calmi signora. \nNon sono uno zombi.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Mi chiamo Carlos, \ncaporalmaggiore della{clear 67}Forza di Contromisura\nBiologica di Umbrella.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Qual'è il suo \nnome, signora?{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\nJill... {clear 38}Hai detto che appartieni\nall'esercito di Umbrella?{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}Si, siamo venuti fin \nqui per portare in {clear 50}\nsalvo i cittadini.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Ma la missione andò \nmale da quando atterrammo...{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Impossibile! \nCome ha fatto a trovarmi!{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}{branch 160}Corri nel seminterrato.{live}Nasconditi nella cucina.{live}</Text>
+    <Text>{scroll 0}                  \nQui!{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}                  \nSei pazza? {clear 38}Avresti potuto \nabbrustolirci entrambi!{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}                  \nDa questa parte!{scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 220}</Text>
+</Strings>

@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}There is nothing strange\nabout it.</Text>
+    <Text>{scroll 2}\nAn emergency light.</Text>
+    <Text>{scroll 2}Various medicines are\nplaced here.</Text>
+    <Text>{scroll 2}There are numerous numbers\nof medical cards.</Text>
+    <Text>{scroll 2}\nNothing suspicious.</Text>
+    <Text>{scroll 2}The curtain is closed and\nI cannot see the room{clear 0}\nnext door.</Text>
+</Strings>

@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}È Brad Vickers, membro \ndell'Alpha Team della ＳＴＡＲＳ.{clear 0}{scroll 2}Il suo volto è stato\ndecimato.</Text>
+    <Text>{scroll 0}{branch 160}Combatti contro il mostro.{live}Entra nella stazione di polizia.{live}</Text>
+</Strings>

@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}Regulations regarding the\nusage of this parking area{clear 0}\nare written here.</Text>
+    <Text>{scroll 2}It's blocked by a strong\nbarricade.</Text>
+    <Text>{scroll 2}There is a wrecked car\nblocking the way.</Text>
+    <Text>{scroll 2}\n‟Parking Entrance”</Text>
+    <Text>{scroll 2}Nothing especially strange\nhere.</Text>
+    <Text>{scroll 2}He was apparently bitten \nin the neck until he died.</Text>
+</Strings>

@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}A light can be seen from\nthe back of the fireplace.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Maintenance tools are\nplaced here.</Text>
+    <Text>{scroll 2}Cleaning instruments are \nhung here.</Text>
+    <Text>{scroll 2}\nDeserted alcohol bottles.</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 103}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 174}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{clear 120}{scroll 0}\n                  {scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 178}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{clear 154}{scroll 0}\n                  {scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 126}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 49}</Text>
+    <Text>{scroll 2}There's firewood which\ncould catch on fire.{clear 0}Wind is blowing in from \nthe back of the fireplace.</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 288}</Text>
+    <Text>{scroll 2}You no longer need this\n{color 1}Lighter{color 0}.{clear 0}Will you discard it?\n{branch 0}</Text>
+</Strings>

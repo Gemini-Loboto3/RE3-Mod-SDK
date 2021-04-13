@@ -1,0 +1,74 @@
+﻿<Strings>
+    <Text>Una vecchia macchina da \nscrivere.{clear 0}Potrei salvare i miei progressi \nse avessi un {color 1}nastro{color 0}.</Text>
+    <Text>Una vecchia macchina da \nscrivere.{clear 0}\nPuoi salvare i tuoi progressi.{clear 0}Vuoi usare il {color 1}nastro{color 0} \nd'inchiostro? {branch 0}</Text>
+    <Text>\n</Text>
+    <Text>\n{clear 0}\n{branch 0}</Text>
+    <Text>\nNon c'è nient'altro.</Text>
+    <Text>Hai usato:\n{color 1}{string 0}{color 0}.</Text>
+    <Text>\nQuesto è:  {color 1}{string 0}{color 0}.</Text>
+    <Text>\nQui crescono {color 1}erbe blu{color 0}.{clear 0}Vuoi utilizzarle? \n{branch 0}</Text>
+    <Text>\nHai usato:{color 1}erbe blu{color 0}.</Text>
+    <Text>\nNon ne ho bisogno ora.</Text>
+    <Text>Vuoi salire la scala?\n{branch 0}</Text>
+    <Text>Vuoi scendere la scala?\n{branch 0}</Text>
+    <Text>\nLa porta non si apre!</Text>
+    <Text>\nAn old typewriter.{clear 0}I could save my progress \nif I had an {color 1}Ink Ribbon{color 0}.{clear 0}You can not save your \ngame in this preview.</Text>
+    <Text>\nQuesta chiave è ora inutile.{clear 0}Vuoi lasciarla?\n{branch 0}</Text>
+    <Text>\nQuesta chiave è ora inutile.{clear 0}Vuoi lasciarla?\n{branch 0}</Text>
+    <Text>\nQuesta chiave è ora inutile.{clear 0}Vuoi lasciarla?\n{branch 0}</Text>
+    <Text>\nHai aperto la serratura.</Text>
+    <Text>\nÈ chiusa dall'altro lato.</Text>
+    <Text>È chiusa da una semplice \nserratura.</Text>
+    <Text>\nÈ l'uscita secondaria.{clear 0}\nÈ chiusa.</Text>
+    <Text>\nÈ chiusa.{clear 0}\nIl cartello dice, ‟402.”</Text>
+    <Text>\nÈ chiusa.{clear 0}Devi usare la {color 1}chiave ＳＴＡＲＳ{color 0} \nper aprirla.</Text>
+    <Text>\nLa porta non si apre!</Text>
+    <Text>\nÈ chiusa.</Text>
+    <Text>\nÈ chiusa.{clear 0}Sotto la toppa è impresso\nun orologio.</Text>
+    <Text>\nÈ chiusa.{clear 0}Sotto la toppa è impresso \nil Dio del Tempo.</Text>
+    <Text>\nÈ chiusa.</Text>
+    <Text>È il cancello principale del\nparco di Raccoon.{clear 0}\nÈ chiuso.</Text>
+    <Text>\nÈ chiusa.{clear 0}Il cartello dice, ‟Cimitero \ndel parco di Raccoon.”</Text>
+    <Text>{cut 8}È il cancello posteriore\ndel parco di Raccoon.{clear 0}\nÈ chiuso.</Text>
+    <Text>\n‟SALA CONTROLLO TRATTAMENTI”{clear 0}\nÈ chiusa.</Text>
+    <Text>\nÈ chiusa.</Text>
+    <Text>La porta della boutique\nè chiusa.</Text>
+    <Text>\n</Text>
+    <Text>\n</Text>
+    <Text>\n</Text>
+    <Text>\n</Text>
+    <Text>\nCONTROLLER DISINSERITO</Text>
+    <Text>\nDEMO</Text>
+    <Text>Dico addio alla mia vita. </Text>
+    <Text>Dico addio alla mia casa.</Text>
+    <Text>Questa è l'ultima speranza </Text>
+    <Text>di sopravvivenza... </Text>
+    <Text>Questa è la mia ultima</Text>
+    <Text>via di fuga...</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>Loro mi hanno preso tutto.</Text>
+    <Text>Tutto...</Text>
+    <Text>Non mi arrenderò. Non gli</Text>
+    <Text>permetterò di vincere...</Text>
+    <Text>Sopravviverò. Non potranno</Text>
+    <Text>impedirmi di fuggire...</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>Questi soldati hanno </Text>
+    <Text>superato i loro limiti.</Text>
+    <Text>Paura e sopravvivenza non</Text>
+    <Text>hanno più alcun significato.</Text>
+    <Text>È tempo che inizino a </Text>
+    <Text>imparare...</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>C'è solo un modo per </Text>
+    <Text>uscire da questo incubo...</Text>
+    <Text>C'è solo un modo per</Text>
+    <Text>sopravvivere all'orrore...</Text>
+    <Text>C'è solo un'ultima </Text>
+    <Text>speranza...</Text>
+    <Text></Text>
+    <Text></Text>
+</Strings>

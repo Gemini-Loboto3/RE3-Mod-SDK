@@ -1,0 +1,30 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\n{timed 33}</Text>
+    <Text>{scroll 0}\n{timed 30}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n{timed 92}</Text>
+    <Text>{scroll 0}\n{timed 39}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n{timed 49}</Text>
+    <Text>{scroll 0}\n{timed 75}</Text>
+    <Text>{scroll 0}\n{timed 103}</Text>
+    <Text>{scroll 0}\n{timed 110}</Text>
+    <Text>{scroll 0}\n{timed 102}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+</Strings>

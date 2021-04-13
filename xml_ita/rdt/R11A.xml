@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}\nUna foto del team ＳＴＡＲＳ</Text>
+    <Text>{scroll 2}Questa è la scrivania di\nWesker; Capitano della ＳＴＡＲＳ</Text>
+    <Text>{scroll 2}Non c'è niente di utile\nsu questo scaffale</Text>
+    <Text>{scroll 2}Questa è la scrivania di\nBarry, un membro della ＳＴＡＲＳ{clear 0}Una coppia di pistole giace\nsul tavolo.</Text>
+    <Text>{scroll 2}\nCi sono diversi trofei.{clear 0}\nUno di questi dice:{clear 0}‟Vincitore Concorso Tiratore \nScelto: Chris Redfield.”</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Questa è la scrivania\ndi Chris,{clear 0}\nUn membro della ＳＴＡＲＳ{clear 0}Il disordine presente\nriflette probabilmente{clear 0}la personalità del\nproprietario.</Text>
+    <Text>{scroll 2}Questa è la scrivania\ndi Rebecca,{clear 0}Una recluta del team\nＳＴＡＲＳ</Text>
+    <Text>{scroll 2}Una scatola di documenti\nsui precedenti casi.{clear 0}\nNiente di utile qui.</Text>
+    <Text>{scroll 2}Una grossa console per\nle comunicazioni.{clear 0}\nÈ fuori uso.{clear 0}Non posso mandare alcun\nmessaggio da qui.</Text>
+    <Text>{scroll 0}No!!!\nQualcuno ci aiuti...{clear 72}Il nostro plotone è\nstato annientato...!{clear 72}Nessuna traccia\ndi sopravvissuti...{scroll 2}{clear 72}{scroll 0}Qui Carlos..\nMandate...{clear 78}Un'unità di supporto\nimmediatamente...{scroll 2}{timed 78}</Text>
+</Strings>

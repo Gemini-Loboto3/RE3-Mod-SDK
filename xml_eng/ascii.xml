@@ -1,0 +1,77 @@
+<Strings>
+	<!-- mercs -->
+	<Text>BUY</Text>
+	<Text>EXIT</Text>
+	<Text>[%dsec</Text>
+	<!-- HUD text -->
+	<Text>Speed x%d</Text>
+	<Text>Retro mode %s</Text>
+	<Text>Fullscreen Mode</Text>
+	<Text>Resolution %dx%d</Text>
+	<Text>Rendering Fix %s</Text>
+	<Text>Filtering %s</Text>
+	<Text>Taking screenshot...</Text>
+	<Text>on</Text>
+	<Text>off</Text>
+	<Text>Life %3d      Ammo %3d      Boss %3d</Text>
+	<!-- quit screen -->
+	<Text>QUIT GAME: F9</Text>
+	<Text>RESET GAME: F9</Text>
+	<Text>CANCEL: OTHER KEY</Text>
+	<!-- option screen -->
+	<Text>GAME RESET?</Text>
+	<Text>YES</Text>
+	<Text>NO</Text>
+	<Text>BGM. VOLUME</Text>
+	<Text>-</Text>
+	<Text>+</Text>
+	<Text>SE. VOLUME</Text>
+	<Text>MOVIE VOLUME</Text>
+	<Text>/</Text>
+	<Text>MANUAL</Text>
+	<Text>AUTO</Text>
+	<Text>GAME CONFIGURATION</Text>
+	<Text>REBIND CONTROLS</Text>
+	<Text>A</Text>
+	<Text>B</Text>
+	<Text>C</Text>
+	<Text>TYPE</Text>
+	<Text>VIBRATION</Text>
+	<Text>OFF</Text>
+	<Text>ON</Text>
+	<Text>SOUND SETTINGS</Text>
+	<Text>MONO</Text>
+	<Text>STEREO</Text>
+	<Text>MONITOR TUNING</Text>
+	<Text>RESET</Text>
+	<Text>EXIT</Text>
+	<Text>GRAPHICS SETTINGS</Text>
+	<Text>GAME RESOLUTION</Text>
+	<Text>FILTERING</Text>
+	<Text>PERSPECTIVE CORRECTION</Text>
+	<Text>RETRO MODE</Text>
+	<Text>BACKGROUND RESOLUTION</Text>
+	<Text>PSX</Text>
+	<Text>PC</Text>
+	<Text>FULLSCREEN</Text>
+	<Text>SUPERSAMPLING</Text>
+	<!-- pad options -->
+	<Text>Option Screen</Text>
+	<Text>Status</Text>
+	<Text>Run/Cancel</Text>
+	<Text>Fire/Confirm</Text>
+	<Text>Map</Text>
+	<Text>Aim (Enemies)</Text>
+	<Text>Aim (All)</Text>
+	<Text>Change Target</Text>
+	<Text>Turn Right</Text>
+	<Text>Turn Left</Text>
+	<Text>Backward</Text>
+	<Text>Forward</Text>
+	<Text>Exit</Text>
+	<Text>Confirm changes</Text>
+	<Text>Leave</Text>
+	<Text>Pause</Text>
+	<Text>Key</Text>
+	<Text>Pad</Text>
+</Strings>

@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}Sembra che lo abbiano\nucciso sparandogli.</Text>
+    <Text>{scroll 2}‟Vietato proseguire oltre\nquesto punto.”</Text>
+    <Text>{scroll 2}\nSta trattenendo qualcosa.</Text>
+    <Text>{scroll 2}{cut 8}{snd 22}È il cancello posteriore\ndel parco di Raccoon.{clear 0}\nÈ chiuso.</Text>
+    <Text>{scroll 2}Questa chiave è ora\ninutile.{clear 0}Vuoi lasciarla?\n{branch 0}</Text>
+    <Text>{scroll 2}Hai usato:\n{color 1}{string 125}{color 0}.</Text>
+</Strings>

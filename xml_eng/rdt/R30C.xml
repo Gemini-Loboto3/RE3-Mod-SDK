@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}A music box with\nelaborate ornamentation.{scroll 2}{clear 0}There are switches marked \nA to F.{scroll 2}{clear 0}Will you operate the \nswitches?{branch 0}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}Some well-maintained\nold machinery.</Text>
+    <Text>{scroll 2}{cut 5}A beautifully ornamented\ngadget.</Text>
+    <Text>{scroll 2}{cut 5}The gear wheels are \nturning.</Text>
+    <Text>{scroll 2}{cut 5}\nNothing happened.</Text>
+</Strings>

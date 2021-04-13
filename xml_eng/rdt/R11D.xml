@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}                  \nThere is nothing strange.</Text>
+    <Text>{scroll 2}                  \n‟NO TRESPASSING.”{clear 0}‟Authorized\npersonnel only.”</Text>
+    <Text>{scroll 2}                  \nShe's dead...</Text>
+</Strings>

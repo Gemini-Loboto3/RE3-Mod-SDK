@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}His neck has been devoured\nfrom the inside out. </Text>
+    <Text>{scroll 2}It appears that someone\nhas already searched here.</Text>
+    <Text>{scroll 2}\nUnfinished coffee.</Text>
+    <Text>{scroll 2}\n‟10/3 6PM”{clear 0}‟We'll have a party at \nBar Jack.”</Text>
+    <Text>{scroll 2}\nA voice recognition lock.{clear 0}Will you push the microphone\nbutton?{branch 0}</Text>
+    <Text>{scroll 2}\nPlease enter your voice.</Text>
+    <Text>{scroll 2}Which floor will you move\nto?{branch 64}4F{live}B3{live}Open{live}Cancel{live}</Text>
+    <Text>{scroll 2}\nThe door won't close!</Text>
+    <Text>{scroll 2}\nYou're too busy for that!</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

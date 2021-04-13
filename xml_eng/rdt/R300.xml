@@ -1,0 +1,25 @@
+﻿<Strings>
+    <Text>{scroll 2}\nThere's nothing more.</Text>
+    <Text>{scroll 2}\nThere is an altar.</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 112}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{clear 80}{scroll 0}                  \n                  {scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{clear 92}{scroll 0}                  \n                  {scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 116}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 158}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{clear 96}{scroll 0}                  \n                  {scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{clear 140}{scroll 0}                  \n                  {scroll 1}{timed 56}</Text>
+</Strings>

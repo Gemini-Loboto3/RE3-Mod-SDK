@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}                  \nThere is a fire hydrant.{clear 0}If I had a {color 1}Fire Hose{color 0},\nI might be able to {clear 0}extinguish the fire over\nthere.</Text>
+    <Text>{scroll 2}                  \nNon message       </Text>
+    <Text>{scroll 2}                  \nNon message       </Text>
+    <Text>{scroll 2}                  \nThere is a fire hydrant.</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 48}</Text>
+</Strings>

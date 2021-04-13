@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}Il cadavere di un \nmercenario. Potrebbe {clear 0}{scroll 2}essere morto mentre\ncombatteva. </Text>
+    <Text>\nÈ un vecchio carillon.{clear 0}{scroll 2}C'è qualcosa scritto\nsul coperchio.{clear 0}{scroll 2}\n‟s g s s g s”</Text>
+    <Text>{scroll 2}Un vecchio carillon.\nNon funziona più.{clear 0}{scroll 2}C'è qualcosa scritto \nsul coperchio.{clear 0}{scroll 2}\n‟g s g g s g”</Text>
+    <Text>{scroll 2}\nHa qualcosa nella mano.</Text>
+</Strings>

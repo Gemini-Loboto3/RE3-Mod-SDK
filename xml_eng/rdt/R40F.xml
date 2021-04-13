@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}He appears to have been \nshot to death.</Text>
+    <Text>{scroll 2}‟No trespassing beyond\nthis point.”</Text>
+    <Text>{scroll 2}\nHe is holding something.</Text>
+    <Text>{scroll 2}{cut 8}{snd 22}It's the rear gate of\nRaccoon Park.{clear 0}\nIt's locked.</Text>
+    <Text>{scroll 2}You no longer need this\nkey.{clear 0}Will you discard it?\n{branch 0}</Text>
+    <Text>{scroll 2}You've used the \n{color 1}{string 125}{color 0}.</Text>
+</Strings>

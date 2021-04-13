@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>Il suo torace è stato\nsquartato e diviso.</Text>
+    <Text>C'è un condotto di \nventilazione. {clear 0}Sembra abbastanza largo \nper una persona.{clear 0}Vuoi scappare attraverso\nil condotto?{branch 0}</Text>
+    <Text>                  \nÈ un congelatore.</Text>
+    <Text>{scroll 0}                  \nSeguimi!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 204}</Text>
+</Strings>

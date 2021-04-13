@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 2}\nC'è un buco esagonale.</Text>
+    <Text>{scroll 2}C'è inserita una manovella\na base esagonale rotta.{clear 0}Non posso girarla senza \nqualche aiuto. </Text>
+    <Text>{scroll 2}\nDentro è pericoloso!</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}C'è inserita una manovella\na base esagonale rotta.{clear 0}Non posso girarla senza \nqualche aiuto. </Text>
+    <Text>{scroll 2}\nL'imposta è abbassata.</Text>
+    <Text>{scroll 2}È una macchina che \nfornisce gasolio.</Text>
+    <Text>{scroll 0}\nCarlos!{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nCalmati! Non sono ancora morto.{scroll 1}{timed 118}</Text>
+    <Text>{scroll 0}\nStai bene?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Tutto ok. Sono solo un po' \nstanco. Quella faccenda di {clear 108}fare l'eroe si è rivelata più \ncomplicata del previsto.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}\nOuch... Mi fischiano le orecchie.{clear 66} A questo punto dovremmo essere\n entrambi diventati sordi.{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}Ok! Andrò a recuperare un \npo' di equipaggiamento.{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}Potrebbe non essercene dove \nsiamo diretti.{scroll 1}{timed 81}</Text>
+    <Text>{scroll 2}Non hai più bisogno di \nquesta {color 1}Chiave{color 0}.{clear 0}Vuoi scartarla?\n{branch 0}</Text>
+</Strings>

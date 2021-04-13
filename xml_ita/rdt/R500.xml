@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}\nÈ chiusa elettronicamente.</Text>
+    <Text>{scroll 2}C'è un lettore di\nschede magnetiche.</Text>
+    <Text>{scroll 2}Chiusura d'emergenza\nattivata.</Text>
+    <Text>{scroll 0}\nNicholai?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 85}</Text>
+    <Text>{scroll 2}Non hai più bisogno di \nquesta {color 1}Chiave{color 0}.{clear 0}Vuoi scartarla?\n{branch 0}</Text>
+</Strings>

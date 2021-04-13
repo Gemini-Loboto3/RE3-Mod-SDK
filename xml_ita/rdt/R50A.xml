@@ -1,0 +1,65 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}{branch 160}Negozia con Nicholai.{live}Rispondi al fuoco.{live}</Text>
+    <Text>{scroll 2}È un ricevitore radar\nportatile.</Text>
+    <Text>{scroll 2}Hai il ricevitore radar\nportatile. </Text>
+    <Text>{scroll 2}\nIl coperchio è chiuso.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}Jill?! \nDove sei?{timed 68}</Text>
+    <Text>{scroll 0}Se puoi sentire questa \ntrasmissione, {clear 60}\nrispondi immediatamente. {timed 44}</Text>
+    <Text>{scroll 0}Sono qui. \nChe è successo? {timed 42}</Text>
+    <Text>{scroll 0}Ho trovato il modo \ndi uscire. {clear 42}I motori dell'elicottero sono \nfunzionanti e pronti a partire.{timed 78}</Text>
+    <Text>{scroll 0}\nSto arrivando! {timed 37}</Text>
+    <Text>{scroll 0}La città sta per essere \nrasa al suolo!  Sbrigati! {clear 114}E non dimenticarti di portare \ncon te quel congegno. {timed 80}</Text>
+    <Text>{scroll 0}\nA cosa serve... {timed 39}</Text>
+    <Text>{scroll 0}Serve a calcolare la \ndistanza del missile. {clear 102}Assicurati di \nportarlo con te.{timed 56}</Text>
+    <Text>{scroll 0}Adesso ascoltami, non ti \narrendere! {clear 92}Stiamo per farcela! \nDevi solo venire qui!{timed 92}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}Attenzione. Attacco \nmissilistico confermato. {clear 148}Attenzione. Attacco \nmissilistico confermato. {clear 138}\nLivello di emergenza D. {clear 60}Evacuare immediatamente \ntutto il personale.{timed 133}</Text>
+    <Text>{scroll 0}Sei ancora viva. \nChe ostinazione... {timed 99}</Text>
+    <Text>{scroll 0}\nNicholai? {timed 45}</Text>
+    <Text>{scroll 0}Mi spiace, ma non c'è \nmodo di fuggire da qui. {timed 102}</Text>
+    <Text>{scroll 0}Quindi vuoi andare \nvia di qui da solo. {clear 60}\nSono questi i tuoi piani? {timed 44}</Text>
+    <Text>{scroll 0}Mi sono assicurato che \nnon sopravvivesse {clear 66}nessuno degli altri \nSupervisori. {timed 54}</Text>
+    <Text>{scroll 0}Dal momento che sono \nl'unico a conoscere quello {clear 84}che è realmente accaduto, \navrò molta più voce in {clear 72}capitolo quando si parlerà \ndella mia ricompensa. {timed 72}</Text>
+    <Text>{scroll 0}Quindi perché uccidermi? Non \nsono sulle loro liste paga!{timed 84}</Text>
+    <Text>{scroll 0}Ti vogliono morta \nper motivi loro. {timed 124}</Text>
+    <Text>{scroll 0}La somma è modesta, \nma c'è una ricompensa {clear 103}da riscuotere per la \nconferma della tua morte. {timed 104}</Text>
+    <Text>{scroll 0}\n{timed 170}</Text>
+    <Text>{scroll 0}Sebbene sia sicuro che \ntu mi mancherai, {clear 84}\nè tempo di dirsi addio. {timed 48}</Text>
+    <Text>{scroll 0}Puoi scegliere se \naccettare la morte {clear 67}con dignità o morire \ncon rimpianto. {timed 66}</Text>
+    <Text>{scroll 0}La decisione spetta \nsolo a te. {timed 85}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}Jill! \nChe è successo? {timed 51}</Text>
+    <Text>{scroll 0}Carlos, siamo stati \npreceduti da Nicholai. {timed 147}</Text>
+    <Text>{scroll 0}\nCarlos, l'elicottero... {timed 97}</Text>
+    <Text>{scroll 0}\nAllora è così? {clear 40}Non voglio morire in un \nposto come questo! {timed 120}</Text>
+    <Text>{scroll 0}Non mi arrendo Jill! \nNon è ancora finita! {timed 70}</Text>
+    <Text>{scroll 0}Abbiamo ancora una possibilità,\nnon importa quanto sia piccola! {timed 85}</Text>
+    <Text>{scroll 0}Non ho intenzione\n di arrendermi! {timed 58}</Text>
+    <Text>{scroll 0}Dannazione, ci deve essere \nuna via d'uscita! {timed 92}</Text>
+    <Text>{scroll 0}\nÈ... finita... salvi... {clear 172}\nNon rimane tempo... {timed 86}</Text>
+    <Text>{scroll 0}\nＳＴＡＲＳ... Jill... {clear 126}\nSiete qui... venite... {timed 128}</Text>
+    <Text>{scroll 0}Hey, ti ha chiamato \nper nome! {timed 76}</Text>
+    <Text>{scroll 0}\nCom'è possibile? {timed 40}</Text>
+    <Text>{scroll 0}\nNon importa! {timed 43}</Text>
+    <Text>{scroll 0}\nDobbiamo dirgli dove siamo! {timed 54}</Text>
+    <Text>{scroll 0}Ecco! Dobbiamo trovare \nuna via di fuga! {timed 103}</Text>
+    <Text>{scroll 0}\nJill! {timed 33}</Text>
+    <Text>{scroll 0}Ecco! Dobbiamo trovare \nuna via d'uscita! {timed 104}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+</Strings>

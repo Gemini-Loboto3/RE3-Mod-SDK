@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}It's broken and won't \nopen.</Text>
+    <Text>{scroll 2}It looks as if it has not\nbeen used for a long time.</Text>
+    <Text>{scroll 2}There's nothing in the \nfireplace.</Text>
+</Strings>

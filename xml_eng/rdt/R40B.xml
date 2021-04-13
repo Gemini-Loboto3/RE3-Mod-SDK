@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 2}It seems to be an electric\npower supply switcher.{clear 0}It is set next to the\ncultivation tank.{clear 0}Will you switch the electric\npower supply?{branch 0}</Text>
+    <Text>{scroll 2}A synthesizer of \nchemicals.{clear 0}{color 1}Medium Base{color 0} can \nbe set here.</Text>
+    <Text>{scroll 2}It seems that the power\nis shut off.</Text>
+    <Text>{scroll 2}Will you operate the \nsynthesizer? {clear 0}\n{branch 81}Ⅱ{live}Ⅲ{live};{live}Below{live}Quit{live}</Text>
+    <Text>{scroll 2}Will you operate the \nsynthesizer? {clear 0}\n{branch 80}Ⅱ{live}Ⅲ{live};{live}Below{live}Quit{live}</Text>
+    <Text>{scroll 2}Will you operate the \nsynthesizer? {clear 0}\n{branch 64}A{live}B{live}Above{live}Quit{live}</Text>
+    <Text>{scroll 2}Unknown creatures are\nin the fish tank.</Text>
+    <Text>{scroll 2}It is a high-precision\nmicroscope.</Text>
+    <Text>{scroll 2}It seems that they were\ncreating chemicals{clear 0}\nof some type here.</Text>
+    <Text>{scroll 2}It seems that they were\ncultivating a part of{clear 0}\na creature's cells here.</Text>
+    <Text>{scroll 2}Will you operate the \nsynthesizer? {clear 0}\n{branch 82}Ⅱ{live}Ⅲ{live};{live}Below{live}Quit{live}</Text>
+    <Text>{scroll 2}Will you operate the \nsynthesizer? {clear 0}\n{branch 65}A{live}B{live}Above{live}Quit{live}</Text>
+    <Text>{scroll 2}\nNothing more.</Text>
+</Strings>

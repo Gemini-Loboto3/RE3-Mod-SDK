@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>{scroll 2}Un orologio non \nfunzionante.{clear 0}{scroll 2}Mancano due gemme sulla\nlastra delle ore.</Text>
+    <Text>{scroll 2}Un orologio non \nfunzionante.{clear 0}{scroll 2}Manca una gemma dalla \nlastra delle ore.</Text>
+    <Text>{scroll 2}Sembra che non basti per\nfarlo funzionare.</Text>
+    <Text>{scroll 2}\n  </Text>
+    <Text>{scroll 2}‟Le ore di servizio vanno\ndalle 9:00 alle 17:00.{clear 0}Il cancello resta \naltrimenti chiuso.”</Text>
+    <Text>{scroll 2}Tutte le gemme sono \nstate posizionate e ora{clear 0}\nsembra funzionare.</Text>
+    <Text>{scroll 2}\n‟PARTICOLARI ESCLUSIVI!{clear 0}Svelato l'incidente delle\nMontagne Arklay!” </Text>
+    <Text>{scroll 2}\nÈ vuoto all'interno.</Text>
+    <Text>{scroll 0}Devo sapere perché Umbrella \nvi ha mandati in questa città.{scroll 1}{timed 104}</Text>
+    <Text>{scroll 0}Perché siamo impegnati \nin una missione di {clear 60}\nsoccorso dei civili.{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nOh, ne sei così sicuro!{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Essi sono i primi responsabili \ndi quanto sta succedendo.{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}Ascolta. Noi siamo solo \nmercenari, assunti a pagamento.{scroll 1}{timed 116}</Text>
+    <Text>{scroll 0}Pensi davvero che il padrone \ndica ai suoi cagnolini perché {clear 74}devono riportargli il bastone \nche ha appena lanciato?{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Ascolta, se vuoi risposte \nriguardo l'operato di Umbrella,{clear 74} stai chiedendo \nal tipo sbagliato.{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}Dopo continueremo \nquesta discussione.{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nChe tu ci creda o no, {clear 40}noi siamo qui solo per \nmettere in salvo i cittadini.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Se ti fidi di me, \nallora dacci una mano! {clear 70}\nRiflettici e fammi sapere!{scroll 1}{timed 79}</Text>
+    <Text>{scroll 0}\nDevo chiederti una cosa.{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}Perché Umbrella vi ha \nspedito in questo posto?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}La nostra missione consiste \nnel salvare i cittadini.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\nChe gentili...{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}Considerato che Umbrella \nè la responsabile di {clear 61}tutto questo! \nMaledetti bugiardi...{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}\nAscolta. {clear 40}Noi siamo solo mercenari, \nassunti a pagamento.{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}Huh? Non c'è tempo \nper le discussioni.{scroll 1}{clear 82}{scroll 0}Se ti fidi di me, \nallora unisciti a noi!{clear 64}\nPensaci e fammi sapere!{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Lo so... \nSei già pazza di me... {clear 100}Tutte le ragazze amano il \nmio accento. Le fa impazzire...{scroll 1}{timed 111}</Text>
+    <Text>{scroll 0}\nDevo chiederti una cosa.{scroll 1}{timed 90}</Text>
+</Strings>

@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 152}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 194}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 193}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 154}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 67}</Text>
+    <Text>{scroll 2}\nBeakers and flasks.</Text>
+    <Text>{scroll 2}Bottles of various\nviruses and other things.</Text>
+    <Text>{scroll 2}It's sealed with a\ncomplicated lock and{clear 0}\ncannot be opened.</Text>
+    <Text>{scroll 2}‟Extreme caution is needed\nwhen handling chemicals.”</Text>
+</Strings>

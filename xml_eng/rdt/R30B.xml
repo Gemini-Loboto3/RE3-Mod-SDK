@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 0}{branch 160}Use the light.{live}Use the cord.{live}</Text>
+    <Text>{scroll 2}It seems to be aged and\ncrumbling.</Text>
+    <Text>{scroll 2}\nThe floor is wet.</Text>
+    <Text>{scroll 2}A fixture that lights the\nhour plate of the clock.</Text>
+    <Text>{scroll 2}It seems to have been\nshorted out.</Text>
+    <Text>{scroll 2}Will you push the switch?\n{branch 0}</Text>
+    <Text>{scroll 2}{cut 6}There's a key hole on the\nornamental copper plate.{clear 0}Will you use the \n{color 1}{string 119}{color 0}? {branch 0}</Text>
+    <Text>{scroll 2}{cut 6}There's a key hole on the\nornamental copper plate.</Text>
+    <Text>{scroll 2}\nIt's a switch for the light.</Text>
+    <Text>{scroll 2}You no longer need this\nkey.{clear 0}Will you discard it?\n{branch 0}</Text>
+</Strings>

@@ -1,0 +1,62 @@
+﻿<Strings>
+    <Text>{scroll 2}Alcune parti sembrano \nguaste.</Text>
+    <Text>{scroll 2}L'{color 1}{string 57}{color 0} non sembra\nsufficiente da solo.{clear 0}\nPer questa macchina.</Text>
+    <Text>{scroll 2}Ora non puoi scendere dal\ntreno.</Text>
+    <Text>{scroll 2}Una sala controllo ben\ntenuta.</Text>
+    <Text>{scroll 2}L'additivo per l'olio \nda solo non sembra{clear 0}sufficiente  per questa \nmacchina.</Text>
+    <Text>{scroll 2}\n </Text>
+    <Text>{scroll 2}‟Guida della stazione\nferroviaria”</Text>
+    <Text>{scroll 2}Il cavo d'alimentazione\nè staccato.</Text>
+    <Text>{scroll 2}\nIl {color 1}{string 52}{color 0} è rotto.</Text>
+    <Text>{scroll 2}L'{color 1}{string 58}{color 0} è stato\nusato.</Text>
+    <Text>{scroll 2}Mikhail sembra dolorante\ne sofferente. </Text>
+    <Text>{scroll 0}Tu sei uno dei sopravvissuti \ndel plotone di salvataggio, {clear 80}giusto? Ho appena incontrato \nun tuo compagno, Carlos.{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}Come ha fatto una ragazza \ncome te a sopravvivere?{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}Hey, io non sono mica una \nragazza comune. {clear 70}\nSono un membro della ＳＴＡＲＳ.{scroll 1}{timed 63}</Text>
+    <Text>{scroll 0}\nSTARS?{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}Hey, vedo che qualcuno è \nrimasto ferito...{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Oh... \nNon promette tanto bene...{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Stanno arrivando... \npreparati...{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}\nCalmati. Sei al sicuro ora.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}No... Non avvicinarti... \nVai via...!{scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}Allora, Jill, \nhai deciso di aiutarci?{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}No. Non ci possiamo \nfidare di lei...{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Perché? Sergente, abbiamo \nbisogno del suo aiuto.{scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}Ci sposteremo fino alla \ntorre dell'orologio, {clear 55}che costituisce il punto \ndesignato per l'atterraggio {clear 55}dell'elicottero \ndi salvataggio.{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\nLa distanza da coprire è molta,{clear 70}non penso quindi che potremmo\nfarcela tutta a piedi.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}Il problema principale consiste \nnella barriera di fiamme che {clear 60}separa la zona di atterraggio \ndal nostra attuale postazione.{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}Dovrebbe funzionare. \nOttimo piano signore!{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nOkay gente, diamoci una mossa.{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}\nOh, Jill, mettiti questo.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Mi sembra che siamo \npronti per partire...{scroll 1}{clear 54}{scroll 0}\nHey: prendi questo.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Okay. Uh... \nNicholai non verrà con noi.{scroll 1}{timed 165}</Text>
+    <Text>{scroll 0}\nSi...{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nCarlos...{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nSi... Hai ragione...{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}Okay, andiamo. Nicholai \nnon verrà con noi...{scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}Intendi dire il corpo speciale \ndi difesa di Raccoon City?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Ahhhh... \nSpara... Spara...{scroll 1}{clear 141}{scroll 0}\nStiamo vicini!{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nAndrà tutto per il meglio.{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}Sembra che noi siamo gli \nunici sopravvissuti...{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\nDobbiamo lavorare insieme...{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Della nostra squadra siamo \nrimasti tu, {clear 50}io e il tenente Mikhail. \nTutto qui. {clear 50}E per di più \nMikhail è ferito gravemente.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Se non collaboriamo non usciremo \nvivi da questa missione.{timed 106}</Text>
+    <Text>{scroll 0}Hmmm... Giusto. Proseguiamo \ncon il nostro piano.{scroll 1}{timed 124}</Text>
+    <Text>{scroll 0}Una volta arrivati lanceremo \nil segnale e aspetteremo {clear 70}l'arrivo dell'elicottero che \nci tirerà fuori di qui.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Quindi non ci rimane altro \nda fare che utilizzare questa {clear 60}funivia per superare \nle fiamme.{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}Fortunatamente possiamo \nutilizzarla anche come scudo {clear 75}per superare indenni le \nzone più pericolose.{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}Io guiderò la funivia. \nAndiamo.{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}Mi spiace per il tuo amico, \nma non potevi fare nulla.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}Jill... \nfammi guidare la funivia.{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nSembra tutto a posto...{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}\nMikhail...l?!{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Hey, cosa sta succedendo \nlà dietro?!{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\nMi spiace...{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nMi sento così inutile...{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}\nNon devi. {clear 40}Hai combattuto con onore e \nle ferite lo dimostrano.{scroll 1}{timed 69}</Text>
+    <Text>{scroll 0}Ma mentre io sono ancora \nvivo i miei uomini...{scroll 1}{timed 176}</Text>
+    <Text>{scroll 0}Non pensarci... \nora dormi... {scroll 1}{timed 112}</Text>
+    <Text>{scroll 0}Io... Io non ho saputo \nsalvare i miei uomini...{scroll 1}{timed 96}</Text>
+</Strings>

@@ -1,0 +1,3 @@
+﻿<Strings>
+    <Text>{scroll 0}\nBenvenuti. {clear 45}\nle regole sono semplici. {clear 66}Per disinnescare la bomba \nche è stata innestata nel {clear 109}tuo corpo devi raggiungere \nil punto indicato.{clear 109}Tieni presente che ci \nsaranno diversi ostacoli, {clear 140}quindi non aver paura di \nutilizzare ciò che {clear 102}ritieni necessario per \nraggiungere la tua meta.{clear 102}\nBuona fortuna! {clear 54}\n                  {scroll 1}{timed 85}</Text>
+</Strings>

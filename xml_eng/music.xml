@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}\nMove it up or down.{clear 0}Switch A? \n{branch 64}Up{live}Dn.{live}Next{live}End{live}</Text>
+    <Text>{scroll 2}Switch A? \n{branch 64}Up{live}Dn.{live}Next{live}End{live}</Text>
+    <Text>{scroll 2}Switch B?{branch 80}Up{live}Dn.{live}Next{live}Back{live}End{live}</Text>
+    <Text>{scroll 2}Switch C?{branch 80}Up{live}Dn.{live}Next{live}Back{live}End{live}</Text>
+    <Text>{scroll 2}Switch D?{branch 80}Up{live}Dn.{live}Next{live}Back{live}End{live}</Text>
+    <Text>{scroll 2}Switch E?{branch 80}Up{live}Dn.{live}Next{live}Back{live}End{live}</Text>
+    <Text>{scroll 2}Switch F?{branch 80}Up{live}Dn.{live}Play{live}Back{live}End{live}</Text>
+</Strings>

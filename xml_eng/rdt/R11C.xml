@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}High temperature steam\npipes.</Text>
+    <Text>{scroll 2}\nLiquid nitrogen pipes.</Text>
+    <Text>{scroll 0}\n{timed 108}</Text>
+</Strings>

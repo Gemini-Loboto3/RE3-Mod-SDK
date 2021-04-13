@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}‟Statua della Dea \nVolante”</Text>
+    <Text>{scroll 2}Questo terminale controlla\nil sistema di sicurezza.{clear 0}{scroll 2}Potrei utilizzarlo se avessi\nuna {color 1}scheda ＳＴＡＲＳ{color 0}.</Text>
+    <Text>{scroll 2}\nÈ totalmente bloccato.</Text>
+    <Text>{scroll 2}Vuoi usare la \n{color 1}scheda ＳＴＡＲＳ{color 0}?{branch 0}</Text>
+    <Text>{scroll 2}È troppo pericoloso\naprire la porta.</Text>
+</Strings>

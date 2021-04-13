@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}\nAn elevator control panel.{clear 0}Will you operate it?\n{branch 0}</Text>
+    <Text>{scroll 2}{snd 22}\nIt won't open.{clear 0}The electronic lock may \nbe active again.</Text>
+</Strings>

@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}‟When operating the\ntransformer, be sure to{clear 0}set this power transmitter\nto manual mode.”{clear 0}‟The old system is prone\nto short circuiting.{clear 0}Be careful not to let it\nexceed maximum levels.”{clear 0}Will you set this device\nto manual mode?{branch 0}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}\nIt is set to manual mode.</Text>
+    <Text>{scroll 2}The meters seem to be\nout of order.</Text>
+    <Text>{scroll 2}There is a transformer\nthat supplies power to{clear 0}                  \nthe facility.{clear 0}It seems to be set to\nauto mode.</Text>
+    <Text>{scroll 2}There is a transformer\nthat supplies power to{clear 0}                  \nthe facility.{clear 0}Will you push the switch?\n{branch 0}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}                  \nNothing happened.</Text>
+    <Text>{scroll 2}The voltage number has\nbeen changed, possibly due{clear 0}                  \nto the short circuit.{clear 0}Will you push the switch?\n{branch 0}</Text>
+    <Text>{scroll 2}‟High voltage control\nroom. The lock will be{clear 0}                  \nreleased at 115V-125V.”</Text>
+    <Text>‟Low voltage control room.\nThe lock will be released{clear 0}                  \nat 15V-25V.”</Text>
+    <Text>{scroll 2}An old emergency exit. The\nrusty knob won't turn.</Text>
+    <Text>{scroll 2}                  \n                  {clear 0}                  \n{branch 0}</Text>
+    <Text>{scroll 2}                  \n                  {clear 0}                  \n                  {clear 0}                  \n                  </Text>
+    <Text>{scroll 0}{branch 160}Head to the emergency exit.{live}Increase electricity output.{live}</Text>
+    <Text>{scroll 2}                  \n                  </Text>
+    <Text>{scroll 2}                  \nYou've opened the lock.{timed 28}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 141}</Text>
+</Strings>

@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}Dal fondo del camino puoi\nvedere una luce.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Ci sono degli oggetti per\nla manutenzione.</Text>
+    <Text>{scroll 2}Degli attrezzi per le \npulizie sono appesi qui.</Text>
+    <Text>{scroll 2}Bottiglie di alcool \nabbandonate.</Text>
+    <Text>{scroll 0}Sono sinceramente \nimpressionato che{clear 51}siete riusciti a \nsoppravivere fino ad ora.{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}E sembra che tu sia abbastanza\nbravo a proteggerti da solo.{clear 102}\nPerché non collaboriamo?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Non ho intenzione\ndi aiutarvi.{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}Perché in tutto questo\nnon siamo altro che pedine?{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}In un certo \nsenso, lo siete.{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}I nostri principali\nvogliono un rapporto{clear 60}\ndettagliato sugli ‟zombi”,{scroll 1}{clear 60}{scroll 0}creati dall'infezione \ndel T-Virus.{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}Stai dicendo che hanno\nmandato di proposito{clear 60}delle unità speciali\nperché fossero macellate{clear 60}\ndalle loro creazioni?!{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}Non esattamente.\nSebbene le condizioni{clear 76}incontrate in questa\noperazione fossero estreme,{scroll 1}{clear 78}{scroll 0}nessuno si aspettava che le \nnostre unitá venissero trucidate.{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Ci hanno solo richiesto di\nraccogliere dati dai soggetti.{scroll 1}{timed 126}</Text>
+    <Text>{scroll 0}\nUn altro mutante!{scroll 1}{timed 49}</Text>
+    <Text>{scroll 2}C'è della legna sulla \nquale il fuoco potrebbe{clear 0}\nAttecchire. {clear 0}Dell'aria sta arrivando \ndal fondo del camino.</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 288}</Text>
+    <Text>{scroll 2}Non hai più bisogno di\nquesto {color 1}accendino{color 0}.{clear 0}Vuoi scartarlo?\n{branch 0}</Text>
+</Strings>

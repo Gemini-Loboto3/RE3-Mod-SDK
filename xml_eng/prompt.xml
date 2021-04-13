@@ -1,0 +1,74 @@
+﻿<Strings>
+    <Text>\nAn old typewriter.{clear 0}I could save my progress \nif I had an {color 1}Ink Ribbon{color 0}.</Text>
+    <Text>\nAn old typewriter.{clear 0}You can save \nyour progress here.{clear 0}Will you use the {color 1}Ink \nRibbon{color 0}?{branch 0}</Text>
+    <Text>\n</Text>
+    <Text>\n{clear 0}\n{branch 0}</Text>
+    <Text>\nThere's nothing more.</Text>
+    <Text>You've used the \n{color 1}{string 0}{color 0}.</Text>
+    <Text>\nIt's the {color 1}{string 0}{color 0}.</Text>
+    <Text>There are {color 1}Blue Herbs {color 0}\ngrowing here.{clear 0}Will you use them? \n{branch 0}</Text>
+    <Text>You've used the \n{color 1}Blue Herbs {color 0}.</Text>
+    <Text>I don't need to use \nthese now.</Text>
+    <Text>Will you go up the \nladder?{branch 0}</Text>
+    <Text>Will you go down the \nladder?{branch 0}</Text>
+    <Text>\nThe door won't open!</Text>
+    <Text>\nAn old typewriter.{clear 0}I could save my progress \nif I had an {color 1}Ink Ribbon{color 0}.{clear 0}You can not save your \ngame in this preview.</Text>
+    <Text>You no longer need this\nkey.{clear 0}Will you discard it?\n{branch 0}</Text>
+    <Text>You no longer need this\nkey.{clear 0}Will you discard it?\n{branch 0}</Text>
+    <Text>You no longer need this\nkey.{clear 0}Will you discard it?\n{branch 0}</Text>
+    <Text>\nYou've opened the lock.</Text>
+    <Text>It's locked from the other \nside.</Text>
+    <Text>It's locked with a simple \nlock.</Text>
+    <Text>\nIt's the backdoor exit.{clear 0}\nIt's locked.</Text>
+    <Text>\nIt's locked.{clear 0}\nThe sign reads, ‟402.”</Text>
+    <Text>\nIt's locked.{clear 0}You'll need the {color 1}ＳＴＡＲＳ Key{color 0} \nto unlock it.</Text>
+    <Text>\nThe door won't open!</Text>
+    <Text>\nIt's locked.</Text>
+    <Text>\nIt's locked.{clear 0}A clock is etched under\nthe key hole.</Text>
+    <Text>\nIt's locked.{clear 0}The God of Time is etched \nunder the key hole.</Text>
+    <Text>\nIt's locked.</Text>
+    <Text>It's the main gate of\nRaccoon Park.{clear 0}\nIt's locked.</Text>
+    <Text>\nIt's locked.{clear 0}The sign reads, ‟Raccoon \nPark Cemetery.”</Text>
+    <Text>{cut 8}It's the rear gate of\nRaccoon Park.{clear 0}\nIt's locked.</Text>
+    <Text>‟TREATMENT CONTROL \nROOM”{clear 0}\nIt's locked.</Text>
+    <Text>\nIt's locked.</Text>
+    <Text>The door to the boutique\nis locked.</Text>
+    <Text>\nIt's locked.</Text>
+    <Text>\nIt's locked.</Text>
+    <Text>\nIt's locked.</Text>
+    <Text>\nIt's locked.</Text>
+    <Text>\nCONTROLLER REMOVED</Text>
+    <Text>\nDEMO</Text>
+    <Text>Farewell to my life. </Text>
+    <Text>Farewell to my home.</Text>
+    <Text>This is my last chance </Text>
+    <Text>for survival...</Text>
+    <Text></Text>
+    <Text>This is my, last escape...</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>They have taken everything</Text>
+    <Text>from me. Everything...</Text>
+    <Text>But I won't give up. I </Text>
+    <Text>won't allow them to win...</Text>
+    <Text>I will survive. They can't</Text>
+    <Text>stop, my last escape...</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>These soldiers have lost </Text>
+    <Text>their edge.</Text>
+    <Text>They have forgotten what</Text>
+    <Text>fear and survival mean.</Text>
+    <Text>It's time for them to </Text>
+    <Text>remember...</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>There is only one way out </Text>
+    <Text>of this nightmare...</Text>
+    <Text>There is only one way to </Text>
+    <Text>survive the horror...</Text>
+    <Text>There is only one chance</Text>
+    <Text>left...</Text>
+    <Text></Text>
+    <Text></Text>
+</Strings>

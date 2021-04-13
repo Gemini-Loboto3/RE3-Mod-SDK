@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}Un alimentatore\nd'emergenza.{clear 0}{scroll 2}Vuoi accenderlo?\n{branch 0}</Text>
+    <Text>{scroll 2}Un generatore \nd'emergenza.{clear 0}{scroll 2}Vuoi premere \nl'interruttore?{branch 0}</Text>
+    <Text>{scroll 2}È un interruttore per\nl'elevatore della scala.{clear 0}{scroll 2}Sembra che non funzioni\nper mancanza di corrente.</Text>
+    <Text>{scroll 2}È un interruttore per\nl'elevatore della scala.{clear 0}{scroll 2}Vuoi abbassare la scala?\n{branch 0}</Text>
+    <Text>{scroll 2}Hai ripristinato la \ncorrente.</Text>
+</Strings>

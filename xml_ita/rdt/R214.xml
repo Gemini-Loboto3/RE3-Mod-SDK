@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}”Quando utilizzate il\ntrasformatore, assicuratevi{clear 0}di posizionare il \npotenziometro sulla {clear 0}\nmodalità manuale”{clear 0}”Il vecchio sistema è\nsoggetto a cortocircuito.{clear 0}Fate in modo che non \nsuperi il livello {clear 0}\nmassimo.”{clear 0}Vuoi inserire la modalità\nmanuale? {branch 0}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}È stata inserita la \nmodalità manuale.</Text>
+    <Text>{scroll 2}Gli indicatori sembrano\nguasti.</Text>
+    <Text>{scroll 2}C'è un trasformatore che\nfornisce energia alla{clear 0}\nstruttura.{clear 0}Sembra che sia impostata\nla modalità automatica.</Text>
+    <Text>{scroll 2}C'è un trasformatore che\nfornisce energia alla{clear 0}\nstruttura.{clear 0}Vuoi premere \nl'interruttore? {branch 0}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}                  \nNon succede niente.</Text>
+    <Text>{scroll 2}Il numero del voltaggio\nè stato cambiato, forse {clear 0}a causa del corto\ncircuito.{clear 0}Vuoi premere \nl'interruttore? {branch 0}</Text>
+    <Text>{scroll 2}”Sala di comando ad alta\ntensione. La serratura {clear 0}sarà sbloccata a \n115V-125V.”</Text>
+    <Text>”Sala di comando a bassa\ntensione. La serratura {clear 0}sarà sbloccata a \n15V-25V.”</Text>
+    <Text>{scroll 2}Una vecchia uscita \nd'emergenza.{clear 0}\nLa maniglia non gira.</Text>
+    <Text>{scroll 2}                  \n                  {clear 0}                  \n{branch 0}</Text>
+    <Text>{scroll 2}                  \n                  {clear 0}                  \n                  {clear 0}                  \n                  </Text>
+    <Text>{scroll 0}{branch 160}Dirigiti verso l'uscita d'emergenza.{live}Aumento dell'emissione di elettricità.{live}</Text>
+    <Text>{scroll 2}                  \n                  </Text>
+    <Text>{scroll 2}                  \nHai aperto la serratura.{timed 28}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 141}</Text>
+</Strings>

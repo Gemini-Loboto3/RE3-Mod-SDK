@@ -1,0 +1,153 @@
+﻿<Strings>
+    <Text>Will you take\nthe {color 1}{string 0}{color 0}?{s}{s}{s}{s}{s}{s}{branch 0}</Text>
+    <Text>You can't carry any\nmore items.\n</Text>
+    <Text>It's already loaded.\n</Text>
+    <Text>You can't combine\nanymore.\n</Text>
+    <Text>BOTU        \n</Text>
+    <Text>You can't use ammo \nby itself.\n</Text>
+    <Text>You've taken\nthe {color 1}{string 0}{color 0}.</Text>
+    <Text>I don't need to use \nthis right now.\n</Text>
+    <Text>Normal ammo and \nenhanced ammo \ncannot be loaded {clear 0}together.\n</Text>
+    <Text>Reloading will \ncause the \nunexploded mines{clear 0}to disappear.\nOK to proceed?\n{s}{s}{s}{s}{s}{s}{branch 0}</Text>
+    <Text>Shells still remain \nin the cartridge.\nReload unavailable.\n</Text>
+    <Text>BOTU          \n</Text>
+    <Text>BOTU          \n</Text>
+    <Text>Will you create the \nenhanced ammo?\n{s}{s}{s}{s}{s}{s}{branch 0}</Text>
+    <Text>There's no F. Aid \nSpray stock.\n</Text>
+    <Text>BOTU          \n</Text>
+    <Text>\n</Text>
+    <Text>Dagger knife for\nself-defense.\n</Text>
+    <Text>SIGPRO SP2009\nIt's mainly made \nof plastic and is {clear 0}very light.\nIt uses 9mm\nparabellum rounds.\n</Text>
+    <Text>M92F Custom.\nA custom handgun\nmade for ＳＴＡＲＳ{clear 0}It uses 9mm\nparabellum rounds.\n</Text>
+    <Text>Benelli M3S.\nAn easy to carry\nsawed-off shotgun.{clear 0}It uses 12 gauge\nshot shells.\n</Text>
+    <Text>S&amp;W M629C.\nA large stainless\nsteel revolver.{clear 0}A classic type \nequipped with \nweights to reduce {clear 0}the recoil.\nIt uses .44 Magnum \nbullets.\n</Text>
+    <Text>Hk-p Grenade \nLauncher. A small \nsize grenade {clear 0}launcher developed \nfor police use. {clear 0}It is loaded with \nburst rounds.</Text>
+    <Text>Hk-p Grenade \nLauncher. A small \nsize grenade {clear 0}launcher developed \nfor police use. {clear 0}It is loaded with \nflame rounds.\n</Text>
+    <Text>Hk-p Grenade \nLauncher. A small \nsize grenade {clear 0}launcher developed \nfor police use. {clear 0}It is loaded with \nacid rounds.\n</Text>
+    <Text>Hk-p Grenade \nLauncher. A small \nsize grenade {clear 0}launcher developed \nfor police use. {clear 0}It is loaded\nwith freeze rounds.\n</Text>
+    <Text>M66 Rocket \nLauncher. {clear 0}An old but powerful\nweapon.\n</Text>
+    <Text>A powerful weapon \nthat enables you to \nscatter bullets {clear 0}with single trigger \naction.\n</Text>
+    <Text>A prototype weapon \nmade by Umbrella's \narmament dept.{clear 0}It uses special \nbullets equipped \nwith a sensor.\n</Text>
+    <Text>STI EAGLE 6.0.\nA custom made gun \nfor competitions.{clear 0}It uses 9mm\nparabellum rounds.\n</Text>
+    <Text>M4A1 assault rifle.\nThe gun is set in \nMANUAL mode.{clear 0}It uses 5.56mm \nNATO rounds.\n</Text>
+    <Text>M4A1 assault rifle.\nThe gun is set in \nAUTO mode.{clear 0}It uses 5.56mm \nNATO rounds.\n</Text>
+    <Text>Western Custom M37.\nEquipped with a\nspecial reload {clear 0}system and is \neffective for \nclose range battle. {clear 0}It uses 12 gauge \nshot shells.\n</Text>
+    <Text>Enhanced SIGPRO.{clear 0}It is loaded with \nenhanced 9mm \nparabellum rounds.\n</Text>
+    <Text>Enhanced M92F \nCustom.{clear 0}It is loaded with \nenhanced 9mm \nparabellum rounds.\n</Text>
+    <Text>Enhanced Shotgun.{clear 0}It is loaded with\nenhanced shells.\n</Text>
+    <Text>A mine thrower \nloaded with special \nbullets that have {clear 0}auto-trace feature.\n</Text>
+    <Text>9x19 parabellum\nrounds.{clear 0}Used for either the \nM92FS Custom or the \nSIGPRO.\n</Text>
+    <Text>.44 Magnum rounds.\nPowerful bullets \nfor the revolver.{clear 0}Used for S&amp;W \nM629C.\n</Text>
+    <Text>Shot Shells.\nUsed for \nBenelli M3S.\n</Text>
+    <Text>Grenade Burst \nRounds. {clear 0}Standard bullets \nthat scatter \nfragments when {clear 0}they hit the \ntarget. {clear 0}Used for Hk-p \nGrenade Launcher.\n</Text>
+    <Text>Grenade Flame \nRounds.{clear 0}Special bullets \nwhose warhead is \nfilled with {clear 0}powerful napalm \ngel. {clear 0}Used for Hk-p \nGrenade Launcher.\n</Text>
+    <Text>Grenade Acid \nRounds.{clear 0}Special bullets \nwhose warhead is \nfilled with anti{clear 0}-creature sulfuric \nacid.{clear 0}Used for Hk-p \nGrenade Launcher.\n</Text>
+    <Text>Grenade Freeze \nRounds.{clear 0}Special bullets \nwhose warhead is \nfilled with ultra {clear 0}low temperature \nliquid nitrogen. {clear 0}Used for Hk-p \nGrenade Launcher.\n</Text>
+    <Text>Special bullets \nthat burst if \nanyone other than {clear 0}the user approaches, \nthanks to the \nequipped sensor.{clear 0}Used for Mine \nThrower.\n</Text>
+    <Text>5.56mm NATO \nrounds. Army \nbullets for the {clear 0}assault rifle.\nUsed for M4A1.\n</Text>
+    <Text>9mm parabellum \nrounds added with \npowerful powder {clear 0}created with the \nReloading Tool.{clear 0}Used for either the \nM92F or the SIGPRO.\n</Text>
+    <Text>12 gauge shot \nshells added with \npowerful powder {clear 0}created with the \nReloading Tool.{clear 0}Used for Benelli \nM3S.\n</Text>
+    <Text>This will \ncompletely restore \nyour vitality.\n</Text>
+    <Text>A rare herb that \ncan restore your \nvitality.{clear 0}Several herbs can \nbe mixed to enhance \ntheir effect.\n</Text>
+    <Text>A rare herb that \ncan neutralize \npoison.{clear 0}Several herbs can \nbe mixed to enhance \ntheir effect.\n</Text>
+    <Text>A rare herb that can \nenhance the effect \nof green herb. {clear 0}Several herbs can \nbe mixed to enhance \ntheir effect.\n</Text>
+    <Text>A mixture of \n2 green herbs.\n</Text>
+    <Text>A mixture of \n1 green herb and \n1 blue herb.\n</Text>
+    <Text>A mixture of \n1 green herb and \n1 red herb.\n</Text>
+    <Text>A mixture of \n3 green herbs.\n</Text>
+    <Text>A mixture of \n2 green herbs and \n1 blue herb.\n</Text>
+    <Text>A mixture of \n1 green herb, 1 blue \nherb and 1 red herb.\n</Text>
+    <Text>It can hold up to\n3 F. Aid Sprays.\n</Text>
+    <Text>A square-edged \ncrank.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>An ID card for \nＳＴＡＲＳ with Jill's \npicture on it.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>An old style \nbattery. It seems \nto be as powerful {clear 0}as a modern one.\n</Text>
+    <Text>Its edge is in the \nshape of a hook.{clear 0}It must be used to \nhook something.\n</Text>
+    <Text>A large capacity \npower cable for \nuse with large {clear 0}machinery.\n</Text>
+    <Text>A fuse for the \nhigh power supply \nto be used for {clear 0}large size \nmachinery.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Adding this to the \nmachine oil turns \nit into the ideal {clear 0}oil for use with \nlarge size \nmachinery.\n</Text>
+    <Text>A card of some \nkind is inside \nthe card case.\n</Text>
+    <Text>An ID card for \nＳＴＡＲＳ with Brad's \npicture on it.\n</Text>
+    <Text>Oil for small \nmachines. It can't \nbe used for the {clear 0}large size \nmachinery by \nitself.\n</Text>
+    <Text>Oil mixed with the \noil additive. It \ncan be used for {clear 0}the power source \nof the large size \nmachinery.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>An instrument to \nwrench hex-shaped \nobjects or bolts.\n</Text>
+    <Text>An iron pipe for \ngas piping. It's \ntough and long {clear 0}enough to be used \nas a pry.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>A hose to be \nconnected to a \nfire hydrant.\n</Text>
+    <Text>A portable tape \nrecorder.{clear 0}A patient's \ndiagnosis is \nrecorded onto here.\n</Text>
+    <Text>It's fuel for a \nlighter.\n</Text>
+    <Text>It has no oil left \nand cannot be used \nby itself.\n</Text>
+    <Text>An oil lighter.\n</Text>
+    <Text>An emerald shining \nin green.\n</Text>
+    <Text>A sapphire shining \nin blue.\n</Text>
+    <Text>A ball made of \namber.\n</Text>
+    <Text>A ball made of \nobsidian.\n</Text>
+    <Text>A ball made of \ncrystal.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>A beautiful gear \nmade of gold.\n</Text>
+    <Text>A beautiful gear \nmade of silver.\n</Text>
+    <Text>A gear designed \nafter a god of \ntime.\n</Text>
+    <Text>A bronze-made\nbook-shaped object.{clear 0}It says ‟Given \nknowledge” on it.\n</Text>
+    <Text>A bronze-made \ncompass.{clear 0}It says ‟Future in \nmy hand” on it.\n</Text>
+    <Text>Cultivation medium\nused to make \nvaccine. It needs {clear 0}to be mixed with \nthe vaccine base to \ncreate the vaccine.\n</Text>
+    <Text>Core material used \nto create the \nvaccine.{clear 0}It needs to be \nmixed with the \nvaccine medium.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Vaccine that is \neffective against \nthe virus infection.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Material used to \ncreate the \ncultivation medium {clear 0}needed for the \nvaccine creation. {clear 0}It creates the \nvaccine cultivation \nmedium combined {clear 0}with several \nchemicals.\n</Text>
+    <Text>A set of weapon \nparts. A scope and\na slide. {clear 0}A weapon cannot be \nmade from these \nparts alone.\n</Text>
+    <Text>A set of weapon\nparts. A frame and \na magazine.{clear 0}A weapon cannot be\nmade from these \nparts alone.\n</Text>
+    <Text>A wooden stock and \na magazine tube.{clear 0}A weapon cannot be \nmade from these \nparts alone.\n</Text>
+    <Text>Parts for a lever \naction gun. The \nbarrel is cut short.{clear 0}A weapon cannot be \nmade from these \nparts alone.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>A chain made to \nadore a god of time. {clear 0}There's a small \nscrew hole near \nthe ornament.\n</Text>
+    <Text>A hex-edged crank. \nIts grip is heavily \nrusted.\n</Text>
+    <Text>It is used for the \ncard reader at the \ndisposal facility.\n</Text>
+    <Text>One of the items \nused for making \nammunition.{clear 0}It can be combined\nwith the Reloading\nTool or the {clear 0}Grenade Rounds.\n</Text>
+    <Text>One of the items \nused for making \nammunition.{clear 0}It can be combined\nwith the Reloading\nTool or the {clear 0}Grenade Rounds.\n</Text>
+    <Text>One of the items \nused for making \nammunition.{clear 0}It can be combined\nwith the Reloading\nTool or the {clear 0}Grenade Rounds.\n</Text>
+    <Text>A mixture of 2 Gun \nPowder A. {clear 0}It can be combined \nwith the Reloading \nTool or the {clear 0}Grenade Rounds.\n</Text>
+    <Text>A mixture of 2 Gun\nPowder B. {clear 0}It can be combined \nwith the Reloading \nTool or the {clear 0}Grenade Rounds.\n</Text>
+    <Text>A mixture of\n1 Gun Powder A and \n1 Gun Powder C. {clear 0}It can be combined \nwith the Reloading \nTool. \n</Text>
+    <Text>A mixture of \n1 Gun Powder B and \n1 Gun Powder C.{clear 0}It can be combined \nwith the Reloading \nTool. \n</Text>
+    <Text>A mixture of \n2 Gun Powder C. {clear 0}It can be combined \nwith the Reloading \nTool or the {clear 0}Grenade Rounds.\n</Text>
+    <Text>A mixture of \n3 Gun Powder A. {clear 0}It can be combined \nwith the Reloading \nTool or the {clear 0}Grenade Rounds.\n</Text>
+    <Text>A mixture of \n2 Gun Powder A and \n1 Gun Powder B. {clear 0}It can be combined \nwith the Reloading \nTool. \n</Text>
+    <Text>A mixture of \n2 Gun Powder B and \n1 Gun Powder A. {clear 0}It can be combined \nwith the Reloading \nTool. \n</Text>
+    <Text>A mixture of \n3 Gun Powder B. {clear 0}It can be combined \nwith the Reloading \nTool or the {clear 0}Grenade Rounds.\n</Text>
+    <Text>A mixture of \n3 Gun Powder C. {clear 0}It can be combined \nwith the Reloading \nTool or the {clear 0}Grenade Rounds.\n</Text>
+    <Text>When combined with \na weapon, an \nunlimited number {clear 0}of bullets become \navailable.\n</Text>
+    <Text>Sample from the \ntreated drainage\nof this factory.{clear 0}It shows it has \npassed the water \npollution test.\n</Text>
+    <Text>It seems to be a \nsystem disc used \nto release the {clear 0}treatment room \nlock.\n</Text>
+    <Text>Dummy         \n</Text>
+    <Text>I can unlock the \nsimple locks with \nthis.\n</Text>
+    <Text>A small key with a \ntag attached to it.{clear 0}It says ‟Backdoor” \non the tag.\n</Text>
+    <Text>It seems to be a \nkey for the \nsickroom.{clear 0}Its tag says ‟402”.\n</Text>
+    <Text>ＳＴＡＲＳ emblem is \nengraved on it.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>It's a key \nornamented with \na clock part.\n</Text>
+    <Text>It's a key \nornamented with \na clock part.{clear 0}It has a screw \nshaped ornament to \nput a round shaped {clear 0}object.\n</Text>
+    <Text>It's a key designed \nto adore a god of \ntime.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>It's a key for the \nmain gate of the \nRaccoon Park.\n</Text>
+    <Text>It's a key given \nfrom a mercenary. {clear 0}It says ‟Raccoon \nPark Graveyard”.\n</Text>
+    <Text>A small key with an \niron ring attached \nto it.{clear 0}It says ‟Rear Gate” \non the ring.\n</Text>
+    <Text>A plastic card \nengraved with an ID \nis attached to it.{clear 0}It seems to be \ncoated with some \nkind of special {clear 0}painting.\n</Text>
+    <Text>The plastic card \nis radiating. {clear 0}It seems to show \nsome kind of code \npattern.\n</Text>
+    <Text>It's a key for an\nuptown boutique.\n</Text>
+    <Text>I could save my \nprogress with this \nif I use it with a {clear 0}typewriter.\n</Text>
+    <Text>A tool used to load \nmixed material into \nan empty bullet.{clear 0}It is used to \ncombine with the \nGun Powder.\n</Text>
+    <Text>Game instructions.\nThis explains about \nvarious actions, {clear 0}operations on MAP \nscreen and \noperations in the {clear 0}event scenes.\n</Text>
+    <Text>Instructions on the \ncreation of bullets.\nThis explains how {clear 0}to use the Gun \nPowder and the \nReloading Tool.\n</Text>
+    <Text></Text>
+    <Text></Text>
+</Strings>

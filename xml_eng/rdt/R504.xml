@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}{cut 15}The filter seems to be\ncompletely blocked.{clear 0}{scroll 2}A liquid with a nasty\nodor is leaking out.</Text>
+    <Text>{scroll 2}\nI can't pass here.</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 132}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 106}</Text>
+</Strings>

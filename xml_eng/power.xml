@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}First switch.\n{branch 64}Red{live}Blue{live}Reset{live}Cancel{live}</Text>
+    <Text>{scroll 2}First switch.\n{branch 64}Red{live}Blue{live}Reset{live}Cancel{live}</Text>
+    <Text>{scroll 2}Second switch.\n{branch 64}Red{live}Blue{live}Reset{live}Cancel{live}</Text>
+    <Text>{scroll 2}Third switch.\n{branch 64}Red{live}Blue{live}Reset{live}Cancel{live}</Text>
+    <Text>{scroll 2}Fourth switch.\n{branch 64}Red{live}Blue{live}Reset{live}Cancel{live}</Text>
+</Strings>

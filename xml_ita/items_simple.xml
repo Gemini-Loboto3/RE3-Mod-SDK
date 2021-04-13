@@ -1,0 +1,196 @@
+﻿<Strings>
+    <Text></Text>
+    <Text>Coltello</Text>
+    <Text>Pistola SIGPRO</Text>
+    <Text>Pistola</Text>
+    <Text>Shotgun</Text>
+    <Text>Magnum</Text>
+    <Text>Lanciagranate</Text>
+    <Text>Lanciagranate</Text>
+    <Text>Lanciagranate</Text>
+    <Text>Lanciagranate</Text>
+    <Text>Lanciarazzi</Text>
+    <Text>Mitragliatore</Text>
+    <Text>Lanciamine</Text>
+    <Text>EAGLE 6.0</Text>
+    <Text>Fucile assalto</Text>
+    <Text>Fucile assalto</Text>
+    <Text>Western Custom</Text>
+    <Text>SIGPRO E</Text>
+    <Text>M92F E</Text>
+    <Text>Benelli M3S E</Text>
+    <Text>Lanciamine E</Text>
+    <Text>Proiet. pistola</Text>
+    <Text>Proiet. Magnum</Text>
+    <Text>Cart. shotgun</Text>
+    <Text>Granate</Text>
+    <Text>Granate infiam.</Text>
+    <Text>Granate acido</Text>
+    <Text>Granate cong.</Text>
+    <Text>Mine</Text>
+    <Text>Cart. fucile</Text>
+    <Text>Proiet. Pist. E</Text>
+    <Text>Cart shotgun E</Text>
+    <Text>Spray medico</Text>
+    <Text>Erbe verdi</Text>
+    <Text>Erbe blu</Text>
+    <Text>Erbe rosse</Text>
+    <Text>Erbe miste</Text>
+    <Text>Erbe miste</Text>
+    <Text>Erbe miste</Text>
+    <Text>Erbe miste</Text>
+    <Text>Erbe miste</Text>
+    <Text>Erbe miste</Text>
+    <Text>Pronto soccor.</Text>
+    <Text>Manovella</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Scheda ＳＴＡＲＳ</Text>
+    <Text>BOTU</Text>
+    <Text>Batteria</Text>
+    <Text>Gancio</Text>
+    <Text>Cavo elettrico</Text>
+    <Text>Fusibile</Text>
+    <Text>BOTU</Text>
+    <Text>Additivo olio</Text>
+    <Text>Portatessera</Text>
+    <Text>Scheda ＳＴＡＲＳ</Text>
+    <Text>Olio macchina</Text>
+    <Text>Olio misto</Text>
+    <Text>BOTU</Text>
+    <Text>Chiave</Text>
+    <Text>Tubo di ferro</Text>
+    <Text>BOTU</Text>
+    <Text>Tubo idrante</Text>
+    <Text>Mangianastri</Text>
+    <Text>Olio accendino</Text>
+    <Text>Accendino</Text>
+    <Text>Accendino</Text>
+    <Text>Gemma verde</Text>
+    <Text>Gemma blu</Text>
+    <Text>Sfera d'ambra</Text>
+    <Text>Sfera ossidiana</Text>
+    <Text>Sfera cristallo</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Ingran. oro</Text>
+    <Text>Ingran. Arg.</Text>
+    <Text>Ingran. Chr.</Text>
+    <Text>Libro bronzo</Text>
+    <Text>Bussola bronzo</Text>
+    <Text>Eccip. vaccino</Text>
+    <Text>Base Vaccino</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Vaccino</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Eccip. base</Text>
+    <Text>EAGLE Parte A</Text>
+    <Text>EAGLE Parte B</Text>
+    <Text>M37 Parte A</Text>
+    <Text>M37 Parte B</Text>
+    <Text>BOTU</Text>
+    <Text>Catena Chronos</Text>
+    <Text>Manovella arrug.</Text>
+    <Text>Chiave d'accesso</Text>
+    <Text>Pol. da sparo A</Text>
+    <Text>Pol. da sparo B</Text>
+    <Text>Pol. da sparo C</Text>
+    <Text>Pol. da sparo AA</Text>
+    <Text>Pol. da sparo BB</Text>
+    <Text>Pol. da sparo AC</Text>
+    <Text>Pol. da sparo BC</Text>
+    <Text>Pol. da sparo CC</Text>
+    <Text>Pol. da sparo AAA</Text>
+    <Text>Pol. da sparo AAB</Text>
+    <Text>Pol. da sparo BBA</Text>
+    <Text>Pol. da sparo BBB</Text>
+    <Text>Pol. da sparo CCC</Text>
+    <Text>Proiettili Inf.</Text>
+    <Text>Campione d'acqua</Text>
+    <Text>Disco di sistema</Text>
+    <Text>Dummy Key</Text>
+    <Text>Grimaldello</Text>
+    <Text>Chiave Magaz.</Text>
+    <Text>Chiave inferm.</Text>
+    <Text>Chiave embl.</Text>
+    <Text>BOTU</Text>
+    <Text>Chiave Torre</Text>
+    <Text>Chiave torre</Text>
+    <Text>Chiave Chronos</Text>
+    <Text>BOTU</Text>
+    <Text>Chiave parco</Text>
+    <Text>Chiave parco</Text>
+    <Text>Chiave parco</Text>
+    <Text>Chiave tessera</Text>
+    <Text>Chiave tessera</Text>
+    <Text>Chiave bout.</Text>
+    <Text>Nastro</Text>
+    <Text>Ricaricatore</Text>
+    <Text>Istruzioni A</Text>
+    <Text>Istruzioni B</Text>
+    <Text>Istruzioni di gioco A</Text>
+    <Text>Appunti di Dario</Text>
+    <Text>Diario mercenario</Text>
+    <Text>Fax commerciale</Text>
+    <Text>Rapporto di Marvin</Text>
+    <Text>Appunti di David</Text>
+    <Text>Guida città</Text>
+    <Text>Appunti giornalista.</Text>
+    <Text>Dati operazione</Text>
+    <Text>Note del mercenario</Text>
+    <Text>Cartoline illustrate</Text>
+    <Text>Rapporto supervisore</Text>
+    <Text>Ordini scritti</Text>
+    <Text>Diario direttore</Text>
+    <Text>Diario Manager</Text>
+    <Text>Manuale sicurezza</Text>
+    <Text>Appunti meccanico</Text>
+    <Text>Fax da Kendo</Text>
+    <Text>Rapporto manager</Text>
+    <Text>Istruzioni mediche</Text>
+    <Text>Fax dal QG.</Text>
+    <Text>Manuale inceneritore</Text>
+    <Text>Foto A</Text>
+    <Text>Foto B</Text>
+    <Text>Foto C</Text>
+    <Text>Foto E</Text>
+    <Text>Foto D</Text>
+    <Text>Cartolina orologio</Text>
+    <Text>Istruzioni gioco B</Text>
+    <Text>Foto riservate</Text>
+    <Text>Diario di Jill</Text>
+    <Text>Mappa periferia</Text>
+    <Text>Mappa centro</Text>
+    <Text>Mappa torre orol.</Text>
+    <Text>Mappa parco</Text>
+    <Text>Mappa stabilimento</Text>
+    <Text>Mappa staz. pol.</Text>
+    <Text>Mappa ospedale</Text>
+    <Text>Nessun oggetto</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Chiave p. post</Text>
+    <Text>BOTU</Text>
+    <Text>Chiave ＳＴＡＲＳ</Text>
+    <Text>Accen. vuoto</Text>
+    <Text>Zaffiro</Text>
+    <Text>Smeraldo</Text>
+    <Text>Man. str. arr.</Text>
+    <Text>BOTU</Text>
+    <Text>Chiave cimit.</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Libro saggezza</Text>
+    <Text>Bussola futuro</Text>
+    <Text>Man. quadrata</Text>
+    <Text>Chiave lunetta</Text>
+    <Text>Chiave carica</Text>
+    <Text>Chiave c. prin</Text>
+    <Text>Chiave c. post</Text>
+</Strings>

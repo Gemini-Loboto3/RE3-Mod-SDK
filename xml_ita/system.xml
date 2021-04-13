@@ -1,0 +1,153 @@
+﻿<Strings>
+    <Text>Vuoi prendere:\n{color 1}{string 0}{color 0}?{s}{s}{s}{s}{s}{s}{branch 0}</Text>
+    <Text>Non puoi portare\naltri oggetti.\n</Text>
+    <Text>È già carico.\n</Text>
+    <Text>Non puoi più\ncombinare.\n</Text>
+    <Text>NON NECESSARIO\n</Text>
+    <Text>Non puoi usare\nle munizioni da\nsole.\n</Text>
+    <Text>Hai preso:\n{color 1}{string 0}{color 0}.</Text>
+    <Text>Non devo usarlo\nal momento.\n</Text>
+    <Text>Munizioni normali\ne speciali non\npossono essere{clear 0}caricate insieme.\n</Text>
+    <Text>Ricaricando farai\nsparire le mine\ninesplose.{clear 0}Ok per procedere?\n{s}{s}{s}{s}{s}{s}{branch 0}</Text>
+    <Text>I bossoli sono\nnel caricatore.\nRicarica fallita.\n</Text>
+    <Text>BOTU          \n</Text>
+    <Text>BOTU          \n</Text>
+    <Text>Vuoi migliorare\nle pallottole?\n{s}{s}{s}{s}{s}{s}{branch 0}</Text>
+    <Text>Lo spray per le\nferite è finito.\n</Text>
+    <Text>BOTU          \n</Text>
+    <Text>\n</Text>
+    <Text>Coltello per la\ndifesa personale.\n</Text>
+    <Text>SIGPRO SP2009\nÈ composto\nprincipalmente di{clear 0}plastica ed è\nmolto leggero. Usa\nproiettili da 9mm.\n</Text>
+    <Text>M92F Standard.\nPistola standard\nper gli agenti{clear 0}della ＳＴＡＲＳ.\nUsa proiettili\nda 9mm.\n</Text>
+    <Text>Benelli M3S.\nManeggevole\nfucile a canne{clear 0}mozze. Usa\nproiettili calibro\n12.\n</Text>
+    <Text>S&amp;W M629C.\nInossidabile\npistola d'acciaio{clear 0}Modello fornito\ncon pesi in grado\ndi smorzare il{clear 0}rinculo. Usa\nproiettili .44\nMagnum.\n</Text>
+    <Text>Hk-p Lancia\nGranate. Arma\ncompatta{clear 0}sviluppata per\nla polizia e\ncaricata con{clear 0}munizioni\nesplosive.\n</Text>
+    <Text>Hk-p Lancia\nGranate. Arma\ncompatta{clear 0}sviluppata per\nla polizia e\ncaricata con{clear 0}munizioni\ninfiammabili.\n</Text>
+    <Text>Hk-p Lancia\nGranate. Arma\ncompatta{clear 0}sviluppata per\nla polizia e\ncaricata con{clear 0}munizioni a\ncarica acida.\n</Text>
+    <Text>Hk-p Lancia\nGranate. Arma\ncompatta{clear 0}sviluppata per\nla polizia e\ncaricata con{clear 0}munizioni\ncongelanti.\n</Text>
+    <Text>M66 Lanciamissili.\nArma vecchia ma\nancora efficace.\n</Text>
+    <Text>Potente arma in\ngrado di seminare\nproiettili con un{clear 0}solo tocco di\ngrilletto.\n</Text>
+    <Text>Prototipo del\nreparto ricerca\ndi Umbrella.{clear 0}Usa proiettili\nspeciali muniti\ndi sensori.\n</Text>
+    <Text>STI EAGLE 6.0.\nPistola da concorso\nper tiratori scelti{clear 0}Usa proiettili\nda 9mm.\n</Text>
+    <Text>M4A1 fucile\nd'assalto. Il\nfuoco è in{clear 0}modalità MANUALE.\nUsa munizioni NATO\n5.56mm.\n</Text>
+    <Text>M4A1 fucile\nd'assalto. Il\nfuoco è in{clear 0}modalità AUTO.\nUsa munizioni NATO\n5.56mm.\n</Text>
+    <Text>M37 Western.\nMunita di uno\nspeciale sistema {clear 0}di ricarica che la\nrende efficace a\nbruciapelo.{clear 0}Usa proiettili\ncalibro 12.\n</Text>
+    <Text>SIGPRO migliorato.\nUsa munizioni\nspeciali da 9mm.\n</Text>
+    <Text>M92F migliorato.\nUsa munizioni\nspeciali da 9mm.\n</Text>
+    <Text>Fucile migliorato.\nUsa proiettili\nspeciali.\n</Text>
+    <Text>Lancia mine\ncaricato con\nproiettili{clear 0}autoguidanti.\n</Text>
+    <Text>Proiettili 9x19\nUtilizzati per la\nM92FS o il SIGPRO.\n</Text>
+    <Text>Proiettili .44\nMagnum. Potenti\nmunizioni usate{clear 0}per la S&amp;W M629C.\n</Text>
+    <Text>Cartuccie per\nil Benelli M3S.\n</Text>
+    <Text>Granate esplosive.{clear 0}Munizioni standard\nche rilasciano\nframmenti quando{clear 0}colpiscono il\nbersaglio.{clear 0}Usate per l'Hk-p\nlanciagranate.\n</Text>
+    <Text>Granate\ninfiammabili{clear 0}Munizioni speciali\nla cui testata è\npiena di potente{clear 0}napalm gel.{clear 0}Usate per l'Hk-p\nlanciagranate.\n</Text>
+    <Text>Granate acide.{clear 0}Munizioni speciali\nla cui testata è\npiena di acido{clear 0}solforico \nanti-mostri. {clear 0}Usate per l'Hk-p\nlanciagranate.\n</Text>
+    <Text>Granate congelanti.{clear 0}Munizioni speciali\nla cui testata è\npiena di azoto{clear 0}liquido a\nbassissima\ntemperatura.{clear 0}Usate per l'Hk-p\nlanciagranate.\n</Text>
+    <Text>Munizioni speciali\nche tramite\nsensori esplodono{clear 0}quando avvicinate\nda chiunque non\nsia il possessore.{clear 0}Usate per il\nlancia mine.\n</Text>
+    <Text>Proiettili 5.56mm\nNATO. In dotazione\nall'esercito per{clear 0}il fucile d'assalto\nM4A1.\n</Text>
+    <Text>Munizioni da 9mm\ncreate con polvere\nda sparo ottenuta{clear 0}grazie allo\nstrumento di\nricarica. {clear 0}Usate per la M92F\ne il SIGPRO.\n</Text>
+    <Text>Proiettili calibro\n12 migliorati con\npolvere da sparo{clear 0}ottenuta grazie\nallo strumento di\nricarica.{clear 0}Usati per il\nBenelli M3S.\n</Text>
+    <Text>Questo rigenererà\ncompletamente\nla tua energia.{clear 0}</Text>
+    <Text>Un'erba rara che\nrigenera l'energia\ne la cui{clear 0}efficacia accresce\nse mescolata con\naltre erbe.\n</Text>
+    <Text>Un'erba rara che\nneutralizza i\nveleni e la cui{clear 0}efficacia accresce \nse mescolata con \naltre erbe.\n</Text>
+    <Text>Un'erba rara che\naccresce l'effetto\ndelle erbe verdi.{clear 0}Migliora\nse mescolata\ncon altre erbe.\n</Text>
+    <Text>Una miscela di\ndue erbe verdi.\n</Text>
+    <Text>Una miscela di\n1 erba verde e\n1 erba blu.\n</Text>
+    <Text>Una miscela di\n1 erba verde e\n1 erba rossa.\n</Text>
+    <Text>Una miscela di\n3 erbe verdi.\n</Text>
+    <Text>Una miscela di\n2 erbe verdi e\n1 erba blu.\n</Text>
+    <Text>Una miscela di\n1 erba verde, 1\nblu e 1 rossa.\n</Text>
+    <Text>Può contenere fino\na 3 spray\ntonificanti.\n</Text>
+    <Text>Una manovella di\nforma quadrata.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Carta d'identità\ndella ＳＴＡＲＳ con la\nfoto di Jill.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Una batteria di\nvecchio tipo.\nSembra potente{clear 0}quanto una di\nquelle moderne.\n</Text>
+    <Text>Il suo bordo è a\nforma di uncino.{clear 0}Dovrebbe servire\nper agganciare\nqualcosa.\n</Text>
+    <Text>Cavo elettrico ad\nelevata conduzione\nda usare con{clear 0}macchinari di\ngrandi dimensioni.\n</Text>
+    <Text>Fusibile per il\ngeneratore\nelettrico da usare{clear 0}con macchinari di\ngrandi dimensioni.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Aggiungendolo alla\nlubrificatrice si\ntrasformerà {clear 0}nell'olio ideale\nda utilizzare in\ngrandi macchinari.\n</Text>
+    <Text>All'interno della\ncustodia c'è una\ntessera.\n</Text>
+    <Text>Carta d'identità\ndella ＳＴＡＲＳ con la\nfoto di Brad.\n</Text>
+    <Text>Olio per piccoli\nmacchinari. Non\npuò essere usato{clear 0}da solo per gli\napparecchi di\ngrandi dimensioni.\n</Text>
+    <Text>Olio miscelato con\nil suo additivo\nutilizzabile per{clear 0}i generatori\nelettrici di\ngrandi macchinari.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Strumento per\nsvitare \nbulloni esagonali.\n</Text>
+    <Text>Tubo di ferro per\nperdite di gas. È\nresistente e lungo{clear 0}a sufficienza per\nessere usato come\nleva.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Tubo da connettere\na un idrante\nantincendio.\n</Text>
+    <Text>Un registratore\nportatile su cui\nè registrata{clear 0}la diagnosi di un\npaziente.\n</Text>
+    <Text>Combustibile\nper l'accendino.\n</Text>
+    <Text>Non ha più nafta\ne non può essere\nusato da solo.\n</Text>
+    <Text>Un accendino.\n</Text>
+    <Text>Un verde smeraldo\nsplendente.\n</Text>
+    <Text>Uno zaffiro blu\nbrillante.\n</Text>
+    <Text>Una sfera d'ambra.\n</Text>
+    <Text>Una sfera di\nossidiana.\n</Text>
+    <Text>Una sfera di\ncristallo.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Un ingranaggio\ntutto d'oro.\n</Text>
+    <Text>Un ingranaggio\ntutto d'argento.\n</Text>
+    <Text>Un ingranaggio\nprogettato molti\nanni fa.\n</Text>
+    <Text>Un oggetto di\nbronzo a forma\ndi libro.{clear 0}Su di esso c'è\nscritto: ‟Il\nSapere conosciuto”.\n</Text>
+    <Text>Una bussola di\nbronzo.{clear 0}C'è scritto ‟Il\nfuturo è nelle mie\nmani”.\n</Text>
+    <Text>L'eccipiente del \nvaccino deve essere\n misto con la base{clear 0}per creare il \nvaccino finale.\n</Text>
+    <Text>La base del vaccino\n deve essere mista\n con l'eccipiente{clear 0}per creare il \nvaccino.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Vaccino efficace\ncontro l'infezione\nvirale.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>L'eccipiente base \nè usato per creare \nl'eccipiente {clear 0}necessario alla \nproduzione del \nvaccino.</Text>
+    <Text>Set di componenti\ndi un'arma. Mirino\ne cursore.{clear 0}Un'arma non può\nessere composta di\nqueste sole parti.\n</Text>
+    <Text>Set di componenti\ndi un'arma. Telaio\ne caricatore.{clear 0}Un'arma non può\nessere composta di\nqueste sole parti.\n</Text>
+    <Text>Un telaio di legno\ne una camera\nd'aria. {clear 0}Un'arma non può\nessere composta di\nqueste sole parti.\n</Text>
+    <Text>Parti di grilletto\ndi una pistola. La\ncanna è mozza.{clear 0}Un'arma non può\nessere composta di\nqueste sole parti.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Una catena fatta\nper adorare il\ndio del tempo.{clear 0}C'è un buco per\nuna vite vicino\nall'ornamento.\n</Text>
+    <Text>Una manovella\nesagonale con la\npresa arrugginita.\n</Text>
+    <Text>Serve per il lettore\nmagnetico presente\nsul dispositivo{clear 0}di evacuazione.\n</Text>
+    <Text>Uno degli oggetti\nutili per creare\nle munizioni. Può{clear 0}essere combinato\ncon lo strumento\ndi ricarica o con{clear 0}le granate.\n</Text>
+    <Text>Uno degli oggetti\nutili per creare\nle munizioni. Può{clear 0}essere combinato\ncon lo strumento\ndi ricarica o con{clear 0}le granate.\n</Text>
+    <Text>Uno degli oggetti\nutili per creare\nle munizioni. Può{clear 0}essere combinato\ncon lo strumento\ndi ricarica o con{clear 0}le granate.\n</Text>
+    <Text>Combinazione di due\npolveri da sparo\ndi tipo A.{clear 0}Può essere\nutilizzata con lo\nstrumento di{clear 0}ricarica o con\nle granate.\n</Text>
+    <Text>Combinazione di due\npolveri da sparo\ndi tipo B.{clear 0}Può essere\nutilizzata con lo\nstrumento di{clear 0}ricarica o con\nle granate.\n</Text>
+    <Text>Combinazione di due\npolveri da sparo di\ntipo A e C.{clear 0}Utilizzabile con\nlo strumento di\nricarica.\n</Text>
+    <Text>Combinazione di due\npolveri da sparo di\ntipo B e C.{clear 0}Utilizzabile con\nlo strumento di\nricarica.\n</Text>
+    <Text>Combinazione di due\npolveri da sparo C.{clear 0}Può essere\nutilizzata con lo\nstrumento di{clear 0}ricarica o con\nle granate.\n</Text>
+    <Text>Combinazione di tre\npolveri da sparo A.{clear 0}Può essere\nutilizzata con lo\nstrumento di{clear 0}ricarica o con\nle granate.\n</Text>
+    <Text>Combinazione di 2\npolveri da sparo A\ne 1 B.{clear 0}Utilizzabile con\nlo strumento di\nricarica.\n</Text>
+    <Text>Combinazione di 2\npolveri da sparo B\ne 1 A.{clear 0}Utilizzabile con\nlo strumento di\nricarica.\n</Text>
+    <Text>Combinazione di tre\npolveri da sparo B.{clear 0}Può essere\nutilizzata con lo\nstrumento di{clear 0}ricarica o con\nle granate.\n</Text>
+    <Text>Combinazione di tre\npolveri da sparo C.{clear 0}Può essere\nutilizzata con lo\nstrumento di{clear 0}ricarica o con\nle granate.\n</Text>
+    <Text>Quando combinato\ncon un'arma si\nottengono{clear 0}proiettili\nillimitati.\n</Text>
+    <Text>Campione d'acqua \ndelle fogne del \nstabilimento. {clear 0}Dimostra di aver\nsuperato i test \ndi infezione.\n</Text>
+    <Text>Sembra essere un\ndisco di sistema\nin grado di{clear 0}sbloccare la porta\ndella stanza di\ntrattamento.\n</Text>
+    <Text>Dummy\n</Text>
+    <Text>Con questo posso\nforzare le piccole\nserrature.\n</Text>
+    <Text>Una piccola chiave\ncon una targhetta{clear 0}su cui c'è scritto\n‟Porta sul retro”.\n</Text>
+    <Text>Sembra essere una\nchiave\ndell'infermeria.{clear 0}Sulla targhetta\nc'è scritto ‟402”.\n</Text>
+    <Text>C'è inciso lo\nstemma della\nＳＴＡＲＳ.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>È una chiave\nornata con un\npezzo di orologio.\n</Text>
+    <Text>È una chiave\nornata con un\npezzo di orologio.{clear 0}Possiede un\nornamento a forma\ndi vite su cui{clear 0}avvitare un oggetto\ndi forma rotonda.\n</Text>
+    <Text>Una chiave fatta\nper adorare il\ndio del tempo.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Chiave dell'entrata\nprincipale del\nParco di Raccoon.\n</Text>
+    <Text>È la chiave\ndi un mercenario.{clear 0}C'è scritto\n‟Cimitero di\nRaccoon City”.\n</Text>
+    <Text>Una piccola chiave\ncon attaccato un\nanello di ferro{clear 0}sul quale c'è\nscritto ‟Cancello\nposteriore”.\n</Text>
+    <Text>C'è attaccata una\ntessera di plastica\ncon un numero di{clear 0}identificazione.\nSembra che questo\nsia ricoperto{clear 0}da uno strano\ndisegno.\n</Text>
+    <Text>La tessera si sta\nirradiando e mostra \nun codice chiave.</Text>
+    <Text>Chiave del negozio\ndel quartiere\nresidenziale.\n</Text>
+    <Text>Usando questo con\nuna macchina da\nscrivere posso{clear 0}salvare i miei\nprogressi di\ngioco.\n</Text>
+    <Text>Uno strumento da \nusare insieme alla\npolvere da sparo {clear 0}per caricare nelle\npallottole vuote\ni mix ottenuti.\n</Text>
+    <Text>Istruzioni di \ngioco. Forniscono\ninfo riguardanti{clear 0}varie azioni, la\nschermata della\nmappa e gli{clear 0}avvenimenti che\navvengono sullo\nschermo.\n</Text>
+    <Text>Istruzioni per\ncreare munizioni.\nSpiegano come usare{clear 0}polvere da sparo e\nlo strumento\ndi ricarica.\n</Text>
+    <Text></Text>
+    <Text></Text>
+</Strings>

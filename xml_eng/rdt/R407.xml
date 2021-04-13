@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}\n{branch 0}</Text>
+    <Text>{scroll 2}A doctor's body.\nHe is holding a slip.{clear 0}The numbers ‟325” are\nprinted on the slip.</Text>
+    <Text>{scroll 2}A doctor's body.\nHe is holding a slip.{clear 0}The numbers ‟104” are\nprinted on the slip.</Text>
+    <Text>{scroll 2}A doctor's body.\nHe is holding a slip.{clear 0}The numbers ‟531” are\nprinted on the slip.</Text>
+    <Text>{scroll 2}A doctor's body.\nHe is holding a slip.{clear 0}The numbers ‟253” are\nprinted on the slip.</Text>
+    <Text>{scroll 2}Something seems to have \nbeen placed here...</Text>
+</Strings>

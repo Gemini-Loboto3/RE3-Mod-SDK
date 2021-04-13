@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 2}\nLa porta è stata sigillata.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Il passaggio è totalmente\nbloccato.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n‟Bar Jack”</Text>
+    <Text>{scroll 2}Dei giornali locali sono \nstati sparpagliati {clear 0}\nnella zona.</Text>
+    <Text>{scroll 2}\n‟Grandi occasioni!!”</Text>
+    <Text>{scroll 2}\nL'imposta è abbassata.</Text>
+    <Text>{scroll 2}Un solido cancello. Sembra\nche non possa essere aperto.</Text>
+    <Text>{scroll 2}È chiusa con un grosso\ncalibro.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

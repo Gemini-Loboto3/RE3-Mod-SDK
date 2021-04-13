@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}Una macchina parcheggiata.\nNiente di sospetto.</Text>
+    <Text>{scroll 2}\nIl cancello è chiuso.</Text>
+    <Text>{scroll 2}\nNiente di utile.</Text>
+    <Text>{scroll 2}Sembra che non arrivi\nenergia.</Text>
+    <Text>{scroll 2}La batteria si \nstava caricando.{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}{branch 160}Arrampicati.{live}Salta giù.{live}</Text>
+</Strings>

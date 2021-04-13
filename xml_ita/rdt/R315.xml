@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Una campana per la torre\nDell'orologio. {clear 0}\nPosso spingerla.</Text>
+    <Text>{scroll 2}Il corpo di un compagno. \nDeve aver combattuto per {clear 0}completare la sua missione\nfino all'ultimo respiro.</Text>
+</Strings>

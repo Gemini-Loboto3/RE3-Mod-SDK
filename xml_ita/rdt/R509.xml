@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>{scroll 2}Il rubinetto è troppo \nduro per essere aperto.</Text>
+    <Text>{scroll 2}\nÈ chiuso elettronicamente</Text>
+    <Text>{scroll 2}\nC'è un lettore di schede.</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 0}\nAttenzione. {scroll 1}{clear 42}{scroll 0}Avanzamento operazione nella \nsala trattamenti. {scroll 1}{clear 110}{scroll 0}Si prega di evacuare \nimmediatamente.{scroll 1}{timed 80}</Text>
+</Strings>

@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}Some kind of observation\nsystem is running.{clear 0}It seems to have been\ninstalled recently.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nThere's a security system.{clear 0}‟System power: Stand-by \nmode. Water check: Error.”{clear 0}‟Manual verification is \nrequired to unlock.”</Text>
+    <Text>{scroll 2}\nThere's a security system.{clear 0}‟System power: Stand-by \nmode. Water check: OK.”{clear 0}‟Manual verification is \nrequired to unlock.”</Text>
+    <Text>{scroll 2}\nThere's a security system.{clear 0}‟System power: OK.\nWater check: Error.”{clear 0}‟Manual verification is \nrequired to unlock.”</Text>
+    <Text>{scroll 2}\nThere's a security system.{clear 0}‟System power: OK.\nWater check: OK.”</Text>
+    <Text>{scroll 2}Will you push the button?\n{branch 0}</Text>
+    <Text>{scroll 2}\nIt is locked by a system.</Text>
+</Strings>

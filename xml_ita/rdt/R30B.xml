@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 0}{branch 160}Usa la luce.{live}Usa la corda.{live}</Text>
+    <Text>{scroll 2}Sembra invecchiata \ne sgretolata.</Text>
+    <Text>{scroll 2}\nIl pavimento è bagnato.</Text>
+    <Text>{scroll 2}Un impianto che illumina\nla piastra delle ore{clear 0}\ndell'orologio.</Text>
+    <Text>{scroll 2}Sembra che sia stata\naccorciata.</Text>
+    <Text>{scroll 2}Vuoi premere\nl'interruttore?{branch 0}</Text>
+    <Text>{scroll 2}{cut 6}C'è una toppa sulla\nlastra di rame.{clear 0}Vuoi utilizzare la\n{color 1}{string 119}{color 0}?{branch 0}</Text>
+    <Text>{scroll 2}{cut 6}C'è una toppa sulla\nlastra di rame.</Text>
+    <Text>{scroll 2}Un interruttore\nper la luce.</Text>
+    <Text>{scroll 2}Questa chiave è ora\ninutile.{clear 0}Vuoi lasciarla?\n{branch 0}</Text>
+</Strings>

@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}It's locked with a simple\nlock.</Text>
+    <Text>{scroll 2}It's locked with a simple\nlock.{clear 0}Will you use the {color 1}Lockpick{color 0}?\n{branch 0}</Text>
+    <Text>{scroll 2}It's locked with a \nnumber-based lock.{clear 0}{scroll 2}First digit number?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quit{live}</Text>
+    <Text>{scroll 2}Second digit number?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quit{live}</Text>
+    <Text>{scroll 2}Third digit number?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quit{live}</Text>
+    <Text>{scroll 2}Fourth digit number?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quit{live}</Text>
+    <Text>{scroll 2}\nNothing is left.</Text>
+</Strings>

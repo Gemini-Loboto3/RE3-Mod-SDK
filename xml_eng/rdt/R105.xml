@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}\nThe shutter is down.</Text>
+    <Text>{scroll 2}\nThere's a square hole.</Text>
+    <Text>{scroll 2}\nA discarded toy box.</Text>
+    <Text>{scroll 2}Garbage is scattered\naround the area.</Text>
+    <Text>{scroll 2}\nVarious want ads.</Text>
+    <Text>{scroll 2}‟Umbrella announces a\nnew miracle drug!{clear 0}It will make you look and\nfeel 10 years younger!”</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

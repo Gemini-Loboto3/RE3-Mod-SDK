@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}Carrelli e vecchi aggeggi\nper l'osservazione.</Text>
+    <Text>{scroll 2}Che piano vuoi visitare?\n{branch 64}3P{live}PT{live}Apri{live}Annulla{live}</Text>
+    <Text>{scroll 2}\nLa porta non si chiude!</Text>
+    <Text>{scroll 2}Sei troppo impegnato\nper questo!</Text>
+    <Text>{scroll 2}Grosse macchine sono \ncostruite nel muro.</Text>
+</Strings>

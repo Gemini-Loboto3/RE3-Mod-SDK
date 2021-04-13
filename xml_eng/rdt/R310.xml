@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 2}I must take care of her\nas soon as possible...</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 97}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 194}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 111}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{clear 108}{scroll 0}                  \n                  {scroll 1}{timed 132}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+</Strings>

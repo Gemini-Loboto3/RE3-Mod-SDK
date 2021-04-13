@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}A maiden's statue holding\na tray.{clear 0}An {color 1}Amber Ball{color 0} is on the \ntray.</Text>
+    <Text>{scroll 2}A maiden's statue holding\na tray.{clear 0}An {color 1}Obsidian Ball{color 0} is on the \ntray.</Text>
+    <Text>{scroll 2}A maiden's statue holding \na tray.{clear 0}A {color 1}Crystal Ball{color 0} is on the \ntray.</Text>
+    <Text>{scroll 2}\n‟Past Goddess”{clear 0}There is a tray under the\npicture.</Text>
+    <Text>{scroll 2}\n‟Present Goddess”{clear 0}There is a tray under the\npicture.</Text>
+    <Text>{scroll 2}\n‟Future Goddess”{clear 0}There is a tray under the\npicture.</Text>
+    <Text>{scroll 2}Will you put the {color 1}Amber \nBall{color 0} on the tray?{branch 0}</Text>
+    <Text>{scroll 2}Will you put the {color 1}Obsidian  \nBall{color 0} on the tray?{branch 0}</Text>
+    <Text>{scroll 2}Will you put the {color 1}Crystal  \nBall{color 0} on the tray?{branch 0}</Text>
+    <Text>{scroll 2}There's an {color 1}Obsidian Ball{color 0} on\nthe tray.</Text>
+    <Text>{scroll 2}There's a {color 1}Crystal Ball{color 0} on\nthe tray.</Text>
+    <Text>{scroll 2}A spare bell for the\nclock tower.{clear 0}It would take incredible\nstrength to move it.</Text>
+    <Text>{scroll 2}The bell must have been \nset here to shut out the {clear 0}\ninvaders.</Text>
+    <Text>{scroll 2}\nAn Umbrella mercenary.{clear 0}It seems that he died\ntrying to shield{clear 0}\nsomeone's daughter.</Text>
+    <Text>{scroll 2}{scroll 2}\n{scroll 2}There's an {color 1}Amber Ball{color 0} on\nthe tray.</Text>
+    <Text>{scroll 2}\n{scroll 2}There's an {color 1}Amber Ball{color 0} on\nthe tray.</Text>
+    <Text>{scroll 2}There's an {color 1}Amber Ball{color 0} on\nthe tray.</Text>
+    <Text>{scroll 2}\nThere's nothing more.</Text>
+</Strings>

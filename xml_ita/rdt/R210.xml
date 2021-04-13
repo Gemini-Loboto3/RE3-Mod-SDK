@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}L'imposta antincendio è \nabbassata.</Text>
+    <Text>{scroll 2}C'è un interruttore per\nl'imposta antincendio.{clear 0}Manca l'alimentazione. \nNon si muove.</Text>
+    <Text>{scroll 2}C'è un interruttore per\nl'imposta antincendio.{clear 0}Vuoi premerlo?\n{branch 0}</Text>
+    <Text>{scroll 2}Non arriva energia al \ncentralino.{clear 0}Vuoi accenderlo?\n{branch 0}</Text>
+    <Text>{scroll 2}La corrente è stata \nripristinata.</Text>
+    <Text>{scroll 2}</Text>
+</Strings>

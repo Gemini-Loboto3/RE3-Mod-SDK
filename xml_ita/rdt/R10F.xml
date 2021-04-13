@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}Ci sono dei vestiti che \ndovrebbero andarti bene.{clear 0}Vuoi cambiare i tuoi\nvestiti?{branch 0}</Text>
+    <Text>{scroll 2}Ci sono dei vestiti che \ndovrebbero andarti bene.{clear 0}Vuoi cambiare i tuoi\nvestiti?{branch 0}</Text>
+    <Text>{scroll 2}{snd 22}\nLa porta è chiusa.</Text>
+</Strings>

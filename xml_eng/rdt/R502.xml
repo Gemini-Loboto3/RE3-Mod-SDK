@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>{scroll 2}This controls the power \nfor the safety system.{clear 0}\nIt's set to stand-by mode.{clear 0}Will you push the switch?\n{branch 0}</Text>
+    <Text>{scroll 2}Power is being supplied\nto the safety system.</Text>
+    <Text>{scroll 2}Will you push the switch?\n{branch 0}</Text>
+    <Text>{scroll 2}There is a {color 1}Card Key\n{color 0}reader.</Text>
+    <Text>{scroll 2}It is closed with a \nsturdy-looking door.{clear 0}{cut 8}There's a tiny slot where \na plastic card could fit.</Text>
+    <Text>{scroll 2}You no longer need this\n{color 1}Card Key{color 0}.{clear 0}Will you discard it?\n{branch 0}</Text>
+    <Text>{scroll 2}Power has been supplied to\nthe safety system.</Text>
+    <Text>{scroll 2}The lock seems to have \nbeen released.</Text>
+    <Text>{scroll 2}The elevator won't move\nbecause it is locked{clear 0}\nwith a {color 1}Card Key{color 0}.</Text>
+</Strings>

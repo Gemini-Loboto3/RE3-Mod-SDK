@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}La statua di una vergine \nche sorregge un vassoio.{clear 0}C'è una {color 1}Sfera d'ambra{color 0}\nsul vassoio.</Text>
+    <Text>{scroll 2}La statua di una vergine \nche sorregge un vassoio.{clear 0}C'è una {color 1}Sfera ossidiana{color 0}\nsul vassoio.</Text>
+    <Text>{scroll 2}La statua di una vergine \nche sorregge un vassoio.{clear 0}C'è una {color 1}Sfera cristallo{color 0}\nsul vassoio.</Text>
+    <Text>{scroll 2}\n‟Dea del passato”{clear 0}{clear 0}C'è un vassoio sotto \nil quadro.</Text>
+    <Text>{scroll 2}\n‟Dea del presente”{clear 0}{clear 0}C'è un vassoio sotto \nil quadro.</Text>
+    <Text>{scroll 2}\n‟Dea del futuro”{clear 0}{clear 0}C'è un vassoio sotto \nil quadro.</Text>
+    <Text>{scroll 2}Vuoi mettere {color 1}Sfera d'ambra{color 0}  \nsul vassoio?{branch 0}</Text>
+    <Text>{scroll 2}Vuoi mettere {color 1}Sfera ossidiana{color 0}  \nsul vassoio?{branch 0}</Text>
+    <Text>{scroll 2}Vuoi mettere {color 1}Sfera cristallo{color 0}  \nsul vassoio?{branch 0}</Text>
+    <Text>{scroll 2}C'è un {color 1}Sfera ossidiana{color 0} sul\nvassoio.</Text>
+    <Text>{scroll 2}C'è un {color 1}Sfera cristallo{color 0} sul\nvassoio.</Text>
+    <Text>{scroll 2}Una campana di riserva per\nla torre dell'orologio.{clear 0}Ci vorrebbe una forza \nenorme per spostarla.</Text>
+    <Text>{scroll 2}La campana deve essere\nstata messa lì per {clear 0}\nbloccare gli invasori.</Text>
+    <Text>{scroll 2}Un mercenario di\nUmbrella.{clear 0}Sembra che sia morto\ncercando di proteggere{clear 0}\nla figlia di qualcuno.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}C'è un {color 1}Sfera d'ambra{color 0} sul\nvassoio.</Text>
+    <Text>{scroll 2}\nNon c'è nient'altro.</Text>
+</Strings>

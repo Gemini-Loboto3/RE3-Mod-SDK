@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\nAn Umbrella mercenary.</Text>
+    <Text>{scroll 2}The stairs are broken and\ncannot be used.</Text>
+    <Text>{scroll 2}The pillars are collapsed \nand the door won't open.</Text>
+    <Text>{scroll 2}He is holding something in \nhis hand.</Text>
+</Strings>

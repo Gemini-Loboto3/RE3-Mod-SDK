@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>{scroll 2}\n‟Place your wisdom here.”{clear 0}There's a hollow space for\nsomething to be put in.</Text>
+    <Text>{scroll 2}\n‟Place your wisdom here.”</Text>
+    <Text>{scroll 2}‟The future is in our \nhands.”{clear 0}There's a hollow space\nwhere a compass used to be.</Text>
+    <Text>{scroll 2}‟The future is in our \nhands.”</Text>
+    <Text>{scroll 2}‟We must channel our \nknowledge to the future.”{clear 0}‟For it shall always show \nus our greatest destiny.”{clear 0}‟Raccoon City Mayor, \nMichael Warren.”</Text>
+    <Text>{scroll 2}The barricade is blocking\nthe way.</Text>
+    <Text>{scroll 2}The gate is closed tight\nand will not open.</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 213}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 187}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 144}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 151}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\n                  {clear 81}\n                  {scroll 1}{timed 117}</Text>
+    <Text>{scroll 2}\nYou're too busy for that!</Text>
+</Strings>

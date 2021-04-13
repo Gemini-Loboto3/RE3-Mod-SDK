@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}Un carillon con una \ndecorazione elaborata.{scroll 2}{clear 0}Ci sono degli interruttori\nmarcati dalla A alla F.{scroll 2}{clear 0}Vuoi azionare gli\ninterruttori?{branch 0}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}Alcuni vecchi macchinari\nben tenuti.</Text>
+    <Text>{scroll 2}{cut 5}Un bell'aggeggio \nornamentale.</Text>
+    <Text>{scroll 2}{cut 5}Gli ingranaggi si stanno\nmuovendo.</Text>
+    <Text>{scroll 2}{cut 5}\nNon succede niente.</Text>
+</Strings>

@@ -1,0 +1,28 @@
+﻿<Strings>
+    <Text>{scroll 2}It's locked with a simple\nlock.</Text>
+    <Text>{scroll 2}It's locked with a simple\nlock.{clear 0}Will you use the {color 1}{string 0}{color 0}?\n{branch 0}</Text>
+    <Text>{scroll 2}                  \nFlammable gas is leaking.</Text>
+    <Text>{scroll 2}                  \nThe lamp is lit.</Text>
+    <Text>{scroll 2}Buy-in situations of\nvarious foodstuffs are{clear 0}                  \nwritten here.</Text>
+    <Text>{scroll 2}                  \nHeavy-looking cover.{clear 0}There's a hole to hook\nsomething onto.</Text>
+    <Text>{scroll 2}The phone line seems to\nbe disconnected.</Text>
+    <Text>{scroll 2}                  \nNothing suspicious.</Text>
+    <Text>{scroll 2}It seems to be a switch\nfor the drain.</Text>
+    <Text>{scroll 2}It seems to be a switch\nfor the drain.{clear 0}Will you push the switch?\n{branch 0}</Text>
+    <Text>{scroll 2}                  \n                  {clear 0}                  \n                  </Text>
+    <Text>{scroll 2}The water surface can be \nseen below.</Text>
+    <Text>{scroll 0}                  \n                  {clear 36}                  \n                  {scroll 1}{timed 31}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}                  \n                  {clear 38}                  \n                  {scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}{branch 160}Run into the basement.{live}Hide inside the kitchen.{live}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}                  \n                  {clear 38}                  \n                  {scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 220}</Text>
+</Strings>

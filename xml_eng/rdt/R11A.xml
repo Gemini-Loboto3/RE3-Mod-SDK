@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}A picture of the\nＳＴＡＲＳ team members.</Text>
+    <Text>{scroll 2}It's the desk of WeskerⅠ\nCaptain of ＳＴＡＲＳ</Text>
+    <Text>{scroll 2}There isn't anything\nuseful on this shelf.</Text>
+    <Text>{scroll 2}It's the desk of Barry,\na ＳＴＡＲＳ team member.{clear 0}A pair of replica guns\nare on the desk.</Text>
+    <Text>{scroll 2}There are various\ntrophies.{clear 0}\nOne of them reads:{clear 0}‟Marksman Contest Winner:\nChris Redfield”</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}It's the desk of Chris,\na ＳＴＡＲＳ team member.{clear 0}Its disorganization\nprobably reflects the{clear 0}\nowner's personality.</Text>
+    <Text>{scroll 2}It's the desk of Rebecca,\na rookie member of ＳＴＡＲＳ</Text>
+    <Text>{scroll 2}A box of files from past\ncases.{clear 0}\nNothing useful here.</Text>
+    <Text>{scroll 2}A large communications\ndevice.{clear 0}\nIt's out of commission.{clear 0}I can't send\nany messages from here.</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 216}{scroll 0}\n{scroll 2}{timed 156}</Text>
+</Strings>

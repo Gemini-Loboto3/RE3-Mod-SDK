@@ -1,0 +1,26 @@
+﻿<Strings>
+    <Text>{scroll 0}\nAspetta... devo chiederti una cosa.{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}Lo so... Sei già pazza di me... \nTutte le ragazze amano il {clear 129}\nmio accento. Le fa impazzire...{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}\nCosa? Continua a sognare... {clear 85}dimmi invece parche Umbrella \nvi ha spedito quaggiù?{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}\nSiamo qui per salvare i cittadini.{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\nNon mentirmi...{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}Umbrella è responsabile per \ntutto questo disastro!{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}Ascolta. Noi siamo solo \nmercenari, assunti a pagamento.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}Pensi davvero che il padrone \ndica ai suoi cagnolini perché {clear 76}devono riportargli il bastone \nche ha appena lanciato?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Se vuoi delle risposte, devi \nchiedere a qualcun altro. {clear 79}Non ho nulla a che fare con \nUmbrella.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Dobbiamo finire questo discorso \npiù tardi.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Se ti fidi di me, allora \ndacci una mano!{scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}\nRiflettici e fammi sapere!{scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}\nDevo chiederti una cosa.{scroll 1}{timed 63}</Text>
+    <Text>{scroll 0}Perché Umbrella vi ha spedito \nin questo posto?{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}La nostra missione consiste \nnel salvare i cittadini.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nChe gentili...{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}Considerato che Umbrella \nè la responsabile di tutto {clear 69}\nquesto! Maledetti bugiardi...{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Ascolta. Noi siamo solo mercenari, \nassunti a pagamento.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Huh? Non c'è tempo per le \ndiscussioni.{scroll 1}{timed 97}</Text>
+    <Text>{scroll 0} Se ti fidi di me, allora \nunisciti a noi!{clear 72}\nPensaci e fammi sapere!{scroll 1}{timed 56}</Text>
+    <Text>{scroll 2}\nNiente di speciale.</Text>
+    <Text>{scroll 2}C'è un grosso buco per\nla ventilazione.</Text>
+</Strings>

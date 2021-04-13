@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{clear 34}It all began as an ordinary\nday in september.{clear 84}An ordinary day in\nRaccoon City.{clear 84}\nA city controller by Umbrella.{timed 82}</Text>
+    <Text>{scroll 0}\n{clear 45}No one dared to oppose them,\nand that lack of strength{clear 93}would ultimately lead to their\ndestruction.{timed 90}</Text>
+    <Text>{scroll 0}\n{clear 66}I suppose they have to suffer\nthe consequences of their actions,{clear 105}\nbut there will be no forgiveness.{clear 54}If only they've had the\ncourage to fight...!{clear 96}\n{clear 108}It's true that once the wheels\nof justice begin to turn{clear 85}nothing can stop them...\nNothing.{timed 117}</Text>
+    <Text>{scroll 0}\n{clear 55}It was Raccoon City's last chance...{clear 108}And my last chance.\nMy last escape...{timed 108}</Text>
+</Strings>

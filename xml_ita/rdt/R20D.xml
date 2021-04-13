@@ -1,0 +1,28 @@
+﻿<Strings>
+    <Text>{scroll 0}                  \nVado laggiù a controllare.{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \nNicholai!!{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}                  \nJill!{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}Hey, gli zombie si\nstanno spazientendo.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}                  \nLo so! {scroll 1}{timed 31}</Text>
+    <Text>{scroll 0}Li riesco a sentire.\nChe cosa sta accadendo?{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}                  \nJill!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}                  \nCosa c'è che non va?{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}                  \nStanno arrivando!{scroll 1}{timed 27}</Text>
+    <Text>{scroll 0}Devono averci fiutato e\nora sanno che siamo qui!{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}                  \nHey, calmati.{scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}Qualche obiezione sul\nmio voler fare l'eroe{clear 38}\nquesta volta?{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}Che cosa stai facendo!\nVieni qui!{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \nCarlos!{scroll 1}{timed 33}</Text>
+    <Text>{scroll 2}È un serbatoio per \nmantenere costante{clear 0}\nla temperatura dell'olio.</Text>
+    <Text>{scroll 2}È un serbatoio per \nmantenere costante{clear 0}\nla temperatura dell'olio.{clear 0}Vuoi azionare la chiusura\nelettronica? {branch 0}</Text>
+    <Text>{scroll 2}È un serbatoio per \nmantenere costante{clear 0}\nla temperatura dell'olio.{clear 0}\nNiente di utile qui.</Text>
+    <Text>{scroll 2}Attrezzatura per\nil lavaggio auto.</Text>
+    <Text>{scroll 2}                  \nUn banco trascurato.</Text>
+    <Text>{scroll 2}Ci sono degli attrezzi \nper dipingere.</Text>
+    <Text>{scroll 2}                  \nNiente di speciale.</Text>
+    <Text>{scroll 2}È inzuppato con olio \nmacchina.</Text>
+    <Text>{scroll 2}Carlos sta guardando\nfuori.</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 42}</Text>
+</Strings>

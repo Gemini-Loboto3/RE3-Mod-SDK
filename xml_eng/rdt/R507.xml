@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}It is filled with a nasty \nsmelling liquid.</Text>
+    <Text>{scroll 2}You cannot get any closer\nthan this.</Text>
+    <Text>{scroll 2}The water pollution\ncontrol device has stopped{clear 0}functioning. It displays\nan error message.</Text>
+    <Text>{scroll 2}‟When activating a\npolluted water disposal{clear 0}device, make sure that\nthe area has been{clear 0}evacuated of all\npersonnel.”</Text>
+</Strings>

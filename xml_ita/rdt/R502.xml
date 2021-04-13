@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>{scroll 2}Questo controlla\nl'accensione del sistema{clear 0}\ndi sicurezza.{clear 0}\nÈ impostato su stand-by.{clear 0}Vuoi premere\nl'interruttore?{branch 0}</Text>
+    <Text>{scroll 2}È stata data corrente\nal sistema di sicurezza.</Text>
+    <Text>{scroll 2}Vuoi premere\nl'interruttore?{branch 0}</Text>
+    <Text>{scroll 2}\nC'è un lettore di schede.</Text>
+    <Text>{scroll 2}È chiuso con una solida\nporta.{clear 0}{cut 8}C'è un minuscolo spazio\ndove può essere infilata{clear 0}\nuna scheda di plastica.</Text>
+    <Text>{scroll 2}Non hai più bisogno di \nquesta {color 1}Chiave{color 0}.{clear 0}Vuoi scartarla?\n{branch 0}</Text>
+    <Text>{scroll 2}È stata data corrente\nal sistema di sicurezza.</Text>
+    <Text>{scroll 2}Sembra che le serrature\nsiano state sbloccate.</Text>
+    <Text>{scroll 2}È impossibile usare l'ascensore \nsenza una scheda.</Text>
+</Strings>

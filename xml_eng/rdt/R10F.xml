@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}There is an outfit that\nshould fit you.{clear 0}{scroll 2}Will you change your\nclothes?{branch 0}</Text>
+    <Text>{scroll 2}There is an outfit that\nshould fit you.{clear 0}{scroll 2}Will you change your\nclothes?{branch 0}</Text>
+    <Text>{scroll 2}{snd 22}\nThe door is locked.</Text>
+</Strings>

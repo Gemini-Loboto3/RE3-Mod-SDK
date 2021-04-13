@@ -1,0 +1,28 @@
+﻿<Strings>
+    <Text>{scroll 2}Questo fuoco è troppo \nvivo perché io riesca{clear 0}\na passare.</Text>
+    <Text>{scroll 2}Dei documenti su bizzarri\navvenimenti sono sparsi {clear 0}\novunque.</Text>
+    <Text>{scroll 2}Dalla finestra si può \nscorgere uno stretto {clear 0}\nsentiero.</Text>
+    <Text>{scroll 0}\nDove... Dove mi trovo...{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\nCalmati. È tutto ok.{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}Avrai anche ragione, ma la \ntesta mi sta esplodendo.{scroll 1}{timed 145}</Text>
+    <Text>{scroll 0}Ad ogni modo, \nio mi chiamo Carlos. {clear 44}\nPiacere di incontrarla signora.{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}\nJill. Squadra Alfa. {clear 60}Unità ＳＴＡＲＳ del Reparto di \nPolizia di Raccoon.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\nＳＴＡＲＳ. Però... {clear 30}Bene, Io sono un membro della \nForza di Contromisura {clear 85}Biologica mandata dalla \nUmbrella Inc.{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\nMandata da Umbrella!?{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}Hey non mi guardare \nin quel modo... {clear 66}Che cosa ho detto di male? \nHai qualche problema?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nOh no...{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nÈ lui!{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}{branch 160}Salta fuori dalla finestra.{live}Nasconditi nel retro.{live}</Text>
+    <Text>{scroll 0}\nＳＴＡＲＳ{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nForza!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nC'è mancato poco.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nCerca di distrarlo. {clear 50}Quella cosa mi vuole morta. \nDobbiamo uscire di qui.{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\nPer chi lavori?{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nDa questa parte! Svelta!{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}Tanto per fartelo sapere, \nnon sono uno di quei {clear 50}tipi che amano \nIl dolore... OK?{timed 58}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 27}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}\nPer chi lavori?{scroll 1}{timed 49}</Text>
+</Strings>

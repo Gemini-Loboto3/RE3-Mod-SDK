@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>{scroll 2}‟Riponi qui la tua\nsaggezza.”{clear 0}C'è una cavità dove\ninserire qualcosa.</Text>
+    <Text>{scroll 2}‟Riponi qui la tua\nsaggezza.”</Text>
+    <Text>{scroll 2}‟Il futuro è nelle \nnostre mani.”{clear 0}Ora c'è una cavità dove\nc'era la bussola.</Text>
+    <Text>{scroll 2}‟Il futuro è nelle \nnostre mani.”</Text>
+    <Text>{scroll 2}‟Dobbiamo sfruttare il\nnostro sapere per il futuro.”{clear 0}‟Questo sarà il nostro\npiù grande destino.” {clear 0}‟Michael Warren,\nSindaco di Raccoon city.”</Text>
+    <Text>{scroll 2}La barricata blocca il\ncammino.</Text>
+    <Text>{scroll 2}Il cancello è fermamente\nchiuso e non si apre.</Text>
+    <Text>{scroll 0}Aspetta...\ndevo chiederti una cosa.{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}Lo so...\nSei già pazza di me...{clear 105}Tutte le ragazze amano il\nmio accento. Le fa impazzire...{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}Cosa? Continua a sognare...\ndimmi invece perché Umbrella{clear 103}\nvi ha spedito quaggiù?{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}Siamo qui per\nsalvare i cittadini.{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}\nNon mentirmi...{scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}Umbrella è la colpevole di\ntutto quanto sta accadendo!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Ascolta. Noi siamo solo\nmercenari, assunti a pagamento.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Pensi davvero che il padrone\ndica ai suoi cagnolini perché{clear 72}devono riportargli il bastone\nche ha appena lanciato?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}Se vuoi delle risposte,\ndevi chiedere a qualcun altro.{clear 79}Non ho nulla a che fare\ncon Umbrella.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Dobbiamo finire questo\ndiscorso più tardi.{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}Che tu ci creda o no,\nnoi siamo qui per mettere{clear 61}\nin salvo i sopravvissuti.{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}Se ti fidi di me,\nallora dacci una mano!{clear 67}\nRiflettici e fammi sapere!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nDevo chiederti una cosa.{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}Perché Umbrella vi ha\nspedito in questo posto?{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}La nostra missione consiste\nnel salvare i cittadini.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\nChe gentili...{scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}Considerato che Umbrella è la\nresponsabile di tutto questo!{clear 63}\nMaledetti bugiardi...{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Ascolta. Noi siamo solo\nmercenari, assunti a pagamento.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nNon c'è tempo per le\ndiscussioni.{clear 81}Se ti fidi di me,\nallora unisciti a noi!{clear 69}\nPensaci e fammi sapere!{scroll 1}{timed 48}</Text>
+    <Text>{scroll 2}Sei troppo impegnato\nper questo!</Text>
+</Strings>

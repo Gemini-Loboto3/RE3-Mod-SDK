@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 2}\nThere's a hex-shaped hole.</Text>
+    <Text>{scroll 2}A broken hex crank is \ninserted here.{clear 0}I can't turn it without\nsome type of help.</Text>
+    <Text>{scroll 2}\nIt's dangerous inside!</Text>
+    <Text>{scroll 2}\n   @ö@@@@@'‹@Ï@   </Text>
+    <Text>{scroll 2}A broken hex crank is \ninserted here.{clear 0}I can't turn it without\nsome type of help.</Text>
+    <Text>{scroll 2}\nThe shutter is down.</Text>
+    <Text>{scroll 2}It's a machine that\nsupplies the gasoline.</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 118}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 216}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 81}</Text>
+    <Text>{scroll 2}You no longer need this\n{color 1}Wrench{color 0}.{clear 0}Will you discard it?\n{branch 0}</Text>
+</Strings>

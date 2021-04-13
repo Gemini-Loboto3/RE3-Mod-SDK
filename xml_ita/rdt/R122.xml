@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}La sua carne è stata\napparentemente strappata {clear 0}\na morsi o divorata.</Text>
+    <Text>{scroll 2}{cut 6}{snd 22}È stata legata con della\ncorda e non si apre.{clear 0}La fune sembra inzuppata\nd'olio.</Text>
+    <Text>{scroll 2}Non puoi usare l'accendino\nsenza olio.</Text>
+</Strings>

@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}È predisposta per ricevere \nautomaticamente.</Text>
+    <Text>{scroll 2}Un disegno di\nRaccoon City.{clear 0}Stazione di Polizia e\nOspedale sono segnati.</Text>
+    <Text>{scroll 2}Sembra essere un posto\ndove conservare le armi.</Text>
+    <Text>{scroll 0}Attenzione.\nMissione terminata.{clear 49}Tutti i supervisori\nritornino immediatamente.{clear 72}\nRipeto.{clear 39}Tutti i supervisori ritornino\nimmediatamente. Chiudo.{scroll 1}{timed 79}</Text>
+</Strings>

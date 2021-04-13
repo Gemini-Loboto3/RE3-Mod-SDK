@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 97}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 139}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 176}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 121}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 20}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 216}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 133}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 39}</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nEmpty vials.</Text>
+    <Text>{scroll 2}‟Sales overview for\nthis quarter.”</Text>
+    <Text>{scroll 2}It's a TV monitor.\nThe main power is on.</Text>
+    <Text>{scroll 2}Nothing that attracts any\nspecial attention here.</Text>
+    <Text>{scroll 2}Product catalog and\ncompany brochures.</Text>
+    <Text>{scroll 2}\n{snd 22}‟Chemicals Storage”{clear 0}‟Access to the storage is\ncontrolled by the computer.”</Text>
+    <Text>{scroll 2}It's Nicholai's PC.\nToo bad it's broken.</Text>
+    <Text>{scroll 2}Nicholai is examining the \nmercenary using his PC.</Text>
+    <Text>{scroll 2}Will you use the remote\ncontrol?{branch 0}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 114}</Text>
+</Strings>

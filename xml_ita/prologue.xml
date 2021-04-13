@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{clear 34}Tutto cominciò in un \nnormalissimo giorno di {clear 84}settembre. Un giorno come \nun altro in Raccoon City. {clear 84}Una città controllata \ndalla Umbrella. {timed 82}</Text>
+    <Text>{scroll 0}\n{clear 45}Nessuno osó opporsi a loro. \nE questa mancata presa {clear 93}di posizione li portò \nalla loro distruzione. {timed 90}</Text>
+    <Text>{scroll 0}\n{clear 66}Penso che abbiano pagato le \nconseguenze delle loro azioni, {clear 105}\nma non ci sarà perdono. {clear 54}Se solo avessero avuto il \ncoraggio di combattere... {clear 96}\n{clear 108}Una volta messa in \nmoto la ruota della {clear 85}giustizia, nulla poteva \npiù fermarli. Nulla. {timed 117}</Text>
+    <Text>{scroll 0}\n{clear 55}Era l'ultima possibilità \ndi Raccoon City... {clear 108}e anche la mia, \nla mia ultima fuga... {timed 108}</Text>
+</Strings>

@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n{snd 2}</Text>
+    <Text>{scroll 2}\nÈ totalmente rotto.</Text>
+    <Text>{scroll 2}È troppo buio per\nvedere all'interno.</Text>
+    <Text>{scroll 2}‟Ospedale di Raccoon\nCity”{clear 0}‟Aperto dalle 9 alle 19\no in caso di emergenza.”</Text>
+    <Text>{scroll 2}\n‟Parco di Raccoon”</Text>
+    <Text>{scroll 2}Qui c'era un ospedale, \nma ora non più.</Text>
+</Strings>

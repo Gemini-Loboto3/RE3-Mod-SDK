@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 147}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 201}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 126}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 133}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 98}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 115}</Text>
+    <Text>{scroll 2}There's nothing in the \nfireplace.</Text>
+</Strings>

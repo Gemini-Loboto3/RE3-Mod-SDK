@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}Che piano vuoi visitare?\n{branch 64}PT{live}S3{live}Apri{live}Annulla{live}</Text>
+    <Text>{scroll 2}\nLa porta non si chiude!</Text>
+    <Text>{scroll 2}Sei troppo impegnato\nper questo!</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Una struttura per le \ninfusioni.</Text>
+    <Text>{scroll 2}‟Prestare attenzione a non \nprendere troppa medicina.”</Text>
+    <Text>{scroll 2}‟Assicuratevi di riporre\ni materiali nelle loro{clear 0}posizioni originali dopo\nil controllo.”</Text>
+</Strings>

@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}It's set to the\nauto-receive mode.</Text>
+    <Text>{scroll 2}\nA drawing of Raccoon City.{clear 0}The police station and the\nhospital are marked.</Text>
+    <Text>{scroll 2}It seems to be a place to \nstore weapons.</Text>
+    <Text>{scroll 0}\n                  {clear 49}\n                  {clear 72}\n                  {clear 39}\n                  {scroll 1}{timed 79}</Text>
+</Strings>

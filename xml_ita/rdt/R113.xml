@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}È chiusa da una\nsemplice serratura.</Text>
+    <Text>{scroll 2}È chiusa da una \nsemplice serratura.{clear 0}Vuoi utilizzare il\n{color 1}Grimaldello{color 0}?{branch 0}</Text>
+    <Text>{scroll 2}È chiusa da una serratura\ncon combinazione.{clear 0}{scroll 2}Prima cifra?{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Esci{live}</Text>
+    <Text>{scroll 2}Seconda cifra?{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Esci{live}</Text>
+    <Text>{scroll 2}Terza cifra?{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Esci{live}</Text>
+    <Text>{scroll 2}Quarta cifra?{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Esci{live}</Text>
+    <Text>{scroll 2}\nNon c'è nient'altro.</Text>
+</Strings>

@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}Mikhail! Vuoi forse \nammazzarti? {timed 104}</Text>
+    <Text>{scroll 0}La mia gente... È stata spazzata \nvia da questi mostri.{scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}Non posso fermarmi solo perché \nsono ferito.{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}Ma non capisci che anche questi \nmostri sono vittime di Umbrella?{scroll 1}{timed 132}</Text>
+    <Text>{scroll 0}Mi stai accusando perché mi \nsfogo su di loro? Sembra che tu {clear 136}\nnon abbia capito una cosa:{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Noi non abbiamo nulla a che \nfare con la compagnia!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Lo so. E questa è l'unica \nragione per cui sto cercando di {clear 104}\ncollaborare con te.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0} Non c'è ragione di assumersi \ndelle responsabilità per questo{clear 96}\ncasino!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>Le sue ferite sono gravi\ne senza dubbio fatali.</Text>
+    <Text>\nNon funziona più.</Text>
+    <Text>Una resistente barricata\nblocca la strada.</Text>
+</Strings>

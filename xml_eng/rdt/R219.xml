@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}The fireproof shutter is\ndown.</Text>
+    <Text>{scroll 2}It's a switch for the\nfireproof shutter.{clear 0}There is no power\nconnected. It won't move.</Text>
+    <Text>{scroll 2}It's a switch for the\nfireproof shutter.{clear 0}Will you turn it on?\n{branch 0}</Text>
+    <Text>{scroll 2}There's no power going to\nthe switchboard.{clear 0}Will you turn on the\npower?{branch 0}</Text>
+    <Text>{scroll 2}The power has been\nrestored.</Text>
+    <Text>{scroll 2}\nNothing useful.</Text>
+</Strings>

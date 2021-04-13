@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}{snd 22}The door is stuck from the\nother side and won't open.</Text>
+    <Text>{scroll 2}A bronze statue of Raccoon\nCity Mayor Michael Warren.{clear 0}{scroll 2}\nThere's a switch.{clear 0}Will you push it?\n{branch 0}</Text>
+    <Text>{scroll 2}A bronze statue of Raccoon\nCity Mayor Michael Warren.{clear 0}{scroll 2}It can hold something in\nits hand.</Text>
+    <Text>{scroll 2}‟Pay your taxes because\nthey provide for the {clear 0}{scroll 2}safety and well-being of\nour special town.”</Text>
+    <Text>{scroll 2}It's holding something in\nits hand.</Text>
+    <Text>{scroll 2}It's already holding\nsomething in its hand.</Text>
+</Strings>

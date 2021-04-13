@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nThere's a fire hydrant.{clear 0}A {color 1}Fire Hose{color 0} is fixed \nwith bolts.</Text>
+    <Text>{scroll 2}\nThere's a fire hydrant.</Text>
+    <Text>{scroll 2}You no longer need this\n{color 1}Wrench{color 0}.{clear 0}Will you discard it?\n{branch 0}</Text>
+</Strings>

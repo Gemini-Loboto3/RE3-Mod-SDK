@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>{scroll 2}A clock that is not\nfunctioning.{clear 0}{scroll 2}Two gems are missing from\nthe hour plate.</Text>
+    <Text>{scroll 2}A clock that is not\nfunctioning.{clear 0}{scroll 2}A gem is missing from the\nhour plate.</Text>
+    <Text>{scroll 2}It seems that this is not\nenough to make the device{clear 0}{scroll 2}\nto work.</Text>
+    <Text>{scroll 2}\n  </Text>
+    <Text>{scroll 2}‟Operation hours are from \n9:00 to 17:00. The gate{clear 0}{scroll 2}is automatically closed\nafter-hours.”</Text>
+    <Text>{scroll 2}All of the gems are\nset and it seems to be{clear 0}{scroll 2}\nfunctioning now.</Text>
+    <Text>{scroll 2}\n‟EXCLUSIVE INFORMATION!{clear 0}{scroll 2}The incident in the Arklay \nMountains uncovered!”</Text>
+    <Text>{scroll 2}\nIt's empty inside.</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 104}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 116}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 122}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{clear 82}{scroll 0}                  \n                  {scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 212}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 90}</Text>
+</Strings>

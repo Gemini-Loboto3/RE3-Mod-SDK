@@ -1,0 +1,36 @@
+﻿<Strings>
+    <Text>{scroll 2}Questa è una delle mortali\nbio-armi di Umbrella.</Text>
+    <Text>{scroll 2}C'è stata un'esplosione.\nLa porta non si muove.</Text>
+    <Text>{scroll 2}Un'unita di distribuzione\nd'energia che non sembra{clear 0}\nfunzionare.</Text>
+    <Text>{scroll 2}Manca la corrente, \ne non si può aprire.</Text>
+    <Text>{scroll 0}{branch 160}Uccidi il mostro.{live}Ignoralo ed evacua.{live}</Text>
+    <Text>{scroll 2}Questa porta non sembra\npiù in grado di funzionare.</Text>
+    <Text>{scroll 2}  \n  </Text>
+    <Text>{scroll 2}Un pannello di controllo\nper gestire il generatore{clear 0}\nd'emergenza. {clear 0}‟Fornisce corrente a tutte\nle unità esterne.”</Text>
+    <Text>{scroll 2}Lo schermo del programma \ndi gestione energetica.{clear 0}‟Impossibile fornire \ncorrente alle unità esterne.”</Text>
+    <Text>{scroll 2}Una capsula di trasporto. \nÈ marcata ‟T”.</Text>
+    <Text>{scroll 2}Il cadavere di un membro \ndelle Forze Speciali US. </Text>
+    <Text>{scroll 2}  \n</Text>
+    <Text>{scroll 2}La parte centrale del\ncircuito.{clear 0}È connessa tramite\nun enorme cavo.</Text>
+    <Text>{scroll 2}Un'unita di distribuzione\nd'energia con scritto ‟1”.</Text>
+    <Text>{scroll 2}Un'unita di distribuzione\nd'energia con scritto ‟2”.</Text>
+    <Text>{scroll 2}Un'unita di distribuzione\nd'energia con scritto ‟3”.</Text>
+    <Text>{scroll 0}Attenzione. \nNon c'è abbastanza energia {clear 80}\nper attivare il sistema.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nControllo batteria.{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}Batteria connessa.  \nIl cannone è stato attivato.{scroll 1}{timed 164}</Text>
+    <Text>{scroll 0}\nControllo sistema.{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}Esecuzione programma di \nricarica rapida. {clear 90}\nPrepararsi al fuoco.{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}\n@@ @-@@@@@@@@@20@ {scroll 1}{timed 142}</Text>
+    <Text>{scroll 0}\n@@ @-@@@@@@@@@15@ {scroll 1}{timed 158}</Text>
+    <Text>{scroll 0}\n@@ @-@@@@@@@@@10@ {scroll 1}{timed 144}</Text>
+    <Text>{scroll 0}Attenzione. \nSistema surriscaldato. {clear 100}Modalità raffreddamento \ninserita.{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}\n  {scroll 1}{timed 138}</Text>
+    <Text>{scroll 0}Batteria connessa.  \nIl cannone è stato attivato.{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}\nFuoco{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Volevi la ＳＴＡＲＳ? \nTe la do io la ＳＴＡＲＳ!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 231}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 152}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 34}</Text>
+</Strings>

@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 2}Sembra essere \nl'interruttore di {clear 0}\nun generatore elettrico.{clear 0}È situato vicino alla\nvasca di coltivazione.{clear 0}Vuoi accendere \nil generatore?{branch 0}</Text>
+    <Text>{scroll 2}Un sintetizzatore di\nprodotti chimici.{clear 0}La {color 1}base media{color 0} può essere\nposizionata qui.</Text>
+    <Text>{scroll 2}Sembra che manchi la \ncorrente.</Text>
+    <Text>{scroll 2}Vuoi usare il \nsintetizzatore? {clear 0}\n{branch 81}Ⅰ{live}Ⅱ{live}Ⅲ{live}Sotto{live}Esci{live}</Text>
+    <Text>{scroll 2}Vuoi usare il \nsintetizzatore? {clear 0}\n{branch 80}Ⅰ{live}Ⅱ{live}Ⅲ{live}Sotto{live}Esci{live}</Text>
+    <Text>{scroll 2}Vuoi usare il \nsintetizzatore? {clear 0}\n{branch 64}A{live}B{live}Sopra{live}Esci{live}</Text>
+    <Text>{scroll 2}Ci sono delle creature \nsconosciute all'interno{clear 0}\ndell'acquario.</Text>
+    <Text>{scroll 2}È un microscopio ad\nalta precisione.</Text>
+    <Text>{scroll 2}Sembra che qui stessero\ncreando sostanze chimiche{clear 0}\ndi qualche tipo.</Text>
+    <Text>{scroll 2}Sembra che qui \ncoltivassero una parte{clear 0}delle cellule delle \ncreature.</Text>
+    <Text>{scroll 2}Vuoi usare il \nsintetizzatore? {clear 0}\n{branch 82}Ⅰ{live}Ⅱ{live}Ⅲ{live}Sotto{live}Esci{live}</Text>
+    <Text>{scroll 2}Vuoi usare il \nsintetizzatore? {clear 0}\n{branch 65}A{live}B{live}Sopra{live}Esci{live}</Text>
+    <Text>{scroll 2}\nNient'altro.</Text>
+</Strings>

@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}Pensavo che tutte le cavie \nfossero morte!{scroll 1}{timed 152}</Text>
+    <Text>{scroll 0}Sei impazzito?!\nCosa pensi di fare?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Qualche volta è semplice\ndimenticare la lealtà.{clear 98}\nCome quel traditore!{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}Parli del tizio\nche ti ha sparato?{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}Si, quello.\nQuello con i capelli{clear 97}\ngrigi e il brutto muso.{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}Non pensavo che avrebbe osato \nspararmi…  quel traditore!{scroll 1}{timed 154}</Text>
+    <Text>{scroll 0}\nParli di Nicholai?!{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 67}</Text>
+    <Text>{scroll 2}\nCoppe e fiaschi.</Text>
+    <Text>{scroll 2}Provette di vari virus\ne altre cose.</Text>
+    <Text>{scroll 2}È chiusa da una serratura\ncomplicata e non può{clear 0}\nessere aperta.</Text>
+    <Text>{scroll 2}‟Prestare massima cautela\nquando si maneggiano {clear 0}\nprodotti chimici.”</Text>
+</Strings>

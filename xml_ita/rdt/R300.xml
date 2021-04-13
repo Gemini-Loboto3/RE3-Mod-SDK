@@ -1,0 +1,25 @@
+﻿<Strings>
+    <Text>{scroll 2}\nNon c'è nient'altro.</Text>
+    <Text>{scroll 2}\nC'è un altare.</Text>
+    <Text>{scroll 0}Ce l'abbiamo fatta per \nmiracolo. Come ti senti?{scroll 1}{timed 112}</Text>
+    <Text>{scroll 0}Io sto bene... \ncosa ti è successo?{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}Ho appena combattuto \ncon il mostro.{clear 80}{scroll 0}Ah...ho una cattiva notizia, \nNicholai è ancora vivo.{scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}Ma... \nma pensavo che fosse morto..{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Quel tipo non conosce il \nsignificato della parola {clear 60}\nmorte...{scroll 1}{timed 31}</Text>
+    <Text>{scroll 0}\nChe cosa vuole ?{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Non lo so. L'unica cosa che \nso è che è un nostro nemico.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n  {scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Mi spiace Jill,\nma c'è qualcosa di cui {clear 50}\nmi devo occupare{scroll 1}{clear 42}{scroll 0}Ti prometto che ci incontreremo\ndopo. Non ti preoccupare.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nHey, stai bene?!{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}Si... più o meno... \nCosa è successo?{scroll 1}{timed 116}</Text>
+    <Text>{scroll 0}Non c'è verso! Quel mostro \nnon si arrende!{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Cosa?! Pensavo che avessimo \nucciso quella cosa!{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}Lo so, \nma ti stava aspettando!{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\nSta solo giocando con noi... {clear 70}Carlos, \npensi che sia inarrestabile?{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}\nNo, non penso.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n  {scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}Mi spiace Jill, ma devo ancora \nfinire un paio di cose.{scroll 1}{clear 96}{scroll 0}Oh e... cattive notizie.  \nNicholai è vivo.{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}\nNicholai?! ... sei sicuro?{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Si. Non so come, ma so che \nè un nostro nemico.{scroll 1}{clear 140}{scroll 0}Ricordati... \nnon gli credere.{scroll 1}{timed 56}</Text>
+</Strings>

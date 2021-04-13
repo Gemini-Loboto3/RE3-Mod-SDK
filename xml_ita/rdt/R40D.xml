@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}‟La forma della fontana \ncambia in base alla {clear 0}combinazione degli\ningranaggi.” {clear 0}{clear 0}{timed 1}</Text>
+    <Text>{scroll 2}‟Per favore butta la tua\nimmondizia in un cestino.”</Text>
+    <Text>{scroll 2}Sembra che ci fossero dei lavori \nin corso sotto questo punto.</Text>
+    <Text>{scroll 2}Un pannello di controllo \nper la fontana. {clear 0}Vuoi sollevare il coperchio? \n{branch 0}</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nNon è successo niente.</Text>
+    <Text>{scroll 2}‟Riferirsi all'esempio per \nsvuotare la vasca.”</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

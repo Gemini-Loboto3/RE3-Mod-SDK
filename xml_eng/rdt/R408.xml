@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 162}</Text>
+    <Text>{scroll 2}Unknown creatures are\nsoaked in formalin.</Text>
+    <Text>{scroll 2}\nVirus-related notices.</Text>
+    <Text>{scroll 2}It appears to be a book on\ngeneral medical science.</Text>
+    <Text>{scroll 2}A cardboard box with \nchemicals in it.</Text>
+    <Text>{scroll 2}Various files on viruses\nand vaccines.</Text>
+    <Text>{scroll 2}It's too dark to see\nanything outside.</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 39}</Text>
+</Strings>

@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}\nThe window is boarded up.</Text>
+    <Text>{scroll 2}The barricade appears to\nhave been made in a hurry.</Text>
+    <Text>{scroll 2}A ventilation shaft.\nIt's dark inside.</Text>
+    <Text>{scroll 2}\nSomething is written here.{clear 0}{scroll 2}‟Please keep quiet while\nmeetings are in session!”</Text>
+    <Text>{scroll 2}Nothing worth \ninvestigating.</Text>
+    <Text>{scroll 2}The door is sturdily\nbarricaded.</Text>
+</Strings>

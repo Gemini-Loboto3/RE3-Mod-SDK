@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Un pannello di controllo\nper l'ascensore.{clear 0}Vuoi utilizzarlo?{branch 0}</Text>
+    <Text>{scroll 2}{snd 22}\nNon si apre.{clear 0}La chiusura elettronica \npuò ancora essere attiva.</Text>
+</Strings>

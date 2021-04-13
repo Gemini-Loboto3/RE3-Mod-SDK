@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}Un carrello elevatore per\nspostare i carichi.</Text>
+    <Text>{scroll 2}C'è un silenzio spaventoso\nfuori dalla finestra.</Text>
+    <Text>{scroll 2}I prodotti difettosi sono\nriposti qui.</Text>
+    <Text>{scroll 2}L'allarme è già \nstato usato.</Text>
+    <Text>{scroll 2}\nNon c'è più niente qui.</Text>
+    <Text>{scroll 2}Il container è chiuso\ndall'interno.</Text>
+    <Text>{scroll 2}\nNiente di utile.</Text>
+    <Text>{scroll 2}\n{snd 34}‟{snd 34}2{snd 34}8{snd 36}{scroll 5}{s}{scroll 2}{snd 34}s{snd 34}e{snd 34}t{snd 34}t{snd 34}e{snd 34}m{snd 34}b{snd 34}r{snd 34}e{snd 34},{snd 36}{scroll 5}{s}{scroll 2}{snd 34}d{snd 34}i{snd 36}{scroll 5}{s}{scroll 2}{snd 34}g{snd 34}i{snd 34}o{snd 34}r{snd 34}n{snd 34}o{snd 34}.{snd 34}.{snd 34}.{snd 36}{scroll 5}{s}{scroll 2}{snd 34}”{scroll 1}{timed 76}</Text>
+    <Text>{scroll 2}{snd 34}I{snd 36}{scroll 5}{s}{scroll 2}{snd 34}m{snd 34}o{snd 34}s{snd 34}t{snd 34}r{snd 34}i{snd 36}{scroll 5}{s}{scroll 2}{snd 34}h{snd 34}a{snd 34}n{snd 34}n{snd 34}o{snd 36}{scroll 5}{s}{scroll 2}{snd 34}o{snd 34}c{snd 34}c{snd 34}u{snd 34}p{snd 34}a{snd 34}t{snd 34}o{snd 35}{scroll 5}{s}\n{scroll 2}{snd 34}l{snd 34}a{snd 36}{scroll 5}{s}{scroll 2}{snd 34}c{snd 34}i{snd 34}t{snd 34}t{snd 34}à{snd 34}.{scroll 1}{timed 126}</Text>
+    <Text>{scroll 2}\n{snd 34}I{snd 34}n{snd 36}{scroll 5}{s}{scroll 2}{snd 34}u{snd 34}n{snd 36}{scroll 5}{s}{scroll 2}{snd 34}m{snd 34}o{snd 34}d{snd 34}o{snd 36}{scroll 5}{s}{scroll 2}{snd 34}o{snd 36}{scroll 5}{s}{scroll 2}{snd 34}n{snd 34}e{snd 34}l{snd 34}l{snd 34}'{snd 34}a{snd 34}l{snd 34}t{snd 34}r{snd 34}o{snd 34}.{snd 34}.{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 57}</Text>
+    <Text>{scroll 2}\n{snd 34}S{snd 34}o{snd 34}n{snd 34}o{snd 36}{scroll 5}{s}{scroll 2}{snd 34}a{snd 34}n{snd 34}c{snd 34}o{snd 34}r{snd 34}a{snd 36}{scroll 5}{s}{scroll 2}{snd 34}v{snd 34}i{snd 34}v{snd 34}a{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Ok! \nDobbiamo andarcene da qui!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\nCosa! {scroll 1}{clear 36}{scroll 0}\nChe diavolo stai dicendo?{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}Ho appena perso mia figlia \nlà fuori! {scroll 1}{clear 84}{scroll 0}Come osi dirmi di ritornare \nin quell'inferno!{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}\nMi spiace per tua figlia... {scroll 1}{clear 90}{scroll 0}Ma nessuno ci verrà a salvare. \nDobbiamo cavarcela da soli.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}No! \nIo non vado da nessuna parte!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Preferisco morire di fame qui \ndentro piuttosto che farmi {scroll 1}{clear 96}{scroll 0}\nmangiare da uno di quei mostri! {scroll 1}{clear 66}{scroll 0}\nE adesso lasciami in pace!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 24}{scroll 0}\nTe l'ho già detto! {scroll 1}{clear 42}{scroll 0}\nNon mi muoverò da qui! Mai!{scroll 1}{timed 85}</Text>
+</Strings>

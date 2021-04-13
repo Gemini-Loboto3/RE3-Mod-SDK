@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}The elevator is not\nworking.{clear 0}There is no power supply\nconnected to it.</Text>
+    <Text>{scroll 2}The elevator is not\nworking.{clear 0}There is no power supply\nconnected to it.</Text>
+    <Text>{scroll 2}There is a slot into which\na {color 1}Battery{color 0} can be set.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Schedules for future\nconstruction works are{clear 0}\nwritten here.</Text>
+    <Text>{scroll 2}His expression shows\ninsane agony and pain.</Text>
+    <Text>{scroll 2}His expression shows\ninsane agony and pain.</Text>
+</Strings>

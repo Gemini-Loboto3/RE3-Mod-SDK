@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}La robusta imposta è\nabbassata.</Text>
+    <Text>{scroll 2}\nÈ tenuto in ordine.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}‟La tua guida \nall'assicurazione {clear 0}\nsanitaria.”</Text>
+    <Text>{scroll 0}Sembra essere una \nbomba a orologeria.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 2}Devo scappare \nimmediatamente.</Text>
+</Strings>

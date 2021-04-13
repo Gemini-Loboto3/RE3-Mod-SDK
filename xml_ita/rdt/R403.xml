@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}\nNon c'è niente di strano.</Text>
+    <Text>{scroll 2}\nUna luce d'emergenza.</Text>
+    <Text>{scroll 2}Ci sono diversi \nmedicinali.</Text>
+    <Text>{scroll 2}Ci sono molti numeri di\nschede mediche.</Text>
+    <Text>{scroll 2}\nNiente di sospetto.</Text>
+    <Text>{scroll 2}La tenda è tirata e non riesco \na vedere la {clear 0}\nstanza accanto.</Text>
+</Strings>

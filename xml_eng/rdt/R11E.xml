@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}\nA tough-looking barricade.</Text>
+    <Text>{scroll 2}A wrecked car is blocking\nthe way.</Text>
+    <Text>{scroll 2}The entrance has been \nboarded up.</Text>
+    <Text>{scroll 2}\nNothing unusual.</Text>
+    <Text>{scroll 2}A strong barricade has \nbeen set up here.</Text>
+    <Text>{scroll 2}\nThe shutter is down.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nNon riesco a crederci. Sei vivo!{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}Non so come riusciremo a \nuscire da questa città...{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}Ma cosa stai dicendo? \nCi siamo riusciti...{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Non hanno intenzione di \nlasciarci andare via vivi...{scroll 1}{timed 147}</Text>
+    <Text>{scroll 0}Pensi davvero che dovremmo \ncredere al loro ‟grande” {clear 100}piano d'evacuazione? \nÈ solo un pezzo di carta!!!{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Ma adesso non abbiamo altra \nscelta che credergli...{scroll 1}{timed 126}</Text>
+    <Text>{scroll 0}No! Se dobbiamo morire, \ndobbiamo scegliere cosa accadrà!{scroll 1}{timed 133}</Text>
+    <Text>{scroll 0}Allora è così?!  Huh?!  \nTi stai arrendendo?{scroll 1}{timed 98}</Text>
+    <Text>{scroll 0}\nNo...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nIo non... non ce la faccio!{scroll 1}{timed 115}</Text>
+    <Text>{scroll 2}\nNon c'è niente nel camino.</Text>
+</Strings>

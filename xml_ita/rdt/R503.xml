@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}C'è uno strumento \ndi osservazione. {clear 0}Sembra che sia stato\nmesso qui di recente.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}C'è un sistema\ndi sicurezza.{clear 0}‟Energia sistema: stand-by\nControllo acqua: errore.”{clear 0}‟Per aprire è richiesta\nuna certificazione </Text>
+    <Text>{scroll 2}C'è un sistema\ndi sicurezza.{clear 0}‟Energia sistema: stand-by \nControllo acqua: OK.”{clear 0}‟Per aprire è richiesta\nuna certificazione </Text>
+    <Text>{scroll 2}C'è un sistema\ndi sicurezza.{clear 0}‟Energia sistema: OK.\nControllo acqua: errore.”{clear 0}‟Per aprire è richiesta\nuna certificazione </Text>
+    <Text>{scroll 2}C'è un sistema\ndi sicurezza.{clear 0}‟Energia sistema: OK.\nControllo acqua: OK.”</Text>
+    <Text>{scroll 2}Vuoi premere\nil pulsante?{branch 0}</Text>
+    <Text>{scroll 2}È chiuso da un\nsistema.</Text>
+</Strings>

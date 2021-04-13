@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}                  \nC'è un idrante.{clear 0}Se avessi un gancio, \npotrei spegnere il fuoco.</Text>
+    <Text>{scroll 2}                  \nNon message       </Text>
+    <Text>{scroll 2}                  \nNon message       </Text>
+    <Text>{scroll 2}                  \nC'è un idrante.</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 48}</Text>
+</Strings>

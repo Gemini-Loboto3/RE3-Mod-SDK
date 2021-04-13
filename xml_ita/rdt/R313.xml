@@ -1,0 +1,19 @@
+﻿<Strings>
+    <Text>{scroll 2}Qui sono sparsi \nvecchi libri.</Text>
+    <Text>{scroll 2}\nNiente di sospetto qui.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\nCarlos!!!{timed 40}</Text>
+    <Text>{scroll 0}\n{timed 30}</Text>
+    <Text>{scroll 0}Bene,  vogliamo entrambi \nsopravvivere. {timed 69}</Text>
+    <Text>{scroll 0}Forse potremmo ricominciare \na collaborare... {timed 81}</Text>
+    <Text>{scroll 0}Si è rozzo, ma possiamo \nfermarci adesso...{timed 126}</Text>
+    <Text>{scroll 0}No! Siamo gli unici rimasti. \nNon c'è tregua per i malvagi...{timed 114}</Text>
+    <Text>{scroll 0}\nAccetta questo dono... {timed 39}</Text>
+</Strings>

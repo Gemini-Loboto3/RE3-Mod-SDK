@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}    Vuoi acquistare questo\n    oggetto?{branch 1}</Text>
+    <Text>{scroll 0}    Fucile d'assalto con\n    munizioni infinite per RE3.</Text>
+    <Text>{scroll 0}    Mitragliatrice con munizioni\n    infinite per RE3.</Text>
+    <Text>{scroll 0}    Lanciarazzi con munizioni\n    infinite per RE3.</Text>
+    <Text>{scroll 0}    Munizioni infinite per\n    tutte le armi di RE3.</Text>
+    <Text>{scroll 0}  </Text>
+    <Text>{scroll 0}    Non puoi permettertelo.</Text>
+    <Text>{scroll 0}    ESAURITO</Text>
+    <Text>{scroll 0} \n   </Text>
+    <Text>{scroll 0}Tempo</Text>
+    <Text>{scroll 0}Numero di salvataggi</Text>
+    <Text>{scroll 0}Grado</Text>
+    <Text>{scroll 0}COMPRA</Text>
+    <Text>{scroll 0}ESCI</Text>
+    <Text>{scroll 0}EPILOGO</Text>
+</Strings>

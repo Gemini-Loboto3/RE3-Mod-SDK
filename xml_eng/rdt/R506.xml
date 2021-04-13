@@ -1,0 +1,16 @@
+﻿<Strings>
+    <Text>{scroll 2}\nExperiment-related notes.{clear 0}‟Watch for the portion\nwith no wave when{clear 0}\nadjusting the data.”</Text>
+    <Text>{scroll 2}A device to check the \nwater quality.{clear 0}A {color 1}Water Sample{color 0} seems \nto be required.</Text>
+    <Text>{scroll 2}There's a device to check \nthe water quality.{clear 0}Will you operate it?\n{branch 0}</Text>
+    <Text>{scroll 2}Which wave range will you\nadjust?{branch 64}A{live}B{live}C{live}Cancel{live}</Text>
+    <Text>{scroll 2}Move to which direction?\n{branch 64}Left{live}Right{live}Check{live}Back{live}</Text>
+    <Text>{scroll 2}The lock seems to have\nbeen released.</Text>
+    <Text>{scroll 2}Ultraviolet rays are \napplied to the water.</Text>
+    <Text>{scroll 2}There's a tiny slot where \na plastic card could fit.</Text>
+    <Text>{scroll 2}‟Water pollution alert...\nBlocking of the abolition{clear 0}area passage is now in\nprogress.”{clear 0}‟To maintain safety, the\nlock will not be released{clear 0}until a manual check has\nbeen performed.”</Text>
+    <Text>{scroll 2}\nThe lock has been released.</Text>
+    <Text>{scroll 2}The result graph is \ndifferent from the sample.</Text>
+    <Text>{scroll 2}Move to which direction?\n{branch 65}Left{live}Right{live}Check{live}Back{live}</Text>
+    <Text>{scroll 2}‟Water quality check has \npassed the safety level.”</Text>
+    <Text>{scroll 2}\n‟Water check: OK.”</Text>
+</Strings>

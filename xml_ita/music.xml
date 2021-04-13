@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}\nMuovili su o giù.{clear 0}Interruttore A?\n{branch 64}Su{live}Giú{live}Successivo{live}Annulla{live}</Text>
+    <Text>{scroll 2}Interruttore A?\n{branch 64}Su{live}Giú{live}Successivo{live}Annulla{live}</Text>
+    <Text>{scroll 2}Interruttore B?\n{branch 80}Su{live}Giú{live}Succ.{live}Prec.{live}Annulla{live}</Text>
+    <Text>{scroll 2}Interruttore C?\n{branch 80}Su{live}Giú{live}Succ.{live}Prec.{live}Annulla{live}</Text>
+    <Text>{scroll 2}Interruttore D?\n{branch 80}Su{live}Giú{live}Succ.{live}Prec.{live}Annulla{live}</Text>
+    <Text>{scroll 2}Interruttore E?\n{branch 80}Su{live}Giú{live}Succ.{live}Prec.{live}Annulla{live}</Text>
+    <Text>{scroll 2}Interruttore F?\n{branch 80}Su{live}Giú{live}Suona{live}Prec.{live}Annulla{live}</Text>
+</Strings>

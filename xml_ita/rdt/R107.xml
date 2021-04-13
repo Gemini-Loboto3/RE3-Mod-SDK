@@ -1,0 +1,19 @@
+﻿<Strings>
+    <Text>{scroll 2}Bottiglie di bourbon\ncoprono lo scafale. </Text>
+    <Text>{scroll 2}\nUn vecchio flipper.</Text>
+    <Text>{scroll 2}\nUn telefono pubblico.</Text>
+    <Text>{scroll 2}Cibo e bevande \nparzialmente consumati.</Text>
+    <Text>{scroll 2}Il lavandino è pieno di\npiatti e bicchieri sporchi.</Text>
+    <Text>{scroll 0}\nVai via!!{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Brad! \nPerché nessuno sta {clear 64}facendo qualcosa per ciò \nche sta accadendo?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Nessuno ha la preparazione \nnecessaria per affrontare {clear 60}questa situazione! Che \ncosa si potrebbe fare?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Ascolta... \nLui è sulle nostre tracce. {clear 74}\nSiamo destinati a morire!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n...Che cosa stai dicendo?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nVedrai...{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}È alla ricerca dei membri \ndella @‹@@Ａ@@@‹! {clear 54}\nNon c'è via di fuga!{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Brad, stringi i denti! \nPerché nessuno sta {clear 69}facendo qualcosa per ciò \nche sta accadendo?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Non immaginavo che tu \nfossi ancora viva Jill...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}I poliziotti non sono \naddestrati per questo {clear 67}genere di situazioni. \nChe cosa potrebbero mai fare?{scroll 1}{timed 67}</Text>
+    <Text>    . ” P   T   X   /   t   x       …   @   @               . . ... 'à@ÒÇÛrÖÏâ@Ü@érÖ                        ,   4 8 . 4           @ @@  .   @.  @@  C   ,   ¡   @ 5 :d ¡:/@5:b94:e ¡:m@39g:88e ¡:b@0:/498e ¡:/@09'9!8e ¡9'@09g!88e ¡9g@0:m8:8e ¡:m@0:j:28e ¡:j@0:b24@@ ¡@”@ …@.@…” @@@ ¡@”@ …@(@@‟@)@æ ¡@(@ @@‟@„(@”ka ¡k-@ :f@6:d,5:f ¡:d@ :j,5:b249' ¡:/@ :c!9:d75k' ¡:c@ k-@7:d65ka ¡k'@ ka1@k-@6:c ¡:e@ 9'739g!8k' ¡ka@ :c@1:e73:j ¡:m@ :f2::e,3ka ¡:f@ ka@,:e13@› ¡@@@ „›$B…@?A…” ¡@”@ …@@@@@ .@‟ ¡@”@ …@)@@@@(„( ¡@(@ @@”@@æ@‟…@ ¡@@@ „›AB@›?$@t.@   È g@@   @t.@”  È g@@”  6t.@  6g@È   \n{s}t.@  \n{s}g@È   È t.6  @g@6  È t.\n{s}  @g@\n{s}    z@    ô{t}{cut 241}  @ í.‟  ôË.  A.í.    Y Ë.3   Y {t}{cut 15}   {snd 255}Ë.Y   @{timed 235}</Text>
+</Strings>

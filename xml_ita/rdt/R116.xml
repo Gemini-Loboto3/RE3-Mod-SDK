@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}Sembra come se ci sia stato \nrecentemente un incidente.</Text>
+    <Text>{scroll 2}Delle lattine vuote \ndi soda e cianfrusaglie.{clear 0}{scroll 2}\nNient'altro.</Text>
+    <Text>{scroll 2}Sembrerebbe essere una \nmappa delle operazioni.</Text>
+    <Text>{scroll 2}Non puoi fare niente \ncon il camino.</Text>
+</Strings>

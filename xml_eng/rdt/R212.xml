@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>His chest has been ripped \ninto and torn apart.</Text>
+    <Text>There's a ventilation hole.\nIt seems to be large enough{clear 0}                  \nfor a person to enter.{clear 0}Will you escape through the\nventilation hole?{branch 0}</Text>
+    <Text>                  \nIt's a freezer.</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 204}</Text>
+</Strings>

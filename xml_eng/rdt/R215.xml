@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}{branch 160}Jump out of the window.{live}Use the emergency brake.{live}</Text>
+    <Text>{scroll 2}You can't get off the\ntrain right now.</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 103}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+</Strings>

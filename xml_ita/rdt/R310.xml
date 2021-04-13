@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 2}Devo prendermi cura di lei\nil prima possibile...</Text>
+    <Text>{scroll 0}\n1° Ottobre.  Notte.{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}Mi sono svegliata per il \nrumore della pioggia.{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}Non posso credere di \nessere ancora viva...{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}Sembra che i nostri ruoli si \nsiano invertiti dalla prima {clear 60}volta che ci \nsiamo incontrati...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Non ti preoccupare Jill. \nQuesta cappella è sicura.{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}Sono stata contagiata dal \nvirus... è così?{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}\nEhy, rilassati!{scroll 1}{timed 97}</Text>
+    <Text>{scroll 0}Sto bene... Non sento \nalcun dolore... {clear 94}Ma questo è quello \nche mi preoccupa.{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}Cosa significa se non \nriesco a sentire nulla?{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}Non ti arrendere Jill! \nMi prenderò cura di te.{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}Qualunque cosa tu faccia, non \nlasciare che il virus vinca.{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 111}</Text>
+    <Text>{scroll 0}Se dovessi diventare \nuno zombie...{scroll 1}{clear 108}{scroll 0}non esitare... voglio la tua \nparola che mi ucciderai!{scroll 1}{timed 132}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+</Strings>

@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}Nicholai?!\nSei ancora vivo?!{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nHai visto cosa è successo...{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}\nCosa è successo?{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nSono uno dei supervisori.{clear 78}Questo è tutto\nquello che devi sapere.{scroll 1}{timed 84}</Text>
+    <Text>{scroll 2}Delle creature sconosciute\nsono immerse in formalina.</Text>
+    <Text>{scroll 2}Notizie riguardanti\nil virus.</Text>
+    <Text>{scroll 2}Sembra essere un libro di\nmedicina.</Text>
+    <Text>{scroll 2}Un cartone contenente dei\nprodotti chimici.</Text>
+    <Text>{scroll 2}Vari archivi su virus e \nvaccini</Text>
+    <Text>{scroll 2}È troppo buio per vedere\nfuori.</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 39}</Text>
+</Strings>

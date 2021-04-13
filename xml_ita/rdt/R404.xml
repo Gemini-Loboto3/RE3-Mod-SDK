@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}Il suo collo è stato \nDivorato dall'interno. </Text>
+    <Text>{scroll 2}Sembra che qualcuno abbia \ngià cercato qui dentro.</Text>
+    <Text>{scroll 2}Un caffè abbandonato\na metà.</Text>
+    <Text>{scroll 2}\n‟3/10, ore 1800”{clear 0}‟Terremo una festa al\nBar Jack.”</Text>
+    <Text>{scroll 2}Una serratura a \ncomando vocale.{clear 0}Vuoi premere il pulsante\ndel microfono?{branch 0}</Text>
+    <Text>{scroll 2}Per favore inserisci\nla tua voce.</Text>
+    <Text>{scroll 2}Che piano vuoi visitare?\n{branch 64}3P{live}S3{live}Apri{live}Annulla{live}</Text>
+    <Text>{scroll 2}\nLa porta non si chiude!</Text>
+    <Text>{scroll 2}Sei troppo impegnato\nper questo!</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

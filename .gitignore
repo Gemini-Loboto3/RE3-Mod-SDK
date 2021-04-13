@@ -351,3 +351,18 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/unpacker/xml_eng
+/unpacker/xml_ita
+/unpacker/DATA
+/unpacker/DATA_A
+/unpacker/DATA_AJ
+/unpacker/DATA_I
+/unpacker/DATA_J
+/unpacker/RDT US
+/unpacker/ROOM
+/unpacker/xml
+/unpacker/n
+/unpacker/n ut
+/unpacker/up
+/unpacker/up ct
+*.dat

@@ -1,0 +1,65 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n{branch 0}</Text>
+    <Text>{scroll 2}{branch 160}Negotiate with Nicholai.{live}Return fire to the chopper.{live}</Text>
+    <Text>{scroll 2}It's a portable radar\nreceiver.</Text>
+    <Text>{scroll 2}You've got the radar\nreceiver.</Text>
+    <Text>{scroll 2}\nThe lid is locked.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\n{timed 68}</Text>
+    <Text>{scroll 0}\n{timed 104}</Text>
+    <Text>{scroll 0}\n{timed 42}</Text>
+    <Text>{scroll 0}\n{timed 120}</Text>
+    <Text>{scroll 0}\n{timed 37}</Text>
+    <Text>{scroll 0}\n{clear 114}\n{timed 80}</Text>
+    <Text>{scroll 0}\n{timed 39}</Text>
+    <Text>{scroll 0}\n{clear 102}\n{timed 56}</Text>
+    <Text>{scroll 0}\n{timed 184}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n{clear 148}\n{clear 138}\n{timed 193}</Text>
+    <Text>{scroll 0}\n{timed 99}</Text>
+    <Text>{scroll 0}\n{timed 45}</Text>
+    <Text>{scroll 0}\n{timed 102}</Text>
+    <Text>{scroll 0}\n{timed 104}</Text>
+    <Text>{scroll 0}\n{timed 120}</Text>
+    <Text>{scroll 0}\n{timed 228}</Text>
+    <Text>{scroll 0}\n{timed 84}</Text>
+    <Text>{scroll 0}\n{timed 124}</Text>
+    <Text>{scroll 0}\n{timed 207}</Text>
+    <Text>{scroll 0}\n{timed 170}</Text>
+    <Text>{scroll 0}\n{timed 132}</Text>
+    <Text>{scroll 0}\n{timed 133}</Text>
+    <Text>{scroll 0}\n{timed 85}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n{timed 51}</Text>
+    <Text>{scroll 0}\n{timed 147}</Text>
+    <Text>{scroll 0}\n{timed 97}</Text>
+    <Text>{scroll 0}\n{timed 160}</Text>
+    <Text>{scroll 0}\n{timed 70}</Text>
+    <Text>{scroll 0}\n{timed 85}</Text>
+    <Text>{scroll 0}\n{timed 58}</Text>
+    <Text>{scroll 0}\n{timed 92}</Text>
+    <Text>{scroll 0}\n{clear 172}\n{timed 86}</Text>
+    <Text>{scroll 0}\n{clear 126}\n{timed 128}</Text>
+    <Text>{scroll 0}\n{timed 76}</Text>
+    <Text>{scroll 0}\n{timed 40}</Text>
+    <Text>{scroll 0}\n{timed 43}</Text>
+    <Text>{scroll 0}\n{timed 54}</Text>
+    <Text>{scroll 0}\n{timed 103}</Text>
+    <Text>{scroll 0}\n{timed 33}</Text>
+    <Text>{scroll 0}\n{timed 104}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+</Strings>

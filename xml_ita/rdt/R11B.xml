@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\n... Che cosa hai fatto?{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Non avevo altra scelta. Stava\nper trasformarsi in uno zombie.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Sarebbe stato una minaccia e\nquindi ho dovuto eliminarlo.{scroll 1}{timed 97}</Text>
+    <Text>{scroll 0}Ma era ancora\ncosciente, vero?{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}\nEra come se fosse già morto.{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}E ci sono voluti pochi\ncolpi per ucciderlo,{clear 69}diversamente da quelli\nnecessari per gli zombie.{scroll 1}{timed 69}</Text>
+    <Text>{scroll 0}\nNon ora, sono occupato.{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}Non costringermi\na farlo Murphy!{clear 66}\nNon ti voglio sparare!{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 176}</Text>
+    <Text>{scroll 0}\nUccidimi...{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}Sono finito...\nNon più umano...{scroll 1}{timed 121}</Text>
+    <Text>{scroll 0}Aspetta, aspetta!\nNon dobbiamo farlo!{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 20}</Text>
+    <Text>{scroll 0}\nSvelto, per favore...{clear 72}prima che perda la ragione...\nprima che sia troppo tardi...{scroll 1}{timed 144}</Text>
+    <Text>{scroll 0}\nUccidimi!{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nMurphy!  Perché?{scroll 1}{timed 133}</Text>
+    <Text>{scroll 0}\nCarlos!{scroll 1}{timed 39}</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Diversi documenti sono\nsparsi per l'area.</Text>
+    <Text>{scroll 2}‟Prospetto vendite\nper questo trimestre.”</Text>
+    <Text>{scroll 2}È una TV.\nL'interruttore è acceso.</Text>
+    <Text>{scroll 2}Niente che attiri \nl'attenzione qui.</Text>
+    <Text>{scroll 2}Cataloghi e depliant\ndi alcune compagnie.</Text>
+    <Text>{scroll 2}{snd 22}‟Magazzino prodotti \nchimici”{clear 0}‟L'accesso al magazzino è \ncontrollato dal computer.”</Text>
+    <Text>{scroll 2}È il PC di Nicholai.\nÈ rotto.</Text>
+    <Text>{scroll 2}Nicholai sta esaminando il \nmercenario usando il suo computer.</Text>
+    <Text>{scroll 2}Vuoi utilizzare il\ntelecomando?{branch 0}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 114}</Text>
+</Strings>

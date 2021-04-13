@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}It's ＳＴＡＲＳ Alpha Team\nmember Brad Vickers.{scroll 2}{clear 0}His face has been \ndecimated.</Text>
+    <Text>{scroll 0}{branch 160}Fight with the monster.{live}Enter the police station.{live}</Text>
+</Strings>

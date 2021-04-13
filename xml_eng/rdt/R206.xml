@@ -1,0 +1,26 @@
+﻿<Strings>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 256}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 193}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 154}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 63}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 129}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 97}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 128}</Text>
+    <Text>{scroll 2}\nNothing special.</Text>
+    <Text>{scroll 2}There is a big ventilation\nhole.</Text>
+</Strings>

@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nLa porta è chiusa.</Text>
+    <Text>{scroll 0}Così... stai ancora\nvagando qui intorno.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nNicholai!{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}Così vuoi scappare dalla città da\nsolo. Sono questi i tuoi piani?{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Mi sono assicurato\nche non sopravvivesse{clear 60}\nnessun altro supervisore.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Dal momento che sono l'unico\na conoscere quello che è{clear 72}realmente accaduto, avrò\nmolta più voce in capitolo{clear 72}quando si parlerà\ndella mia ricompensa.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Quindi perché uccidermi? Non\nsono sulla loro lista pagamenti!{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}Ti vogliono morta\nper motivi loro.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}La somma è modesta,\nma c'è una ricompensa{clear 92}da riscuotere sulla\nconferma della tua morte.{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}È grande, a parte per il\nfatto che non ho alcuna{clear 84}intenzione di contribuire\nalla tua pensione!{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 168}</Text>
+    <Text>{scroll 2}\nUn grosso frigorifero.{clear 0}Ci sono dei segni di morsi\ncome se qualcuno avesse {clear 0}tentato di spaccarlo\ndall'interno.</Text>
+    <Text>{scroll 2}Sembra essere parte\ndell'equipaggiamento{clear 0}\nelettrico.</Text>
+    <Text>{scroll 2}L'interno del muro è\nqui esposto.{clear 0}Sembra che qualcuno abbia\nlavorato sull'impianto {clear 0}\nelettrico.</Text>
+    <Text>{scroll 2}\n‟Trattamento in corso.”</Text>
+    <Text>{scroll 2}‟Inserire un {color 1}disco di\nsistema{color 0} per sbloccare.”</Text>
+    <Text>{scroll 0}\n                  {clear 162}\n                  {scroll 1}{timed 170}</Text>
+</Strings>

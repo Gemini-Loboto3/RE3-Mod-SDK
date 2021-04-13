@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\nAn emergency power supply.{clear 0}{scroll 2}Will you turn it on?\n{branch 0}</Text>
+    <Text>{scroll 2}An emergency power \ngenerator.{clear 0}{scroll 2}Will you push the switch?{branch 0}</Text>
+    <Text>{scroll 2}It's a switch for the\nelevator of the ladder.{clear 0}{scroll 2}It seems that it's not\nfunctioning due to{clear 0}{scroll 2}\nlack of power.</Text>
+    <Text>{scroll 2}It's a switch for the\nelevator of the ladder.{clear 0}{scroll 2}Will you lower the ladder?\n{branch 0}</Text>
+    <Text>{scroll 2}\nPower is being supplied.</Text>
+</Strings>

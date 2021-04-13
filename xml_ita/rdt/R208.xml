@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}{snd 22}La porta è chiusa dall'altro\nlato e non sembra aprirsi.</Text>
+    <Text>{scroll 2}Una statua di bronzo di\nMichael Warren, sindaco{clear 0}\ndi Raccoon City.{clear 0}\nC'è un interruttore.{clear 0}Vuoi premerlo?\n{branch 0}</Text>
+    <Text>{scroll 2}Una statua di bronzo di\nMichael Warren, sindaco{clear 0}\ndi Raccoon City.{clear 0}Potrebbe tenere in mano\nqualcosa.</Text>
+    <Text>{scroll 2}‟Paga le tasse perché\naiutano a mantenere la{clear 0}sicurezza e il benessere\ndella nostra amata città.”</Text>
+    <Text>{scroll 2}Sta tenendo in mano\nqualcosa.</Text>
+    <Text>{scroll 2}Sta già impugnando\nqualcosa.</Text>
+</Strings>

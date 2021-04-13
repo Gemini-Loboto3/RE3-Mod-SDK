@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}{cut 15}Il filtro sembra essere\ncompletamente bloccato.{clear 0}{scroll 2}Un liquido nauseante \nsta fuoriuscendo.</Text>
+    <Text>{scroll 2}\nNon posso passare qui.</Text>
+    <Text>{scroll 0}Salvarti sta diventando un \nlavoro a tempo pieno.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Grazie Carlos. \nTi sono riconoscente.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nAscolta attentamente Jill.{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}Vogliono lanciare \nun missile sulla città {scroll 1}{clear 84}{scroll 0}\nnon appena farà giorno.{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}All'alba?! \nMa sono solo...{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Lo so, non ci resta molto \ntempo. {scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}Dobbiamo dividerci e cercare \nuna via d'uscita.{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}E fare attenzione a quel \ntraditore di Nicholai.{scroll 1}{timed 106}</Text>
+</Strings>

@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nC'è un idrante.{clear 0}Un {color 1}Tubo antincen.{color 0} è\nfissato con dei bulloni.</Text>
+    <Text>{scroll 2}\nC'è un idrante.</Text>
+    <Text>{scroll 2}Non hai più bisogno di \nquesta {color 1}Chiave{color 0}.{clear 0}Vuoi scartarla?\n{branch 0}</Text>
+</Strings>

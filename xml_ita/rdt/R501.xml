@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}C'è scarabocchiata una\npianificazione settimanale.</Text>
+    <Text>{scroll 2}Libri e diari sono stati\nimpilati in modo {clear 0}\ndisordinato.</Text>
+    <Text>{scroll 0}\nCarlos!{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}Ascolta molto attentamente \nJill:{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}Vogliono lanciare un missile \nsulla città, {clear 80}\nnon appena farà giorno.{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}L'esplosione sarà abbastanza \npotente da ridurre tutta la {clear 50}città e chi c'è dentro \nin cenere.{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nSei sicuro di quello che dici?{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}Sicurissimo. \nL'ho sentito dalla bocca {clear 44}di un supervisore, poco \nprima che morisse.{scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}Hanno veramente esagerato \nper coprire le loro tracce.{timed 87}</Text>
+    <Text>{scroll 0}\nAscolta, non c'è molto tempo.{scroll 1}{timed 87}</Text>
+</Strings>

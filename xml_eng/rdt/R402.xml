@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}A sturdy-looking shutter\nis down.</Text>
+    <Text>{scroll 2}\nIt is kept tidy.</Text>
+    <Text>{scroll 2}\n{scroll 2}‟Your guide to Health\nInsurance.”</Text>
+    <Text>{scroll 2}‟Your guide to Health\nInsurance.”</Text>
+    <Text>{scroll 0}It seems to be a time-based\nbomb.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 2}\nI must escape immediately.</Text>
+</Strings>

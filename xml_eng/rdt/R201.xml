@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}A parked car.\nNothing suspicious.</Text>
+    <Text>{scroll 2}\nThe gate is closed.</Text>
+    <Text>{scroll 2}\nNothing useful.</Text>
+    <Text>{scroll 2}It seems that there is \nno power for it.</Text>
+    <Text>{scroll 2}It seems to be charging\nthe battery.{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}{branch 160}Climb up.{live}Jump down.{live}</Text>
+</Strings>

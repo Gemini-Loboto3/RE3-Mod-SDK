@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}A weekly schedule is\nscribbled here.</Text>
+    <Text>{scroll 2}Diaries and books have\nbeen piled up in a {clear 0}{scroll 2}\ndisorderly fashion.</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 138}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 87}</Text>
+</Strings>

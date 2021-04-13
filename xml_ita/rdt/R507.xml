@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}È riempito con un liquido\nche emana fetore.</Text>
+    <Text>{scroll 2}Non puoi avvicinarti\nulteriormente.</Text>
+    <Text>{scroll 2}Il congegno per il \ncontrollo dell'inquinamento{clear 0}dell'acqua si è fermato. \nMostra un errore.</Text>
+    <Text>{scroll 2}‟Quando viene attivato\nil dispositivo di {clear 0}evacuazione dell'acqua\ncontaminata, assicuratevi{clear 0}che si sia allontanato\ntutto il personale.”</Text>
+</Strings>
