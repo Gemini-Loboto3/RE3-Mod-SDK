@@ -3,7 +3,7 @@
 
 static std::wstring encode =
 {
-	L" .@@@()@@«»@012345"	// 00
+	L" .►@@()@@«»@012345"	// 00
 	L"6789:@,\"!?@ABCDEFG"	// 12
 	L"HIJKLMNOPQRSTUVWXY"	// 24
 	L"Z[/]'-·abcdefghijk"	// 36
@@ -101,7 +101,7 @@ std::string DecodeString(u8 *data, u8 **last)
 
 static std::wstring encode_eu =
 {
-	L" .@@@()@@‟”@012345"	// 00
+	L" .►@@()@@‟”@012345"	// 00
 	L"6789:@,@!?$ABCDEFG"	// 12
 	L"HIJKLMNOPQRSTUVWXY"	// 24
 	L"Z+/-'-·abcdefghijk"	// 36

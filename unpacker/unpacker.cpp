@@ -204,6 +204,7 @@ int main()
 	Extract_bin_text("data_eng\\gas.bin",    0x14,   10 / 2,  "xml_eng\\gas.xml");
 	Extract_bin_text("data_eng\\mercs.bin",  0x13c,  26 / 2,  "xml_eng\\mercs.xml");
 	Extract_bin_text("data_eng\\end.bin",    0x22c,  1,       "xml_eng\\epilogue.xml");
+	Extract_bin_text("data_eng\\map.bin",    0x64,   20 / 2,  "xml_eng\\map.xml");
 
 	for (int Stage = 1; Stage < 8; Stage++)
 	{
