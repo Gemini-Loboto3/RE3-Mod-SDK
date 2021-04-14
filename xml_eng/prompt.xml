@@ -1,4 +1,6 @@
-﻿    <Text>\nAn old typewriter.{clear 0}You can save \nyour progress here.{clear 0}Will you use the {color 1}Ink \nRibbon{color 0}?{branch 0}</Text>
+﻿<Strings>
+    <Text>\nAn old typewriter.{clear 0}I could save my progress \nif I had an {color 1}Ink Ribbon{color 0}.</Text>
+    <Text>\nAn old typewriter.{clear 0}You can save \nyour progress here.{clear 0}Will you use the {color 1}Ink \nRibbon{color 0}?{branch 0}</Text>
     <Text>\n</Text>
     <Text>\n{clear 0}\n{branch 0}</Text>
     <Text>\nThere's nothing more.</Text>
@@ -69,5 +71,4 @@
     <Text>left...</Text>
     <Text></Text>
     <Text></Text>
-	<Text>Yes{live}No</Text>
 </Strings>
