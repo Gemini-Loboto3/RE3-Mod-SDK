@@ -1,9 +1,21 @@
 <Strings>
-	<!-- mercs -->
-	<Text>BUY</Text>
+	<!-- mercs and results, limited set support -->
+	<Text> BUY</Text>
 	<Text>EXIT</Text>
 	<Text>[%dsec</Text>
-	<!-- HUD text -->
+	<Text>@%6d</Text>
+	<Text>EPILOGUE</Text>
+	<Text>Time</Text>
+	<Text>Number of saves</Text>
+	<Text>Number of save</Text>
+	<Text>Grade</Text>
+	<Text>CARLOS</Text>
+	<Text>MIKHAIL</Text>
+	<Text>NICHOLAI</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- HUD text, limited set support -->
 	<Text>Speed x%d</Text>
 	<Text>Retro mode %s</Text>
 	<Text>Fullscreen Mode</Text>
@@ -14,11 +26,23 @@
 	<Text>on</Text>
 	<Text>off</Text>
 	<Text>Life %3d      Ammo %3d      Boss %3d</Text>
-	<!-- quit screen -->
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- quit screen, full set support -->
 	<Text>QUIT GAME: F9</Text>
 	<Text>RESET GAME: F9</Text>
 	<Text>CANCEL: OTHER KEY</Text>
-	<!-- option screen -->
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- option screen, full set support -->
 	<Text>GAME RESET?</Text>
 	<Text>YES</Text>
 	<Text>NO</Text>
@@ -55,7 +79,11 @@
 	<Text>PC</Text>
 	<Text>FULLSCREEN</Text>
 	<Text>SUPERSAMPLING</Text>
-	<!-- pad options -->
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- pad options, full support -->
 	<Text>Option Screen</Text>
 	<Text>Status</Text>
 	<Text>Run/Cancel</Text>
@@ -74,4 +102,11 @@
 	<Text>Pause</Text>
 	<Text>Key</Text>
 	<Text>Pad</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
 </Strings>

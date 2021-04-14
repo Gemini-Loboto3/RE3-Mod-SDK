@@ -171,7 +171,7 @@ std::string DecodeStringEU(u8 *data, bool is_live)
 		switch (c)
 		{
 		case 0xea:	// upper ranges
-			if (*data + 0xea >= encode_eu.size())
+			if ((size_t)(*data + 0xea) >= encode_eu.size())
 				break;
 			else u8_wc_toutf8(temp, encode_eu[*data + 0xea]);
 			data++;
@@ -264,7 +264,7 @@ std::string DecodeString(u8* data)
 		switch (c)
 		{
 		case 0xea:	// upper ranges
-			if (*data + 0xea >= encode.size())
+			if ((size_t)(*data + 0xea) >= encode.size())
 				break;
 			else u8_wc_toutf8(temp, encode[*data + 0xea]);
 			data++;

@@ -1,9 +1,5 @@
 ﻿<Strings>
     <Text>{scroll 0}    Will you purchase this \n    item?{branch 1}</Text>
-    <Text>ns in RE3.</Text>
-    <Text>{scroll 0}    Will you purchase this \n    item?{branch 1}</Text>
-    <Text> in RE3.</Text>
-    <Text>{scroll 0}    Will you purchase this \n    item?{branch 1}</Text>
     <Text>{scroll 0}    An Assault Rifle with \n    infinite ammo for RE3.</Text>
     <Text>{scroll 0}    A Gatling Gun with\n    infinite ammo for RE3.</Text>
     <Text>{scroll 0}    A Rocket Launcher with\n    infinite ammo for RE3.</Text>

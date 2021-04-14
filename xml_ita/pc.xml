@@ -1,45 +1,21 @@
 ﻿<Strings>
-    <Text></Text>
-    <Text></Text>
-    <Text>‟AVVISO AL PERSONALE ＳＴＡＲＳ” </Text>
-    <Text>‟A causa dell'emergenza, la</Text>
-    <Text>chiave dell'ufficio STARS</Text>
-    <Text>è stata riposta nella sala </Text>
-    <Text>reperti.”</Text>
-    <Text></Text>
+    <Text>‟AVVISO AL PERSONALE ＳＴＡＲＳ”</Text>
+    <Text>‟A causa dell'emergenza, la chiave</Text>
+    <Text>dell'ufficio ＳＴＡＲＳ è stata riposta\nnella sala reperti.”</Text>
     <Text>‟La parola d'ordine odierna per la </Text>
     <Text>cassaforte è 0513”</Text>
     <Text>cassaforte è 0131”</Text>
     <Text>cassaforte è 4011”</Text>
     <Text>cassaforte è 4312”</Text>
-    <Text></Text>
-    <Text></Text>
     <Text>‟Sistema di sicurezza Umbrella”</Text>
-    <Text>‟Magazzino medico di prima </Text>
-    <Text>classe: autorizzazione di </Text>
-    <Text>sicurezza”</Text>
-    <Text></Text>
-    <Text></Text>
+    <Text>‟Magazzino medico di prima classe:\nautorizzazione di sicurezza”</Text>
     <Text>‟Stato attuale: chiuso”</Text>
-    <Text></Text>
-    <Text></Text>
     <Text>‟Parola d'ordine: accetata”</Text>
-    <Text></Text>
-    <Text></Text>
     <Text>‟Accesso alla stanza: approvato”</Text>
-    <Text></Text>
-    <Text>‟Disinserimento serrature. </Text>
-    <Text>Attendere...”</Text>
-    <Text></Text>
-    <Text></Text>
+    <Text>‟Disinserimento serrature. Attendere...”</Text>
     <Text>‟Stato attuale: aperto” </Text>
-    <Text></Text>
-    <Text>‟ERRORE... ERRORE... Parola </Text>
-    <Text>d'ordine errata.”</Text>
-    <Text></Text>
-    <Text>‟Reinserire la parola d'ordine </Text>
-    <Text>e premere INVIO.” </Text>
-    <Text></Text>
-    <Text></Text>
+    <Text>‟ERRORE... ERRORE...\nParola d'ordine errata.”</Text>
+    <Text>‟Reinserire la parola d'ordine</Text>
+	<Text>e premere INVIO.”</Text>
     <Text>‟Stato sistema: normale”</Text>
 </Strings>

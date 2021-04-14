@@ -3,7 +3,7 @@
     <Text>Coltello</Text>
     <Text>Pistola SIGPRO</Text>
     <Text>Pistola</Text>
-    <Text>Shotgun</Text>
+    <Text>Fucile</Text>
     <Text>Magnum</Text>
     <Text>Lanciagranate</Text>
     <Text>Lanciagranate</Text>
@@ -21,16 +21,16 @@
     <Text>Benelli M3S E</Text>
     <Text>Lanciamine E</Text>
     <Text>Proiet. pistola</Text>
-    <Text>Proiet. Magnum</Text>
-    <Text>Cart. shotgun</Text>
+    <Text>Proiet. magnum</Text>
+    <Text>Cart. fucile</Text>
     <Text>Granate</Text>
     <Text>Granate infiam.</Text>
     <Text>Granate acido</Text>
     <Text>Granate cong.</Text>
     <Text>Mine</Text>
     <Text>Cart. fucile</Text>
-    <Text>Proiet. Pist. E</Text>
-    <Text>Cart shotgun E</Text>
+    <Text>Proiet. pist. E</Text>
+    <Text>Cart. fucile E</Text>
     <Text>Spray medico</Text>
     <Text>Erbe verdi</Text>
     <Text>Erbe blu</Text>
@@ -41,7 +41,7 @@
     <Text>Erbe miste</Text>
     <Text>Erbe miste</Text>
     <Text>Erbe miste</Text>
-    <Text>Pronto soccor.</Text>
+    <Text>Pronto soccorso</Text>
     <Text>Manovella</Text>
     <Text>BOTU</Text>
     <Text>BOTU</Text>
@@ -70,24 +70,24 @@
     <Text>Gemma verde</Text>
     <Text>Gemma blu</Text>
     <Text>Sfera d'ambra</Text>
-    <Text>Sfera ossidiana</Text>
-    <Text>Sfera cristallo</Text>
+    <Text>Sfera di ossidiana</Text>
+    <Text>Sfera di cristallo</Text>
     <Text>BOTU</Text>
     <Text>BOTU</Text>
     <Text>BOTU</Text>
     <Text>Ingran. oro</Text>
-    <Text>Ingran. Arg.</Text>
-    <Text>Ingran. Chr.</Text>
-    <Text>Libro bronzo</Text>
+    <Text>Ingran. argento</Text>
+    <Text>Ingran. Chronos</Text>
+    <Text>Libro di bronzo</Text>
     <Text>Bussola bronzo</Text>
     <Text>Eccip. vaccino</Text>
-    <Text>Base Vaccino</Text>
+    <Text>Base vaccino</Text>
     <Text>BOTU</Text>
     <Text>BOTU</Text>
     <Text>Vaccino</Text>
     <Text>BOTU</Text>
     <Text>BOTU</Text>
-    <Text>Eccip. base</Text>
+    <Text>Eccipiente base</Text>
     <Text>EAGLE Parte A</Text>
     <Text>EAGLE Parte B</Text>
     <Text>M37 Parte A</Text>
@@ -109,12 +109,12 @@
     <Text>Pol. da sparo BBA</Text>
     <Text>Pol. da sparo BBB</Text>
     <Text>Pol. da sparo CCC</Text>
-    <Text>Proiettili Inf.</Text>
+    <Text>Proiettili infiniti</Text>
     <Text>Campione d'acqua</Text>
     <Text>Disco di sistema</Text>
     <Text>Dummy Key</Text>
     <Text>Grimaldello</Text>
-    <Text>Chiave Magaz.</Text>
+    <Text>Chiave magazzino</Text>
     <Text>Chiave inferm.</Text>
     <Text>Chiave embl.</Text>
     <Text>BOTU</Text>
@@ -178,17 +178,17 @@
     <Text>Chiave p. post</Text>
     <Text>BOTU</Text>
     <Text>Chiave ＳＴＡＲＳ</Text>
-    <Text>Accen. vuoto</Text>
+    <Text>Accendino vuoto</Text>
     <Text>Zaffiro</Text>
     <Text>Smeraldo</Text>
     <Text>Man. str. arr.</Text>
     <Text>BOTU</Text>
-    <Text>Chiave cimit.</Text>
+    <Text>Chiave cimitero</Text>
     <Text>BOTU</Text>
     <Text>BOTU</Text>
     <Text>Libro saggezza</Text>
     <Text>Bussola futuro</Text>
-    <Text>Man. quadrata</Text>
+    <Text>Manovella quadrata</Text>
     <Text>Chiave lunetta</Text>
     <Text>Chiave carica</Text>
     <Text>Chiave c. prin</Text>

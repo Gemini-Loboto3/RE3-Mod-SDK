@@ -8,10 +8,4 @@
     <Text>{scroll 0}    Non puoi permettertelo.</Text>
     <Text>{scroll 0}    ESAURITO</Text>
     <Text>{scroll 0} \n   </Text>
-    <Text>{scroll 0}Tempo</Text>
-    <Text>{scroll 0}Numero di salvataggi</Text>
-    <Text>{scroll 0}Grado</Text>
-    <Text>{scroll 0}COMPRA</Text>
-    <Text>{scroll 0}ESCI</Text>
-    <Text>{scroll 0}EPILOGO</Text>
 </Strings>
