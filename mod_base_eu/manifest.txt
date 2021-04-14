@@ -1,0 +1,7 @@
+[MOD]
+Name = Resident Evil 3 - Test mod
+Title = RESIDENT EVIL™ 3 NEMESIS
+Module = 
+SavePath = 
+ForceEng = 1
+ConfigAltFont = 1
