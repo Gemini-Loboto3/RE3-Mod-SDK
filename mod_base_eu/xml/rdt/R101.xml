@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}A forklift for moving \nvarious types of cargo.</Text>
+    <Text>{scroll 2}It's eerily silent\noutside of the window.</Text>
+    <Text>{scroll 2}Defective products have\nbeen placed here.</Text>
+    <Text>{scroll 2}The alarm has already been\nused.</Text>
+    <Text>{scroll 2}\nThere's nothing left here.</Text>
+    <Text>{scroll 2}The container is locked \nfrom inside.</Text>
+    <Text>{scroll 2}\nNothing useful.</Text>
+    <Text>{scroll 0}{scroll 1}{clear 6}{scroll 2}{snd 34}S{snd 34}e{snd 34}p{snd 34}t{snd 34}e{snd 34}m{snd 34}b{snd 34}e{snd 34}r{snd 36}{scroll 5}{s}{scroll 2}{snd 34}2{snd 34}8{snd 34}t{snd 34}h{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 2}{snd 34}D{snd 34}a{snd 34}y{snd 34}l{snd 34}i{snd 34}g{snd 34}h{snd 34}t{snd 34}.{snd 34}.{snd 34}.{snd 35}{scroll 5}{s}\n{snd 35}{s}\n{scroll 1}{timed 24}</Text>
+    <Text>{scroll 2}{snd 34}T{snd 34}h{snd 34}e{snd 36}{scroll 5}{s}{scroll 2}{snd 34}m{snd 34}o{snd 34}n{snd 34}s{snd 34}t{snd 34}e{snd 34}r{snd 34}s{snd 36}{scroll 5}{s}{scroll 2}{snd 34}h{snd 34}a{snd 34}v{snd 34}e{snd 35}{scroll 5}{s}\n{scroll 2}{snd 34}o{snd 34}v{snd 34}e{snd 34}r{snd 34}t{snd 34}a{snd 34}k{snd 34}e{snd 34}n{snd 36}{scroll 5}{s}{scroll 2}{snd 34}t{snd 34}h{snd 34}e{snd 36}{scroll 5}{s}{scroll 2}{snd 34}c{snd 34}i{snd 34}t{snd 34}y{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 2}\n{snd 34}S{snd 34}o{snd 34}m{snd 34}e{snd 34}h{snd 34}o{snd 34}w{snd 34}.{snd 34}.{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 2}\n{snd 34}I{snd 34}'{snd 34}m{snd 36}{scroll 5}{s}{scroll 2}{snd 34}s{snd 34}t{snd 34}i{snd 34}l{snd 34}l{snd 36}{scroll 5}{s}{scroll 2}{snd 34}a{snd 34}l{snd 34}i{snd 34}v{scroll 8}{snd 34}e{snd 34}.{snd 34}.{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}Ok!\nWe got to get out of here!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\nWhat!?{scroll 1}{clear 36}{scroll 0}What do you think you're\ntalking about?{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}I just lost my daughter\nout there!{scroll 1}{clear 84}{scroll 0}How dare you tell me\nto go back outside!{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}I'm sorry about your\ndaughter, but...{scroll 1}{clear 90}{scroll 0}There isn't gonna be any rescue.\nWe have to get out of here!{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}No!\nI'm not going anywhere!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}I'd rather starve to death\nin here...{scroll 1}{clear 96}{scroll 0}than be eaten by one of\nthose undead monsters!{scroll 1}{clear 66}{scroll 0}\nNow leave me alone!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 12}{scroll 0}\nI told you!{scroll 1}{clear 42}{scroll 0}\nI'm not leaving! Never!{scroll 1}{timed 85}</Text>
+</Strings>
