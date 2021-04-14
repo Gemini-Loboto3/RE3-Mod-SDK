@@ -1,0 +1,112 @@
+<Strings>
+	<!-- mercs and results, limited set support -->
+	<Text>COMPRA</Text>
+	<Text> ESCI</Text>
+	<Text>(%dsec</Text>
+	<Text>'%6d</Text>
+	<Text>EPILOGO</Text>
+	<Text>Tempo</Text>
+	<Text>Numero di salvataggi</Text>
+	<Text>Numero di salvataggi</Text>
+	<Text>Grado</Text>
+	<Text>CARLOS</Text>
+	<Text>MIKHAIL</Text>
+	<Text>NICHOLAI</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- HUD text, limited set support -->
+	<Text>Velocit` x%d</Text>
+	<Text>Modalit` retro %s</Text>
+	<Text>Tutto schermo</Text>
+	<Text>Risoluzione %dx%d</Text>
+	<Text>Prospettiva %s</Text>
+	<Text>Filtraggio %s</Text>
+	<Text>Cattura screenshot...</Text>
+	<Text>s{</Text>
+	<Text>no</Text>
+	<Text>Vita %3d      Arma %3d      Boss %3d</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- quit screen, full set support -->
+	<Text>TERMINA IL GIOCO: F9</Text>
+	<Text>RIAVVIA IL GIOCO: F9</Text>
+	<Text>RIPRENDI IL GIOCO: ALTRO TASTO</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- option screen, full set support -->
+	<Text>RIAVVIARE IL GIOCO?</Text>
+	<Text>SÌ</Text>
+	<Text>NO</Text>
+	<Text>VOLUME MUSICA</Text>
+	<Text>-</Text>
+	<Text>+</Text>
+	<Text>VOLUME EFFETTI</Text>
+	<Text>VOLUME VIDEO</Text>
+	<Text>/</Text>
+	<Text>MANUALE</Text>
+	<Text>AUTO</Text>
+	<Text>OPZIONI DI GIOCO</Text>
+	<Text>IMPOSTAZIONE CONTROLLI</Text>
+	<Text>A</Text>
+	<Text>B</Text>
+	<Text>C</Text>
+	<Text>TIPO</Text>
+	<Text>VIBRAZIONE</Text>
+	<Text>DISABILITA</Text>
+	<Text>ABILITA</Text>
+	<Text>IMPOSTAZIONI AUDIO</Text>
+	<Text>MONO</Text>
+	<Text>STEREO</Text>
+	<Text>IMPOSTAZIONI MONITOR</Text>
+	<Text>RIAVVIA</Text>
+	<Text>ESCI</Text>
+	<Text>IMPOSTAZIONI GRAFICHE</Text>
+	<Text>RISOLUZIONE DEL GIOCO</Text>
+	<Text>FILTRAGGIO</Text>
+	<Text>CORREZIONE DELLA PROSPETTIVA</Text>
+	<Text>MODALITÀ RETRO</Text>
+	<Text>RISOLUZIONE DEGLI SFONDI</Text>
+	<Text>ORIGINALE</Text>
+	<Text>MIGLIORATA</Text>
+	<Text>TUTTO SCHERMO</Text>
+	<Text>SOVRACAMPIONAMENTO</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- pad options, full support -->
+	<Text>Schermata opzioni</Text>
+	<Text>Status</Text>
+	<Text>Corri/Annulla</Text>
+	<Text>Spara/Conferma</Text>
+	<Text>Mappa</Text>
+	<Text>Mira (nemici)</Text>
+	<Text>Mira (tutto)</Text>
+	<Text>Cambia bersaglio</Text>
+	<Text>Ruota a destra</Text>
+	<Text>Ruota a sinistra</Text>
+	<Text>Indietro</Text>
+	<Text>Avanti</Text>
+	<Text>Esci</Text>
+	<Text>Conferma impostazioni</Text>
+	<Text>Ignora</Text>
+	<Text>Pausa</Text>
+	<Text>Tastiera</Text>
+	<Text>Pad</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+</Strings>

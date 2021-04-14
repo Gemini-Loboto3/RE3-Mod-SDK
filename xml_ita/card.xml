@@ -1,0 +1,26 @@
+<Strings>
+	<Text>Esci</Text>
+	<Text>Crea</Text>
+	<Text>Carica</Text>
+	<Text>Salva</Text>
+	<Text>Non caricare</Text>
+	<Text>Non salvare</Text>
+	<Text>Sovrascrivere?</Text>
+	<Text>Sì</Text>
+	<Text>No</Text>
+    <Text>Magazzino</Text>
+    <Text>Vicolo</Text>
+    <Text>Hall</Text>
+    <Text>Camera oscura</Text>
+    <Text>Centro commerciale</Text>
+    <Text>Cappella</Text>
+    <Text>Soggiorno</Text>
+    <Text>Parco</Text>
+    <Text>Ospedale</Text>
+    <Text>Cimitero</Text>
+    <Text>Sala d'attesa</Text>
+    <Text>Sala video</Text>
+    <Text>Parcheggio</Text>
+    <Text>Sala macchine</Text>
+    <Text>DEBUG</Text>
+</Strings>
