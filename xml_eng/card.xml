@@ -1,0 +1,26 @@
+<Strings>
+	<Text>Exit</Text>
+	<Text>Create</Text>
+	<Text>Load</Text>
+	<Text>Save</Text>
+	<Text>Do not load</Text>
+	<Text>Do not save</Text>
+	<Text>Overwrite?</Text>
+	<Text>Yes</Text>
+	<Text>No</Text>
+    <Text>Warehouse</Text>
+    <Text>Alley</Text>
+    <Text>Hall</Text>
+    <Text>Dark Room</Text>
+    <Text>Shopping District</Text>
+    <Text>Chapel</Text>
+    <Text>Living Room</Text>
+    <Text>Park</Text>
+    <Text>Hospital</Text>
+    <Text>Cemetary</Text>
+    <Text>Waiting Room</Text>
+    <Text>Monitor Room</Text>
+    <Text>Parking Lot</Text>
+    <Text>Machinery Room</Text>
+    <Text>DEBUG</Text>
+</Strings>
