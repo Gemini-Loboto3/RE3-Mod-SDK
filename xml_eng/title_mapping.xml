@@ -1,0 +1,47 @@
+<Mapping>
+	<!-- TITLE SCREEN -->
+	<!-- copyright -->
+	<Map x="60" y="217" w="226" h="8" u="0" v="120"/> <!-- regular -->
+	<Map x="58" y="217" w="204" h="8" u="0" v="0"/> <!-- gold edition -->
+	<!-- main selections -->
+	<Map x="8" y="193" w="64" h="13" u="0" v="104"/> <!-- original game -->
+	<Map x="88" y="193" w="64" h="13" u="64" v="104"/> <!-- arrange game -->
+	<Map x="158" y="193" w="64" h="13" u="128" v="104"/> <!-- load game -->
+	<Map x="231" y="193" w="64" h="13" u="192" v="144"/> <!-- special -->
+	<Map x="282" y="193" w="34" h="13" u="28" v="128"/> <!-- configuration -->
+	<!-- sub selections -->
+	<Map x="80" y="193" w="62" h="13" u="192" v="128"/> <!-- heavy mode -->
+	<Map x="180" y="193" w="56" h="13" u="128" v="128"/> <!-- light mode -->
+	<Map x="80" y="193" w="81" h="13" u="128" v="240"/> <!-- the mercenaries -->
+	<Map x="197" y="193" w="44" h="13" u="127" v="224"/> <!-- epilogue -->
+	<Map x="24" y="192" w="70" h="13" u="0" v="224"/> <!-- costume selection -->
+	<!-- numbered outfits -->
+	<Map x="112" y="192" w="46" h="13" u="0" v="192"/> <!-- special 1 -->
+	<Map x="160" y="192" w="46" h="13" u="64" v="192"/> <!-- special 2 -->
+	<Map x="208" y="192" w="46" h="13" u="128" v="192"/> <!-- special 3 -->
+	<Map x="256" y="192" w="46" h="13" u="192" v="192"/> <!-- special 4 -->
+	<Map x="112" y="204" w="46" h="13" u="0" v="204"/> <!-- special 5 -->
+	<Map x="160" y="204" w="46" h="13" u="64" v="204"/> <!-- special 6 -->
+	<Map x="208" y="204" w="46" h="13" u="128" v="204"/> <!-- special 7 -->
+	<Map x="256" y="204" w="46" h="13" u="192" v="204"/> <!-- normal -->
+	<!-- named outfits -->
+	<Map x="112" y="192" w="46" h="13" u="0" v="50"/> <!-- special 1 -->
+	<Map x="160" y="192" w="46" h="13" u="64" v="50"/> <!-- special 2 -->
+	<Map x="208" y="192" w="46" h="13" u="128" v="50"/> <!-- special 3 -->
+	<Map x="256" y="192" w="46" h="13" u="192" v="50"/> <!-- special 4 -->
+	<Map x="112" y="204" w="46" h="13" u="0" v="66"/> <!-- special 5 -->
+	<Map x="160" y="204" w="46" h="13" u="64" v="66"/> <!-- special 6 -->
+	<Map x="208" y="204" w="46" h="13" u="128" v="66"/> <!-- special 7 -->
+	<Map x="256" y="204" w="46" h="13" u="192" v="66"/> <!-- normal -->
+	<!-- mercs rewards -->
+	<Map x="64" y="192" w="84" h="14" u="0" v="11"/> <!-- infinite ammo -->
+	<Map x="200" y="192" w="14" h="14" u="128" v="11"/> <!-- ammo on -->
+	<Map x="230" y="192" w="20" h="14" u="192" v="11"/> <!-- ammo off -->
+	<Map x="64" y="204" w="84" h="14" u="0" v="27"/> <!-- special weapons -->
+	<Map x="200" y="204" w="14" h="14" u="128" v="11"/> <!-- weapons on -->
+	<Map x="230" y="204" w="20" h="14" u="192" v="11"/> <!-- weapons off -->
+	<!-- THE MERCENARIES -->
+	<Map x="133" y="140" w="54" h="13" u="0" v="144"/> <!-- game start -->
+	<Map x="143" y="158" w="34" h="13" u="64" v="144"/> <!-- results -->
+	<Map x="149" y="176" w="22" h="13" u="104" v="144"/> <!-- exit -->
+</Mapping>
