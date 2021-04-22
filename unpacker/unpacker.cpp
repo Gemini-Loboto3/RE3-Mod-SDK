@@ -183,6 +183,8 @@ void Extract_bin_text(const char* bin, u32 _ptr, int count, const char* xml_name
 
 int main()
 {
+	Extract_rofs("rofs2i.dat");
+
 	CBufferFile exe_i("I:\\RE3ITA\\ResidentEvil3.exe");
 	Extract_exe_text(exe_i.GetBuffer(), 0x119D98, 0x119400, 388 / 2, "xml_ita\\items_simple.xml");
 	Extract_exe_text(exe_i.GetBuffer(), 0x1192d0, 0x116cc8, 302 / 2, "xml_ita\\system.xml");

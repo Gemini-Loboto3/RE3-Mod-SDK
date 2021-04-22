@@ -366,3 +366,4 @@ MigrationBackup/
 /unpacker/up
 /unpacker/up ct
 *.dat
+/exediff/*.patch
