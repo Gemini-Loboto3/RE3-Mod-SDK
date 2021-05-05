@@ -19,8 +19,8 @@ public:
 
 	typedef struct tagFile
 	{
-		u32 offset;
-		size_t size;
+		u32 offset = 0;
+		size_t size = 0;
 		std::string name;
 	} FILE;
 

@@ -1,0 +1,612 @@
+﻿<BgmAttributes>
+    <Main>
+        <!-- MAIN00 -->
+        <Tracks>
+            <Track name="MAIN00" index="2" has_loop="1" l_start="750629" l_end="2884215"/>
+        </Tracks>
+        <!-- MAIN01 -->
+        <Tracks>
+            <Track name="MAIN01" index="0" has_loop="1" l_start="0" l_end="4069898"/>
+        </Tracks>
+        <!-- MAIN02 -->
+        <Tracks>
+            <Track name="MAIN02" index="0" has_loop="1" l_start="0" l_end="3261827"/>
+        </Tracks>
+        <!-- MAIN03 -->
+        <Tracks>
+            <Track name="MAIN03" index="0" has_loop="1" l_start="0" l_end="3261711"/>
+        </Tracks>
+        <!-- MAIN04 -->
+        <Tracks>
+            <Track name="MAIN04" index="0" has_loop="1" l_start="0" l_end="466362"/>
+        </Tracks>
+        <!-- MAIN05 -->
+        <Tracks>
+            <Track name="MAIN05" index="2" has_loop="1" l_start="56439" l_end="1038189"/>
+        </Tracks>
+        <!-- MAIN06 -->
+        <Tracks>
+            <Track name="MAIN06" index="0" has_loop="1" l_start="0" l_end="2064704"/>
+        </Tracks>
+        <!-- MAIN07 -->
+        <Tracks>
+            <Track name="MAIN07" index="0" has_loop="1" l_start="0" l_end="2103416"/>
+        </Tracks>
+        <!-- MAIN08 -->
+        <Tracks>
+            <Track name="MAIN08" index="0" has_loop="1" l_start="0" l_end="22112"/>
+        </Tracks>
+        <!-- MAIN09 -->
+        <Tracks>
+            <Track name="OTHER_00" index="1" has_loop="1" l_start="32229" l_end="1008384"/>
+            <Track name="OTHER_01" index="1" has_loop="1" l_start="9250" l_end="449466"/>
+        </Tracks>
+        <!-- MAIN0A -->
+        <Tracks>
+            <Track name="MAIN0A" index="0" has_loop="1" l_start="0" l_end="3540918"/>
+        </Tracks>
+        <!-- MAIN0B -->
+        <Tracks>
+            <Track name="MAIN0B" index="0" has_loop="1" l_start="661930" l_end="3307488"/>
+        </Tracks>
+        <!-- MAIN0C -->
+        <Tracks>
+            <Track name="MAIN0B" index="0" has_loop="1" l_start="661930" l_end="3307488"/>
+            <Track name="MAIN14" index="1" has_loop="1" l_start="2554" l_end="116295"/>
+        </Tracks>
+        <!-- MAIN0D -->
+        <Tracks>
+            <Track name="MAIN0D" index="1" has_loop="1" l_start="9694" l_end="450784"/>
+        </Tracks>
+        <!-- MAIN0E -->
+        <Tracks>
+            <Track name="MAIN0E" index="0" has_loop="1" l_start="662591" l_end="3309604"/>
+        </Tracks>
+        <!-- MAIN0F -->
+        <Tracks>
+            <Track name="MAIN0F_0" index="3" has_loop="1" l_start="439198" l_end="504389"/>
+        </Tracks>
+        <!-- MAIN10 -->
+        <Tracks>
+            <Track name="SBB_17" index="0" has_loop="1" l_start="0" l_end="1883488"/>
+        </Tracks>
+        <!-- MAIN11 -->
+        <Tracks>
+            <Track name="MAIN11" index="2" has_loop="1" l_start="45466" l_end="1038368"/>
+        </Tracks>
+        <!-- MAIN12 -->
+        <Tracks>
+            <Track name="MAIN05" index="2" has_loop="1" l_start="56439" l_end="1038189"/>
+        </Tracks>
+        <!-- MAIN13 -->
+        <Tracks>
+            <Track name="MAIN13" index="0" has_loop="1" l_start="0" l_end="1472320"/>
+        </Tracks>
+        <!-- MAIN14 -->
+        <Tracks>
+            <Track name="MAIN14" index="1" has_loop="1" l_start="2554" l_end="116295"/>
+        </Tracks>
+        <!-- MAIN15 -->
+        <Tracks>
+            <Track name="MAIN0D" index="1" has_loop="1" l_start="9694" l_end="450784"/>
+            <Track name="OTHER_02" index="1" has_loop="1" l_start="10896" l_end="153906"/>
+        </Tracks>
+        <!-- MAIN16 -->
+        <Tracks>
+            <Track name="MAIN16_0" index="1" has_loop="1" l_start="967" l_end="97121"/>
+            <Track name="MAIN16_1" index="1" has_loop="1" l_start="8473" l_end="101287"/>
+            <Track name="MAIN16_2" index="1" has_loop="1" l_start="8794" l_end="107023"/>
+        </Tracks>
+        <!-- MAIN17 -->
+        <Tracks>
+            <Track name="MAIN17" index="0" has_loop="1" l_start="587649" l_end="2940045"/>
+        </Tracks>
+        <!-- MAIN18 -->
+        <Tracks>
+            <Track name="MAIN18" index="0" has_loop="1" l_start="0" l_end="2383961"/>
+        </Tracks>
+        <!-- MAIN19 -->
+        <Tracks>
+            <Track name="MAIN19" index="0" has_loop="1" l_start="204610" l_end="3462219"/>
+        </Tracks>
+        <!-- MAIN1A -->
+        <Tracks>
+            <Track name="MAIN1A" index="0" has_loop="1" l_start="0" l_end="4209260"/>
+        </Tracks>
+        <!-- MAIN1B -->
+        <Tracks>
+            <Track name="MAIN1B" index="1" has_loop="1" l_start="0" l_end="1324288"/>
+        </Tracks>
+        <!-- MAIN1C -->
+        <Tracks>
+            <Track name="OTHER_00" index="1" has_loop="1" l_start="32229" l_end="1008384"/>
+            <Track name="OTHER_03" index="1" has_loop="1" l_start="3283" l_end="36566"/>
+        </Tracks>
+        <!-- MAIN1D -->
+        <Tracks>
+            <Track name="MAIN1D" index="0" has_loop="1" l_start="0" l_end="3237120"/>
+        </Tracks>
+        <!-- MAIN1E -->
+        <Tracks>
+            <Track name="OTHER_00" index="1" has_loop="1" l_start="32229" l_end="1008384"/>
+            <Track name="OTHER_01" index="1" has_loop="1" l_start="9250" l_end="449466"/>
+            <Track name="OTHER_03" index="1" has_loop="1" l_start="3283" l_end="36566"/>
+        </Tracks>
+        <!-- MAIN1F -->
+        <Tracks>
+            <Track name="OTHER_00" index="1" has_loop="1" l_start="32229" l_end="1008384"/>
+            <Track name="OTHER_01" index="1" has_loop="1" l_start="9250" l_end="449466"/>
+            <Track name="OTHER_03" index="1" has_loop="1" l_start="3283" l_end="36566"/>
+        </Tracks>
+        <!-- MAIN20 -->
+        <Tracks>
+            <Track name="MAIN20_0" index="1" has_loop="1" l_start="63658" l_end="1024630"/>
+            <Track name="MAIN20_1" index="1" has_loop="1" l_start="1401" l_end="58252"/>
+        </Tracks>
+        <!-- MAIN21 -->
+        <Tracks>
+            <Track name="MAIN21" index="2" has_loop="1" l_start="1387" l_end="57992"/>
+        </Tracks>
+        <!-- MAIN22 -->
+        <Tracks>
+            <Track name="OTHER_00" index="2" has_loop="1" l_start="32229" l_end="1008384"/>
+        </Tracks>
+        <!-- MAIN23 -->
+        <Tracks>
+            <Track name="MAIN23" index="2" has_loop="1" l_start="59205" l_end="737175"/>
+        </Tracks>
+        <!-- MAIN24 -->
+        <Tracks>
+            <Track name="MAIN24_0" index="1" has_loop="1" l_start="0" l_end="132444"/>
+            <Track name="MAIN24_1" index="1" has_loop="1" l_start="0" l_end="132442"/>
+        </Tracks>
+        <!-- MAIN25 -->
+        <Tracks>
+            <Track name="OTHER_01" index="2" has_loop="1" l_start="9250" l_end="449466"/>
+        </Tracks>
+        <!-- MAIN26 -->
+        <Tracks>
+            <Track name="OTHER_00" index="1" has_loop="1" l_start="32229" l_end="1008384"/>
+            <Track name="OTHER_03" index="1" has_loop="1" l_start="3283" l_end="36566"/>
+        </Tracks>
+        <!-- MAIN27 -->
+        <Tracks>
+            <Track name="OTHER_00" index="1" has_loop="1" l_start="32229" l_end="1008384"/>
+            <Track name="SBB_44" index="1" has_loop="1" l_start="2060" l_end="26833"/>
+        </Tracks>
+        <!-- MAIN28 -->
+        <Tracks>
+            <Track name="MAIN05" index="1" has_loop="1" l_start="56439" l_end="1038189"/>
+            <Track name="OTHER_04" index="1" has_loop="1" l_start="25744" l_end="1055618"/>
+        </Tracks>
+        <!-- MAIN29 -->
+        <Tracks>
+            <Track name="MAIN29" index="2" has_loop="1" l_start="0" l_end="0"/>
+        </Tracks>
+        <!-- MAIN2A -->
+        <Tracks>
+            <Track name="MAIN2A_0" index="1" has_loop="1" l_start="10885" l_end="2724155"/>
+            <Track name="MAIN2A_1" index="1" has_loop="1" l_start="7976" l_end="2644091"/>
+        </Tracks>
+        <!-- MAIN2B -->
+        <Tracks>
+            <Track name="MAIN2B_0" index="1" has_loop="1" l_start="3135" l_end="47310"/>
+            <Track name="MAIN2B_1" index="1" has_loop="1" l_start="8262" l_end="140454"/>
+        </Tracks>
+        <!-- MAIN2C -->
+        <Tracks>
+            <Track name="MAIN2C" index="0" has_loop="1" l_start="0" l_end="2589258"/>
+        </Tracks>
+        <!-- MAIN2D -->
+        <Tracks>
+            <Track name="MAIN2D" index="0" has_loop="1" l_start="0" l_end="2804436"/>
+        </Tracks>
+        <!-- MAIN2E -->
+        <Tracks>
+            <Track name="OTHER_01" index="2" has_loop="1" l_start="9250" l_end="449466"/>
+        </Tracks>
+        <!-- MAIN2F -->
+        <Tracks>
+            <Track name="OTHER_01" index="2" has_loop="1" l_start="9250" l_end="449466"/>
+        </Tracks>
+        <!-- MAIN30 -->
+        <Tracks>
+            <Track name="MAIN30_0" index="3" has_loop="1" l_start="158264" l_end="169373"/>
+        </Tracks>
+        <!-- MAIN31 -->
+        <Tracks>
+            <Track name="OTHER_00" index="2" has_loop="1" l_start="32229" l_end="1008384"/>
+        </Tracks>
+        <!-- MAIN32 -->
+        <Tracks>
+            <Track name="MAIN32" index="0" has_loop="1" l_start="0" l_end="941616"/>
+        </Tracks>
+        <!-- MAIN33 -->
+        <Tracks>
+            <Track name="MAIN33" index="0" has_loop="1" l_start="0" l_end="1454967"/>
+        </Tracks>
+        <!-- MAIN34 -->
+        <Tracks>
+            <Track name="MAIN34" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- MAIN35 -->
+        <Tracks>
+            <Track name="MAIN35" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- MAIN36 -->
+        <Tracks>
+            <Track name="MAIN36" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- MAIN37 -->
+        <Tracks>
+            <Track name="MAIN37" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- MAIN38 -->
+        <Tracks>
+            <Track name="MAIN38" index="0" has_loop="1" l_start="0" l_end="892212"/>
+        </Tracks>
+        <!-- MAIN39 -->
+        <Tracks>
+            <Track name="MAIN39" index="0" has_loop="1" l_start="0" l_end="1407053"/>
+        </Tracks>
+        <!-- MAIN3A -->
+        <Tracks>
+            <Track name="MAIN3A" index="0" has_loop="1" l_start="0" l_end="1843034"/>
+        </Tracks>
+        <!-- MAIN3B -->
+        <Tracks>
+            <Track name="MAIN3B" index="0" has_loop="1" l_start="301664" l_end="2651192"/>
+        </Tracks>
+        <!-- MAIN3C -->
+        <Tracks>
+            <Track name="MAIN3C" index="0" has_loop="1" l_start="0" l_end="939182"/>
+        </Tracks>
+        <!-- MAIN3D -->
+        <Tracks>
+            <Track name="MAIN3D" index="0" has_loop="1" l_start="0" l_end="883143"/>
+        </Tracks>
+        <!-- MAIN3E -->
+        <Tracks>
+            <Track name="MAIN3E" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- MAIN3F -->
+        <Tracks>
+            <Track name="MAIN3F" index="0" has_loop="0"/>
+        </Tracks>
+    </Main>
+    <SBgm0>
+        <!-- SBGM0_00 -->
+        <Tracks>
+            <Track name="SBB_00" index="0" has_loop="1" l_start="0" l_end="0"/>
+        </Tracks>
+        <!-- SBGM0_01 -->
+        <Tracks>
+            <Track name="SBB_02" index="0" has_loop="1" l_start="1365926" l_end="2731001"/>
+        </Tracks>
+        <!-- SBGM0_02 -->
+        <Tracks>
+            <Track name="SBB_03" index="0" has_loop="1" l_start="0" l_end="1008993"/>
+        </Tracks>
+        <!-- SBGM0_03 -->
+        <Tracks>
+            <Track name="SBB_05" index="0" has_loop="1" l_start="1802549" l_end="4446577"/>
+        </Tracks>
+        <!-- SBGM0_04 -->
+        <Tracks>
+            <Track name="MAIN0b" index="0" has_loop="1" l_start="661930" l_end="3307488"/>
+        </Tracks>
+        <!-- SBGM0_05 -->
+        <Tracks>
+            <Track name="MAIN04" index="0" has_loop="1" l_start="0" l_end="466362"/>
+        </Tracks>
+        <!-- SBGM0_06 -->
+        <Tracks>
+            <Track name="SBB_09" index="0" has_loop="1" l_start="474931" l_end="860797"/>
+        </Tracks>
+        <!-- SBGM0_07 -->
+        <Tracks/>
+        <!-- SBGM0_08 -->
+        <Tracks>
+            <Track name="OTHER_00" index="2" has_loop="1" l_start="32229" l_end="1008384"/>
+        </Tracks>
+        <!-- SBGM0_09 -->
+        <Tracks>
+            <Track name="OTHER_01" index="2" has_loop="1" l_start="9250" l_end="449466"/>
+        </Tracks>
+        <!-- SBGM0_0A -->
+        <Tracks>
+            <Track name="SBB_0E" index="0" has_loop="1" l_start="527759" l_end="1588177"/>
+        </Tracks>
+        <!-- SBGM0_0B -->
+        <Tracks>
+            <Track name="SBB_12" index="0" has_loop="1" l_start="0" l_end="441461"/>
+        </Tracks>
+        <!-- SBGM0_0C -->
+        <Tracks>
+            <Track name="MAIN14" index="1" has_loop="1" l_start="2554" l_end="116295"/>
+        </Tracks>
+        <!-- SBGM0_0D -->
+        <Tracks>
+            <Track name="MAIN04" index="0" has_loop="1" l_start="0" l_end="466362"/>
+        </Tracks>
+        <!-- SBGM0_0E -->
+        <Tracks>
+            <Track name="SBB_17" index="0" has_loop="1" l_start="0" l_end="1883488"/>
+        </Tracks>
+        <!-- SBGM0_0F -->
+        <Tracks>
+            <Track name="SBB_3F" index="0" has_loop="1" l_start="482476" l_end="1422373"/>
+        </Tracks>
+        <!-- SBGM0_10 -->
+        <Tracks>
+            <Track name="SBB_1B" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- SBGM0_11 -->
+        <Tracks>
+            <Track name="SBB_1C" index="0" has_loop="1" l_start="677936" l_end="1126266"/>
+        </Tracks>
+        <!-- SBGM0_12 -->
+        <Tracks>
+            <Track name="SBB_33" index="0" has_loop="1" l_start="307712" l_end="1842344"/>
+        </Tracks>
+        <!-- SBGM0_13 -->
+        <Tracks>
+            <Track name="SBB_27" index="2" has_loop="1" l_start="7900" l_end="203030"/>
+        </Tracks>
+        <!-- SBGM0_14 -->
+        <Tracks>
+            <Track name="SBB_20" index="4" has_loop="1" l_start="0" l_end="0"/>
+        </Tracks>
+        <!-- SBGM0_15 -->
+        <Tracks>
+            <Track name="OTHER_00" index="1" has_loop="1" l_start="32229" l_end="1008384"/>
+        </Tracks>
+        <!-- SBGM0_16 -->
+        <Tracks>
+            <Track name="MAIN01" index="0" has_loop="1" l_start="0" l_end="4069898"/>
+        </Tracks>
+        <!-- SBGM0_17 -->
+        <Tracks>
+            <Track name="SBB_23" index="0" has_loop="1" l_start="0" l_end="605961"/>
+        </Tracks>
+        <!-- SBGM0_18 -->
+        <Tracks>
+            <Track name="SBB_25" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- SBGM0_19 -->
+        <Tracks>
+            <Track name="MAIN23" index="2" has_loop="1" l_start="59205" l_end="737175"/>
+        </Tracks>
+        <!-- SBGM0_1A -->
+        <Tracks>
+            <Track name="SBB_00" index="0" has_loop="1" l_start="0" l_end="0"/>
+        </Tracks>
+        <!-- SBGM0_1B -->
+        <Tracks>
+            <Track name="SBB_2A" index="0" has_loop="1" l_start="602530" l_end="1543488"/>
+        </Tracks>
+        <!-- SBGM0_1C -->
+        <Tracks>
+            <Track name="SBB_44" index="1" has_loop="1" l_start="2060" l_end="26833"/>
+        </Tracks>
+        <!-- SBGM0_1D -->
+        <Tracks>
+            <Track name="SBB_1E_0" index="1" has_loop="1" l_start="574" l_end="24192"/>
+            <Track name="SBB_1E_1" index="1" has_loop="1" l_start="57" l_end="101191"/>
+        </Tracks>
+        <!-- SBGM0_1E -->
+        <Tracks>
+            <Track name="SBB_2E_0" index="1" has_loop="1" l_start="0" l_end="1012220"/>
+            <Track name="SBB_2E_1" index="1" has_loop="1" l_start="0" l_end="1093032"/>
+        </Tracks>
+        <!-- SBGM0_1F -->
+        <Tracks>
+            <Track name="SBB_1A" index="0" has_loop="1" l_start="336901" l_end="1682267"/>
+        </Tracks>
+        <!-- SBGM0_20 -->
+        <Tracks>
+            <Track name="SBB_30" index="0" has_loop="1" l_start="354464" l_end="1061873"/>
+        </Tracks>
+        <!-- SBGM0_21 -->
+        <Tracks>
+            <Track name="SBB_44" index="1" has_loop="1" l_start="2060" l_end="26833"/>
+        </Tracks>
+        <!-- SBGM0_22 -->
+        <Tracks>
+            <Track name="SBB_36" index="2" has_loop="1" l_start="10385" l_end="234192"/>
+        </Tracks>
+        <!-- SBGM0_23 -->
+        <Tracks>
+            <Track name="SBB_3D" index="2" has_loop="1" l_start="105482" l_end="134820"/>
+        </Tracks>
+        <!-- SBGM0_24 -->
+        <Tracks>
+            <Track name="SBB_31" index="0" has_loop="1" l_start="0" l_end="2354651"/>
+        </Tracks>
+        <!-- SBGM0_25 -->
+        <Tracks>
+            <Track name="SBB_39" index="0" has_loop="1" l_start="471628" l_end="1503040"/>
+        </Tracks>
+        <!-- SBGM0_26 -->
+        <Tracks>
+            <Track name="SBB_35" index="0" has_loop="1" l_start="0" l_end="1343569"/>
+        </Tracks>
+        <!-- SBGM0_27 -->
+        <Tracks>
+            <Track name="SBB_3B" index="3" has_loop="1" l_start="1675177" l_end="4144756"/>
+        </Tracks>
+        <!-- SBGM0_28 -->
+        <Tracks>
+            <Track name="MAIN14" index="1" has_loop="1" l_start="2554" l_end="116295"/>
+        </Tracks>
+        <!-- SBGM0_29 -->
+        <Tracks>
+            <Track name="OTHER_01" index="1" has_loop="1" l_start="9250" l_end="449466"/>
+        </Tracks>
+        <!-- SBGM0_2A -->
+        <Tracks>
+            <Track name="SBB_41" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- SBGM0_2B -->
+        <Tracks>
+            <Track name="SBB_10" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- SBGM0_2C -->
+        <Tracks>
+            <Track name="OTHER_03" index="2" has_loop="1" l_start="3283" l_end="36566"/>
+        </Tracks>
+    </SBgm0>
+    <SBgm1>
+        <!-- SBGM1_00 -->
+        <Tracks>
+            <Track name="SBB_01" index="0" has_loop="1" l_start="9876" l_end="856512"/>
+        </Tracks>
+        <!-- SBGM1_01 -->
+        <Tracks/>
+        <!-- SBGM1_02 -->
+        <Tracks>
+            <Track name="MAIN21" index="2" has_loop="1" l_start="1387" l_end="57992"/>
+        </Tracks>
+        <!-- SBGM1_03 -->
+        <Tracks>
+            <Track name="SBB_06_0" index="1" has_loop="0"/>
+            <Track name="SBB_06_1" index="1" has_loop="1" l_start="0" l_end="2402812"/>
+        </Tracks>
+        <!-- SBGM1_04 -->
+        <Tracks/>
+        <!-- SBGM1_05 -->
+        <Tracks/>
+        <!-- SBGM1_06 -->
+        <Tracks>
+            <Track name="SBB_0A" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- SBGM1_07 -->
+        <Tracks>
+            <Track name="SBB_0C" index="0" has_loop="1" l_start="0" l_end="826312"/>
+        </Tracks>
+        <!-- SBGM1_08 -->
+        <Tracks/>
+        <!-- SBGM1_09 -->
+        <Tracks>
+            <Track name="MAIN04" index="0" has_loop="1" l_start="0" l_end="466362"/>
+        </Tracks>
+        <!-- SBGM1_0A -->
+        <Tracks>
+            <Track name="SBB_0F" index="0" has_loop="1" l_start="0" l_end="941275"/>
+        </Tracks>
+        <!-- SBGM1_0B -->
+        <Tracks/>
+        <!-- SBGM1_0C -->
+        <Tracks>
+            <Track name="SBB_01" index="0" has_loop="1" l_start="9876" l_end="856512"/>
+        </Tracks>
+        <!-- SBGM1_0D -->
+        <Tracks>
+            <Track name="SBB_16" index="0" has_loop="1" l_start="22613" l_end="157605"/>
+        </Tracks>
+        <!-- SBGM1_0E -->
+        <Tracks>
+            <Track name="SBB_18" index="0" has_loop="1" l_start="0" l_end="1421270"/>
+        </Tracks>
+        <!-- SBGM1_0F -->
+        <Tracks>
+            <Track name="SBB_40" index="0" has_loop="1" l_start="12141" l_end="1302000"/>
+        </Tracks>
+        <!-- SBGM1_10 -->
+        <Tracks/>
+        <!-- SBGM1_11 -->
+        <Tracks>
+            <Track name="SBB_1D" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- SBGM1_12 -->
+        <Tracks>
+            <Track name="SBB_3A" index="0" has_loop="1" l_start="75317" l_end="372472"/>
+        </Tracks>
+        <!-- SBGM1_13 -->
+        <Tracks>
+            <Track name="SBB_11" index="2" has_loop="1" l_start="322" l_end="19767"/>
+        </Tracks>
+        <!-- SBGM1_14 -->
+        <Tracks/>
+        <!-- SBGM1_15 -->
+        <Tracks/>
+        <!-- SBGM1_16 -->
+        <Tracks/>
+        <!-- SBGM1_17 -->
+        <Tracks>
+            <Track name="SBB_24" index="0" has_loop="1" l_start="214263" l_end="1883823"/>
+        </Tracks>
+        <!-- SBGM1_18 -->
+        <Tracks/>
+        <!-- SBGM1_19 -->
+        <Tracks/>
+        <!-- SBGM1_1A -->
+        <Tracks>
+            <Track name="SBB_29" index="0" has_loop="1" l_start="9507" l_end="1279097"/>
+        </Tracks>
+        <!-- SBGM1_1B -->
+        <Tracks>
+            <Track name="SBB_2B" index="0" has_loop="1" l_start="477352" l_end="1765121"/>
+        </Tracks>
+        <!-- SBGM1_1C -->
+        <Tracks>
+            <Track name="SBB_01" index="0" has_loop="1" l_start="9876" l_end="856512"/>
+        </Tracks>
+        <!-- SBGM1_1D -->
+        <Tracks>
+            <Track name="SBB_1F" index="1" has_loop="1" l_start="424" l_end="11437"/>
+        </Tracks>
+        <!-- SBGM1_1E -->
+        <Tracks>
+            <Track name="SBB_2F" index="1" has_loop="1" l_start="6872" l_end="64888"/>
+        </Tracks>
+        <!-- SBGM1_1F -->
+        <Tracks/>
+        <!-- SBGM1_20 -->
+        <Tracks/>
+        <!-- SBGM1_21 -->
+        <Tracks>
+            <Track name="SBB_29" index="0" has_loop="1" l_start="9507" l_end="1279097"/>
+        </Tracks>
+        <!-- SBGM1_22 -->
+        <Tracks/>
+        <!-- SBGM1_23 -->
+        <Tracks>
+            <Track name="SBB_3E" index="1" has_loop="1" l_start="2141" l_end="31479"/>
+        </Tracks>
+        <!-- SBGM1_24 -->
+        <Tracks>
+            <Track name="SBB_38_1" index="5" has_loop="1" l_start="213552" l_end="315090"/>
+            <Track name="SBB_38_0" index="5" has_loop="0"/>
+            <Track name="SBB_38_2" index="5" has_loop="0"/>
+        </Tracks>
+        <!-- SBGM1_25 -->
+        <Tracks>
+            <Track name="SBB_37" index="0" has_loop="1" l_start="8836" l_end="2701711"/>
+        </Tracks>
+        <!-- SBGM1_26 -->
+        <Tracks>
+            <Track name="SBB_34" index="0" has_loop="1" l_start="0" l_end="2462932"/>
+        </Tracks>
+        <!-- SBGM1_27 -->
+        <Tracks>
+            <Track name="SBB_3C" index="0" has_loop="1" l_start="0" l_end="1209127"/>
+        </Tracks>
+        <!-- SBGM1_28 -->
+        <Tracks/>
+        <!-- SBGM1_29 -->
+        <Tracks/>
+        <!-- SBGM1_2A -->
+        <Tracks>
+            <Track name="SBB_42" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- SBGM1_2B -->
+        <Tracks>
+            <Track name="SBB_19" index="0" has_loop="0"/>
+        </Tracks>
+        <!-- SBGM1_2C -->
+        <Tracks>
+            <Track name="SBB_44" index="2" has_loop="1" l_start="2060" l_end="26833"/>
+        </Tracks>
+    </SBgm1>
+</BgmAttributes>

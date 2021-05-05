@@ -161,6 +161,7 @@
     <ClInclude Include="FileHandle.h" />
     <ClInclude Include="lodepng.h" />
     <ClInclude Include="memstream.h" />
+    <ClInclude Include="p-exe.hpp" />
     <ClInclude Include="Rofs.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />

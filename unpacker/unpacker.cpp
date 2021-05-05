@@ -5,6 +5,7 @@
 #include "Rofs.h"
 #include "FileHandle.h"
 #include "tinyxml2.h"
+#include "p-exe.hpp"
 
 //std::string DecodeString(u8* data, u8** last = nullptr);
 std::string DecodeString(u8* data);
@@ -181,8 +182,109 @@ void Extract_bin_text(const char* bin, u32 _ptr, int count, const char* xml_name
 	Extract_exe_text(bin_d.GetBuffer(), _ptr, 0, count, xml_name);
 }
 
+__inline LPCSTR SAFE_STR(BYTE* str, const char *ptr, DWORD base)
+{
+	if (ptr == 0)
+		return nullptr;
+
+	return (LPCSTR)&str[(DWORD)ptr - base];
+}
+
+struct MUSIC_DATA
+{
+	char* name;
+	__int16 field_4;
+	__int16 flag;
+	int loop_start;
+	int loop_end;
+};
+
+XMLElement* TrackToXml(XMLDocument &xml, BYTE *data, DWORD base, MUSIC_DATA *d)
+{
+	static MUSIC_DATA dummy = { 0 };
+	if (memcmp(&dummy, d, sizeof(dummy))==0)
+		return nullptr;
+	auto name = SAFE_STR(data, d->name, base);
+	if (name == nullptr || name[0] == '\0')
+		return nullptr;
+
+	XMLElement* bb = xml.NewElement("Track");
+	bb->SetAttribute("name", name);
+	bb->SetAttribute("index", d->field_4);
+	bb->SetAttribute("has_loop", d->flag);
+	if (d->flag)
+	{
+		bb->SetAttribute("l_start", d->loop_start);
+		bb->SetAttribute("l_end", d->loop_end);
+	}
+
+	return bb;
+}
+
+void Extract_music_data(BYTE *data, DWORD base)
+{
+	MUSIC_DATA *m = (MUSIC_DATA*)(&data[0x518AE0 - base]);
+	XMLDocument xml;
+	xml.SetBOM(true);
+	XMLElement* bgm = xml.NewElement("BgmAttributes");
+
+	char comm[32];
+
+	XMLElement* main = xml.NewElement("Main");
+	// main
+	for (int i = 0; i < 192; i += 3)
+	{
+		XMLElement* track = xml.NewElement("Tracks");
+		sprintf_s(comm, sizeof(comm), " MAIN%02X ", i / 3);
+		auto c = xml.NewComment(comm);
+		main->InsertEndChild(c);
+		auto b0 = TrackToXml(xml, data, base, m++); if(b0) track->InsertEndChild(b0);
+		auto b1 = TrackToXml(xml, data, base, m++); if(b1) track->InsertEndChild(b1);
+		auto b2 = TrackToXml(xml, data, base, m++); if(b2) track->InsertEndChild(b2);
+		main->InsertEndChild(track);
+	}
+	bgm->InsertEndChild(main);
+
+	// sub0
+	XMLElement* sbgm0 = xml.NewElement("SBgm0");
+	for (int i = 0; i < 135; i += 3)
+	{
+		XMLElement* track = xml.NewElement("Tracks");
+		sprintf_s(comm, sizeof(comm), " SBGM0_%02X ", i / 3);
+		auto c = xml.NewComment(comm);
+		sbgm0->InsertEndChild(c);
+		auto b0 = TrackToXml(xml, data, base, m++); if (b0) track->InsertEndChild(b0);
+		auto b1 = TrackToXml(xml, data, base, m++); if (b1) track->InsertEndChild(b1);
+		auto b2 = TrackToXml(xml, data, base, m++); if (b2) track->InsertEndChild(b2);
+		sbgm0->InsertEndChild(track);
+	}
+	bgm->InsertEndChild(sbgm0);
+
+	// sub1
+	XMLElement* sbgm1 = xml.NewElement("SBgm1");
+	for (int i = 0; i < 135; i += 3)
+	{
+		XMLElement* track = xml.NewElement("Tracks");
+		sprintf_s(comm, sizeof(comm), " SBGM1_%02X ", i / 3);
+		auto c = xml.NewComment(comm);
+		sbgm1->InsertEndChild(c);
+		auto b0 = TrackToXml(xml, data, base, m++); if (b0) track->InsertEndChild(b0);
+		auto b1 = TrackToXml(xml, data, base, m++); if (b1) track->InsertEndChild(b1);
+		auto b2 = TrackToXml(xml, data, base, m++); if (b2) track->InsertEndChild(b2);
+		sbgm1->InsertEndChild(track);
+	}
+	bgm->InsertEndChild(sbgm1);
+
+	xml.InsertEndChild(bgm);
+	xml.SaveFile("bgm_attr.xml");
+}
+
 int main()
 {
+	PExe sn_exe;
+	sn_exe.Open("D:\\Program Files\\Biohazard 3 PC\\BIOHAZARD(R) 3 PC.exe");
+	Extract_music_data(&sn_exe.data[0], sn_exe.data_addr);
+
 	Extract_rofs("rofs2i.dat");
 
 	CBufferFile exe_i("I:\\RE3ITA\\ResidentEvil3.exe");
