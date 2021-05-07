@@ -279,11 +279,65 @@ void Extract_music_data(BYTE *data, DWORD base)
 	xml.SaveFile("bgm_attr.xml");
 }
 
+struct ST_MAP
+{
+	__int16 u0;
+	__int16 v0;
+	__int16 w;
+	__int16 h;
+	short x, y;
+};
+
+void Extract_st_mapping(PExe& exe)
+{
+	struct map
+	{
+		DWORD ptr;
+		int count;
+	};
+
+	static map maps[] =
+	{
+		0x533758, 2,	0x533770, 1,	0x533780, 1,	0x533790, 1,	0x5337A0, 5,	0x5337E0, 7,	0x533838, 7,	0x533890, 3,
+		0x5338B8, 34,	0x533A54, 1,	0x533A60, 1,	0x533A70, 1,	0x533A80, 1,	0x533A98, 1,	0x533AB0, 1,	0x533AC0, 4,
+		0x533AF0, 4,	0x533B20, 1,	0x533B30, 1,	0x533B40, 1,	0x533B50, 1,	0x533B60, 8,	0x533BC0, 8,	0x533C20, 8,
+		0x533C80, 8,	0x533CE0, 2,	0x533CF8, 2,	0x533D10, 2,	0x533D28, 2,	0x533D40, 2,	0x533D58, 2,	0x533D70, 2,
+		0x533D88, 2,	0x533DA0, 2,	0x533DB8, 2,	0x533DD0, 2,	0x533DE8, 2,	0x533E00, 2,	0x533E18, 2,	0x533E30, 1,
+		0x533E40, 1,	0x533E50, 1,	0x533E60, 1,	0x533E70, 1,	0x533E80, 1,	0x533E90, 1,	0x533EA0, 1,	0x533EB0, 1,
+		0x533EC0, 1,	0x533ED0, 1,	0x533EE0, 1,	0x533EF0, 1,	0x533F00, 3,	0x533F28, 1,	0x533F38, 1,	0x533F48, 6
+	};
+
+	XMLDocument xml;
+
+	auto mp = xml.NewElement("Mapping");
+	for (int i = 0; i < _countof(maps); i++)
+	{
+		auto mpm = xml.NewElement("Map");
+		mpm->SetAttribute("ptr", (int)maps[i].ptr);
+		ST_MAP* m = (ST_MAP*)&exe.data[maps[i].ptr - exe.data_addr];
+		for (int j = 0; j < maps[i].count; j++, m++)
+		{
+			auto e = xml.NewElement("Entry");
+			e->SetAttribute("x", m->x);
+			e->SetAttribute("y", m->y);
+			e->SetAttribute("w", m->w);
+			e->SetAttribute("h", m->h);
+			e->SetAttribute("u", m->u0);
+			e->SetAttribute("v", m->v0);
+			mpm->InsertEndChild(e);
+		}
+		mp->InsertEndChild(mpm);
+	}
+	xml.InsertEndChild(mp);
+	xml.SaveFile("xml_eng\\st_mapping.xml");
+}
+
 int main()
 {
 	PExe sn_exe;
 	sn_exe.Open("D:\\Program Files\\Biohazard 3 PC\\BIOHAZARD(R) 3 PC.exe");
-	Extract_music_data(&sn_exe.data[0], sn_exe.data_addr);
+	Extract_st_mapping(sn_exe);
+	//Extract_music_data(&sn_exe.data[0], sn_exe.data_addr);
 
 	Extract_rofs("rofs2i.dat");
 
